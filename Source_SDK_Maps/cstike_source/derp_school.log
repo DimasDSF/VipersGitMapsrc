@@ -1,0 +1,1583 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_counterterrorist (1178.44 425.64 65.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 5152.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 5152.0 -8.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 5664.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 6144.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 5632.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 4608.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 4608.0 -8.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 4608.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (17570 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 38
+Reduced 14 texdatas to 14 (449 bytes to 449)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_counterterrorist (1178.44 425.64 65.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 5152.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 5152.0 -8.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 5664.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 6144.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 5632.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 4608.0 552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0 4608.0 -8.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 4608.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17570 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 38
+Reduced 14 texdatas to 14 (449 bytes to 449)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19701 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 49 texinfos to 40
+Reduced 16 texdatas to 16 (485 bytes to 485)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22916 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 52 texinfos to 44
+Reduced 17 texdatas to 17 (525 bytes to 525)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25880 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 50
+Reduced 18 texdatas to 18 (544 bytes to 544)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25880 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 50
+Reduced 18 texdatas to 18 (544 bytes to 544)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25880 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 50
+Reduced 18 texdatas to 18 (544 bytes to 544)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25880 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 50
+Reduced 18 texdatas to 18 (544 bytes to 544)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25320 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 47
+Reduced 18 texdatas to 18 (544 bytes to 544)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25320 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 47
+Reduced 18 texdatas to 18 (544 bytes to 544)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25320 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 47
+Reduced 18 texdatas to 18 (544 bytes to 544)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (52864 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 73 texinfos to 60
+Reduced 22 texdatas to 20 (714 bytes to 631)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (66491 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 162 texinfos to 108
+Reduced 23 texdatas to 21 (739 bytes to 656)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (66491 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 164 texinfos to 107
+Reduced 23 texdatas to 21 (739 bytes to 656)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (68159 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 177 texinfos to 114
+Reduced 23 texdatas to 21 (739 bytes to 656)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (68159 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 177 texinfos to 114
+Reduced 23 texdatas to 21 (739 bytes to 656)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (77400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 190 texinfos to 126
+Reduced 25 texdatas to 23 (818 bytes to 735)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (87583 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 221 texinfos to 146
+Reduced 29 texdatas to 27 (915 bytes to 832)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4374 faces
+4962654 square feet [714622272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1631 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  21/1024         1008/49152    ( 2.1%) 
+brushes                240/8192         2880/98304    ( 2.9%) 
+brushsides            1443/65536       11544/524288   ( 2.2%) 
+planes                 914/65536       18280/1310720  ( 1.4%) 
+vertexes              5558/65536       66696/786432   ( 8.5%) 
+nodes                 1718/65536       54976/2097152  ( 2.6%) 
+texinfos               146/12288       10512/884736   ( 1.2%) 
+texdata                 27/2048          864/65536    ( 1.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4374/65536      244944/3670016  ( 6.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              751/65536       42056/3670016  ( 1.1%) 
+leaves                1740/65536       55680/2097152  ( 2.7%) 
+leaffaces             4858/65536        9716/131072   ( 7.4%) 
+leafbrushes           1245/65536        2490/131072   ( 1.9%) 
+areas                   33/256           264/2048     (12.9%) 
+surfedges            22376/512000      89504/2048000  ( 4.4%) 
+edges                11967/256000      47868/1024000  ( 4.7%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            234/32768        2340/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3210/65536        6420/131072   ( 4.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    15111512/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11704/393216   ( 3.0%) 
+LDR ambient table     1740/65536        6960/262144   ( 2.7%) 
+HDR ambient table     1740/65536        6960/262144   ( 2.7%) 
+LDR leaf ambient      7668/65536      214704/1835008  (11.7%) 
+HDR leaf ambient      1740/65536       48720/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]       87583/4194304  ( 2.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10624
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 27 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (83839 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 225 texinfos to 146
+Reduced 31 texdatas to 29 (977 bytes to 894)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4012 faces
+4910377 square feet [707094336.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1368 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  21/1024         1008/49152    ( 2.1%) 
+brushes                231/8192         2772/98304    ( 2.8%) 
+brushsides            1389/65536       11112/524288   ( 2.1%) 
+planes                 870/65536       17400/1310720  ( 1.3%) 
+vertexes              5199/65536       62388/786432   ( 7.9%) 
+nodes                 1581/65536       50592/2097152  ( 2.4%) 
+texinfos               146/12288       10512/884736   ( 1.2%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4012/65536      224672/3670016  ( 6.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              694/65536       38864/3670016  ( 1.1%) 
+leaves                1603/65536       51296/2097152  ( 2.4%) 
+leaffaces             4405/65536        8810/131072   ( 6.7%) 
+leafbrushes           1186/65536        2372/131072   ( 1.8%) 
+areas                   33/256           264/2048     (12.9%) 
+surfedges            20416/512000      81664/2048000  ( 4.0%) 
+edges                10831/256000      43324/1024000  ( 4.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            171/32768        1710/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2355/65536        4710/131072   ( 3.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    13420272/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11703/393216   ( 3.0%) 
+LDR ambient table     1603/65536        6412/262144   ( 2.4%) 
+HDR ambient table     1603/65536        6412/262144   ( 2.4%) 
+LDR leaf ambient      6724/65536      188272/1835008  (10.3%) 
+HDR leaf ambient      1603/65536       44884/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]       83839/4194304  ( 2.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9616
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (102447 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 176
+Reduced 34 texdatas to 32 (1097 bytes to 1014)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4431 faces
+4938243 square feet [711107072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+13 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1848 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  21/1024         1008/49152    ( 2.1%) 
+brushes                285/8192         3420/98304    ( 3.5%) 
+brushsides            1715/65536       13720/524288   ( 2.6%) 
+planes                 990/65536       19800/1310720  ( 1.5%) 
+vertexes              5826/65536       69912/786432   ( 8.9%) 
+nodes                 1776/65536       56832/2097152  ( 2.7%) 
+texinfos               176/12288       12672/884736   ( 1.4%) 
+texdata                 32/2048         1024/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4431/65536      248136/3670016  ( 6.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              840/65536       47040/3670016  ( 1.3%) 
+leaves                1798/65536       57536/2097152  ( 2.7%) 
+leaffaces             4877/65536        9754/131072   ( 7.4%) 
+leafbrushes           1352/65536        2704/131072   ( 2.1%) 
+areas                   33/256           264/2048     (12.9%) 
+surfedges            22970/512000      91880/2048000  ( 4.5%) 
+edges                12282/256000      49128/1024000  ( 4.8%) 
+LDR worldlights         13/8192         1144/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            205/32768        2050/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2850/65536        5700/131072   ( 4.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    13542964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       14481/393216   ( 3.7%) 
+LDR ambient table     1798/65536        7192/262144   ( 2.7%) 
+HDR ambient table     1798/65536        7192/262144   ( 2.7%) 
+LDR leaf ambient      7668/65536      214704/1835008  (11.7%) 
+HDR leaf ambient      1798/65536       50344/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]      102447/4194304  ( 2.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10748
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 18 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (102447 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 176
+Reduced 34 texdatas to 32 (1097 bytes to 1014)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4431 faces
+4938243 square feet [711107072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+13 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1404 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  21/1024         1008/49152    ( 2.1%) 
+brushes                285/8192         3420/98304    ( 3.5%) 
+brushsides            1715/65536       13720/524288   ( 2.6%) 
+planes                 990/65536       19800/1310720  ( 1.5%) 
+vertexes              5826/65536       69912/786432   ( 8.9%) 
+nodes                 1776/65536       56832/2097152  ( 2.7%) 
+texinfos               176/12288       12672/884736   ( 1.4%) 
+texdata                 32/2048         1024/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4431/65536      248136/3670016  ( 6.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              840/65536       47040/3670016  ( 1.3%) 
+leaves                1798/65536       57536/2097152  ( 2.7%) 
+leaffaces             4877/65536        9754/131072   ( 7.4%) 
+leafbrushes           1352/65536        2704/131072   ( 2.1%) 
+areas                   33/256           264/2048     (12.9%) 
+surfedges            22970/512000      91880/2048000  ( 4.5%) 
+edges                12282/256000      49128/1024000  ( 4.8%) 
+LDR worldlights         13/8192         1144/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            205/32768        2050/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2850/65536        5700/131072   ( 4.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    13542964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       14481/393216   ( 3.7%) 
+LDR ambient table     1798/65536        7192/262144   ( 2.7%) 
+HDR ambient table     1798/65536        7192/262144   ( 2.7%) 
+LDR leaf ambient      7668/65536      214704/1835008  (11.7%) 
+HDR leaf ambient      1798/65536       50344/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]      102447/4194304  ( 2.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10748
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 17 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (107478 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 278 texinfos to 187
+Reduced 35 texdatas to 33 (1108 bytes to 1025)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4485 faces
+4950020 square feet [712802944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+13 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1380 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  22/1024         1056/49152    ( 2.1%) 
+brushes                298/8192         3576/98304    ( 3.6%) 
+brushsides            1793/65536       14344/524288   ( 2.7%) 
+planes                1126/65536       22520/1310720  ( 1.7%) 
+vertexes              5867/65536       70404/786432   ( 9.0%) 
+nodes                 1828/65536       58496/2097152  ( 2.8%) 
+texinfos               187/12288       13464/884736   ( 1.5%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4485/65536      251160/3670016  ( 6.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              880/65536       49280/3670016  ( 1.3%) 
+leaves                1851/65536       59232/2097152  ( 2.8%) 
+leaffaces             5004/65536       10008/131072   ( 7.6%) 
+leafbrushes           1362/65536        2724/131072   ( 2.1%) 
+areas                   52/256           416/2048     (20.3%) 
+surfedges            23244/512000      92976/2048000  ( 4.5%) 
+edges                12458/256000      49832/1024000  ( 4.9%) 
+LDR worldlights         13/8192         1144/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2520/65536        5040/131072   ( 3.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    13309820/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       17157/393216   ( 4.4%) 
+LDR ambient table     1851/65536        7404/262144   ( 2.8%) 
+HDR ambient table     1851/65536        7404/262144   ( 2.8%) 
+LDR leaf ambient      7832/65536      219296/1835008  (12.0%) 
+HDR leaf ambient      1851/65536       51828/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]      107478/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10754
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 15 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (107478 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 278 texinfos to 187
+Reduced 35 texdatas to 33 (1108 bytes to 1025)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4485 faces
+4950020 square feet [712802944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+13 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1293 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  22/1024         1056/49152    ( 2.1%) 
+brushes                298/8192         3576/98304    ( 3.6%) 
+brushsides            1793/65536       14344/524288   ( 2.7%) 
+planes                1126/65536       22520/1310720  ( 1.7%) 
+vertexes              5867/65536       70404/786432   ( 9.0%) 
+nodes                 1828/65536       58496/2097152  ( 2.8%) 
+texinfos               187/12288       13464/884736   ( 1.5%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4485/65536      251160/3670016  ( 6.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              880/65536       49280/3670016  ( 1.3%) 
+leaves                1851/65536       59232/2097152  ( 2.8%) 
+leaffaces             5004/65536       10008/131072   ( 7.6%) 
+leafbrushes           1362/65536        2724/131072   ( 2.1%) 
+areas                   52/256           416/2048     (20.3%) 
+surfedges            23244/512000      92976/2048000  ( 4.5%) 
+edges                12458/256000      49832/1024000  ( 4.9%) 
+LDR worldlights         13/8192         1144/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            183/32768        1830/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2520/65536        5040/131072   ( 3.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    13309820/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       17157/393216   ( 4.4%) 
+LDR ambient table     1851/65536        7404/262144   ( 2.8%) 
+HDR ambient table     1851/65536        7404/262144   ( 2.8%) 
+LDR leaf ambient      7832/65536      219296/1835008  (12.0%) 
+HDR leaf ambient      1851/65536       51828/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]      107478/4194304  ( 2.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10754
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 15 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (111234 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 304 texinfos to 202
+Reduced 35 texdatas to 33 (1108 bytes to 1025)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4516 faces
+4973988 square feet [716254336.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+13 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1408 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/1024         1584/49152    ( 3.2%) 
+brushes                300/8192         3600/98304    ( 3.7%) 
+brushsides            1806/65536       14448/524288   ( 2.8%) 
+planes                1198/65536       23960/1310720  ( 1.8%) 
+vertexes              5931/65536       71172/786432   ( 9.0%) 
+nodes                 1866/65536       59712/2097152  ( 2.8%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4516/65536      252896/3670016  ( 6.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              941/65536       52696/3670016  ( 1.4%) 
+leaves                1900/65536       60800/2097152  ( 2.9%) 
+leaffaces             5040/65536       10080/131072   ( 7.7%) 
+leafbrushes           1312/65536        2624/131072   ( 2.0%) 
+areas                   52/256           416/2048     (20.3%) 
+surfedges            23616/512000      94464/2048000  ( 4.6%) 
+edges                12550/256000      50200/1024000  ( 4.9%) 
+LDR worldlights         13/8192         1144/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            186/32768        1860/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2547/65536        5094/131072   ( 3.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    13410180/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       23441/393216   ( 6.0%) 
+LDR ambient table     1900/65536        7600/262144   ( 2.9%) 
+HDR ambient table     1900/65536        7600/262144   ( 2.9%) 
+LDR leaf ambient      8513/65536      238364/1835008  (13.0%) 
+HDR leaf ambient      1900/65536       53200/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]      111234/4194304  ( 2.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10820
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 17 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (118570 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 329 texinfos to 227
+Reduced 37 texdatas to 35 (1188 bytes to 1105)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4675 faces
+4974423 square feet [716316928.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+13 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1581 sec>
+0...1...2...
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/derp_school/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (118570 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 329 texinfos to 227
+Reduced 37 texdatas to 35 (1188 bytes to 1105)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+No vis information, direct lighting only.
+4675 faces
+4974423 square feet [716316928.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+13 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1480 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  40/1024         1920/49152    ( 3.9%) 
+brushes                319/8192         3828/98304    ( 3.9%) 
+brushsides            1920/65536       15360/524288   ( 2.9%) 
+planes                1224/65536       24480/1310720  ( 1.9%) 
+vertexes              6094/65536       73128/786432   ( 9.3%) 
+nodes                 1916/65536       61312/2097152  ( 2.9%) 
+texinfos               227/12288       16344/884736   ( 1.8%) 
+texdata                 35/2048         1120/65536    ( 1.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4675/65536      261800/3670016  ( 7.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1008/65536       56448/3670016  ( 1.5%) 
+leaves                1957/65536       62624/2097152  ( 3.0%) 
+leaffaces             5208/65536       10416/131072   ( 7.9%) 
+leafbrushes           1391/65536        2782/131072   ( 2.1%) 
+areas                   52/256           416/2048     (20.3%) 
+surfedges            24473/512000      97892/2048000  ( 4.8%) 
+edges                12977/256000      51908/1024000  ( 5.1%) 
+LDR worldlights         13/8192         1144/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            171/32768        1710/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2328/65536        4656/131072   ( 3.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    13456308/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       27608/393216   ( 7.0%) 
+LDR ambient table     1957/65536        7828/262144   ( 3.0%) 
+HDR ambient table     1957/65536        7828/262144   ( 3.0%) 
+LDR leaf ambient      8668/65536      242704/1835008  (13.2%) 
+HDR leaf ambient      1957/65536       54796/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211984/0        ( 0.0%) 
+physics               [variable]      118570/4194304  ( 2.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11091
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\derp_school.bsp
+1 minute, 28 seconds elapsed

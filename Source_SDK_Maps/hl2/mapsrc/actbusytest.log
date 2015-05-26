@@ -1,0 +1,1066 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_ragdoll (237.00 724.00 152.21) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity npc_citizen (240.69 616.87 141.74) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 17
+Reduced 9 texdatas to 9 (295 bytes to 295)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 22 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4916 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 22 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (237.00 524.00 138.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4916 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 22 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (237.00 524.00 138.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4916 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 22 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_auto (218.47 613.41 151.04) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4916 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 22 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (237.00 524.00 141.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (237.00 524.00 141.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node_hint (237.00 570.00 139.12) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node_hint (237.00 570.00 139.12) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node_hint (237.00 570.00 139.12) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (317 bytes to 317)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node_hint (237.00 571.00 141.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (322 bytes to 322)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (235.51 525.00 165.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (322 bytes to 322)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (235.51 525.00 165.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (322 bytes to 322)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (235.51 525.00 165.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5464 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 25 texinfos to 18
+Reduced 10 texdatas to 10 (322 bytes to 322)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (235.51 525.00 165.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5868 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 28 texinfos to 21
+Reduced 11 texdatas to 11 (338 bytes to 338)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (235.51 525.00 165.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7523 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 30
+Reduced 14 texdatas to 14 (419 bytes to 419)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (106.65 631.73 147.38) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 46 texinfos to 30
+Reduced 15 texdatas to 14 (437 bytes to 419)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (235.51 525.00 165.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 46 texinfos to 30
+Reduced 15 texdatas to 14 (437 bytes to 419)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (235.51 525.00 165.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 46 texinfos to 30
+Reduced 15 texdatas to 14 (437 bytes to 419)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (228.00 735.00 171.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11175 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 15 texdatas to 14 (437 bytes to 419)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (228.00 735.00 171.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11175 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 15 texdatas to 14 (437 bytes to 419)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (228.00 735.00 171.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11175 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 15 texdatas to 14 (437 bytes to 419)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\actbusytest.bsp
+0 seconds elapsed

@@ -1,0 +1,3348 @@
+
+
+
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-345.50 -61.00 -528.50) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12885 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 18
+Reduced 3 texdatas to 3 (66 bytes to 66)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14981 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 21
+Reduced 4 texdatas to 4 (81 bytes to 81)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "tools/toolsplayerclip" not found
+Material not found!: TOOLS/TOOLSPLAYERCLIP
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (103 bytes to 103)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (99 bytes to 99)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "tools/toolsinvisible" not found
+Material not found!: TOOLS/TOOLSINVISIBLE
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (102 bytes to 102)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "tools/toolsinvisible" not found
+Material not found!: TOOLS/TOOLSINVISIBLE
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (102 bytes to 102)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15529 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+No vis information, direct lighting only.
+240 faces
+278722 square feet [40136104.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          1/8192           88/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9337/393216   ( 2.4%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15529/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 90664 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15525 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+No vis information, direct lighting only.
+240 faces
+278692 square feet [40131720.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        9334/393216   ( 2.4%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15525/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 90833 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15525 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2261
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+278692 square feet [40131720.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4772, max 51
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]        9332/393216   ( 2.4%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15525/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 93012 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2261
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+278552 square feet [40111504.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4776, max 51
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]        9324/393216   ( 2.4%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 93003 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2261
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+278552 square feet [40111504.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4776, max 51
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]        9645/393216   ( 2.5%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 93324 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2261
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+278552 square feet [40111504.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4776, max 51
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]        9645/393216   ( 2.5%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 93324 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2261
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+278552 square feet [40111504.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4776, max 51
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]       10287/393216   ( 2.6%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 93966 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2261
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+278552 square feet [40111504.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4776, max 51
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]       10304/393216   ( 2.6%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 93983 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2261
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+278552 square feet [40111504.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4776, max 51
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]       11132/393216   ( 2.8%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 94899 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2269
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+709794 square feet [102210352.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4940, max 59
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]       10908/393216   ( 2.8%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 94499 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 24
+Reduced 5 texdatas to 5 (104 bytes to 104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  76 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 2269
+Average clusters visible: 29
+Building PAS...
+Average clusters audible: 58
+visdatasize:2181  compressed from 2432
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+240 faces
+709794 square feet [102210352.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+240 patches before subdivision
+240 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4940, max 59
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 242/65536        4840/1310720  ( 0.4%) 
+vertexes               452/65536        5424/786432   ( 0.7%) 
+nodes                  220/65536        7040/2097152  ( 0.3%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  240/65536       13440/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              118/65536        6608/3670016  ( 0.2%) 
+leaves                 228/65536        7296/2097152  ( 0.3%) 
+leaffaces              264/65536         528/131072   ( 0.4%) 
+leafbrushes            137/65536         274/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1524/512000       6096/2048000  ( 0.3%) 
+edges                  860/256000       3440/1024000  ( 0.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            87/65536         174/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2181/16777216 ( 0.0%) 
+entdata               [variable]       11185/393216   ( 2.8%) 
+LDR leaf ambient       228/65536        5472/1572864  ( 0.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       15524/4194304  ( 0.4%) 
+==== Total Win32 BSP file data space used: 94880 bytes ====
+
+Total triangle count: 572
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 36
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  83 portalclusters
+ 201 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3113
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 67
+visdatasize:2582  compressed from 2656
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+280 faces
+710639 square feet [102332024.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+280 patches before subdivision
+280 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5515, max 67
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 58/8192          696/98304    ( 0.7%) 
+brushsides             354/65536        2832/524288   ( 0.5%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               548/65536        6576/786432   ( 0.8%) 
+nodes                  256/65536        8192/2097152  ( 0.4%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  280/65536       15680/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              165/65536        9240/3670016  ( 0.3%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              311/65536         622/131072   ( 0.5%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1884/512000       7536/2048000  ( 0.4%) 
+edges                 1072/256000       4288/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            75/65536         150/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2582/16777216 ( 0.0%) 
+entdata               [variable]       19091/393216   ( 4.9%) 
+LDR leaf ambient       268/65536        6432/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       20810/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 124765 bytes ====
+
+Total triangle count: 664
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 36
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  83 portalclusters
+ 201 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3113
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 67
+visdatasize:2582  compressed from 2656
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+280 faces
+710639 square feet [102332024.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+280 patches before subdivision
+280 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5515, max 67
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 58/8192          696/98304    ( 0.7%) 
+brushsides             354/65536        2832/524288   ( 0.5%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               548/65536        6576/786432   ( 0.8%) 
+nodes                  256/65536        8192/2097152  ( 0.4%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  280/65536       15680/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              165/65536        9240/3670016  ( 0.3%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              311/65536         622/131072   ( 0.5%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1884/512000       7536/2048000  ( 0.4%) 
+edges                 1072/256000       4288/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            75/65536         150/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2582/16777216 ( 0.0%) 
+entdata               [variable]       19339/393216   ( 4.9%) 
+LDR leaf ambient       268/65536        6432/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       20810/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 125013 bytes ====
+
+Total triangle count: 664
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 36
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  83 portalclusters
+ 201 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3113
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 67
+visdatasize:2582  compressed from 2656
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+280 faces
+710639 square feet [102332024.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+280 patches before subdivision
+280 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5515, max 67
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 58/8192          696/98304    ( 0.7%) 
+brushsides             354/65536        2832/524288   ( 0.5%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               548/65536        6576/786432   ( 0.8%) 
+nodes                  256/65536        8192/2097152  ( 0.4%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  280/65536       15680/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              165/65536        9240/3670016  ( 0.3%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              311/65536         622/131072   ( 0.5%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1884/512000       7536/2048000  ( 0.4%) 
+edges                 1072/256000       4288/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            75/65536         150/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2582/16777216 ( 0.0%) 
+entdata               [variable]       19336/393216   ( 4.9%) 
+LDR leaf ambient       268/65536        6432/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       20810/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 125010 bytes ====
+
+Total triangle count: 664
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 36
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  83 portalclusters
+ 201 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3113
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 67
+visdatasize:2582  compressed from 2656
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+280 faces
+710639 square feet [102332024.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+280 patches before subdivision
+280 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5515, max 67
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 58/8192          696/98304    ( 0.7%) 
+brushsides             354/65536        2832/524288   ( 0.5%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               548/65536        6576/786432   ( 0.8%) 
+nodes                  256/65536        8192/2097152  ( 0.4%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  280/65536       15680/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              165/65536        9240/3670016  ( 0.3%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              311/65536         622/131072   ( 0.5%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1884/512000       7536/2048000  ( 0.4%) 
+edges                 1072/256000       4288/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            75/65536         150/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2582/16777216 ( 0.0%) 
+entdata               [variable]       19336/393216   ( 4.9%) 
+LDR leaf ambient       268/65536        6432/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       20810/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 125010 bytes ====
+
+Total triangle count: 664
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 36
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  83 portalclusters
+ 201 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3113
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 67
+visdatasize:2582  compressed from 2656
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+280 faces
+710639 square feet [102332024.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+280 patches before subdivision
+280 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5515, max 67
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 58/8192          696/98304    ( 0.7%) 
+brushsides             354/65536        2832/524288   ( 0.5%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               548/65536        6576/786432   ( 0.8%) 
+nodes                  256/65536        8192/2097152  ( 0.4%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  280/65536       15680/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              165/65536        9240/3670016  ( 0.3%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              311/65536         622/131072   ( 0.5%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1884/512000       7536/2048000  ( 0.4%) 
+edges                 1072/256000       4288/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            75/65536         150/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2582/16777216 ( 0.0%) 
+entdata               [variable]       19336/393216   ( 4.9%) 
+LDR leaf ambient       268/65536        6432/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       20810/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 125010 bytes ====
+
+Total triangle count: 664
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 36
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  83 portalclusters
+ 201 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3113
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 67
+visdatasize:2582  compressed from 2656
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+280 faces
+710639 square feet [102332024.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+280 patches before subdivision
+280 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5515, max 67
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 58/8192          696/98304    ( 0.7%) 
+brushsides             354/65536        2832/524288   ( 0.5%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               548/65536        6576/786432   ( 0.8%) 
+nodes                  256/65536        8192/2097152  ( 0.4%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  280/65536       15680/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              165/65536        9240/3670016  ( 0.3%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              311/65536         622/131072   ( 0.5%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1884/512000       7536/2048000  ( 0.4%) 
+edges                 1072/256000       4288/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            75/65536         150/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2582/16777216 ( 0.0%) 
+entdata               [variable]       19571/393216   ( 5.0%) 
+LDR leaf ambient       268/65536        6432/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       20810/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 125245 bytes ====
+
+Total triangle count: 664
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 36
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  83 portalclusters
+ 201 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3113
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 67
+visdatasize:2582  compressed from 2656
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+280 faces
+710639 square feet [102332024.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+280 patches before subdivision
+280 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5515, max 67
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 58/8192          696/98304    ( 0.7%) 
+brushsides             354/65536        2832/524288   ( 0.5%) 
+planes                 372/65536        7440/1310720  ( 0.6%) 
+vertexes               548/65536        6576/786432   ( 0.8%) 
+nodes                  256/65536        8192/2097152  ( 0.4%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  280/65536       15680/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              165/65536        9240/3670016  ( 0.3%) 
+leaves                 268/65536        8576/2097152  ( 0.4%) 
+leaffaces              311/65536         622/131072   ( 0.5%) 
+leafbrushes            152/65536         304/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1884/512000       7536/2048000  ( 0.4%) 
+edges                 1072/256000       4288/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            75/65536         150/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2582/16777216 ( 0.0%) 
+entdata               [variable]       19572/393216   ( 5.0%) 
+LDR leaf ambient       268/65536        6432/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       20810/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 125246 bytes ====
+
+Total triangle count: 664
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21389 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 39
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  84 portalclusters
+ 203 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3174
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 66
+visdatasize:2549  compressed from 2688
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+290 faces
+712442 square feet [102591736.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+290 patches before subdivision
+290 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5593, max 68
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 59/8192          708/98304    ( 0.7%) 
+brushsides             360/65536        2880/524288   ( 0.5%) 
+planes                 384/65536        7680/1310720  ( 0.6%) 
+vertexes               566/65536        6792/786432   ( 0.9%) 
+nodes                  267/65536        8544/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  290/65536       16240/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              173/65536        9688/3670016  ( 0.3%) 
+leaves                 280/65536        8960/2097152  ( 0.4%) 
+leaffaces              320/65536         640/131072   ( 0.5%) 
+leafbrushes            154/65536         308/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1110/256000       4440/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            63/65536         126/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2549/16777216 ( 0.0%) 
+entdata               [variable]       23184/393216   ( 5.9%) 
+LDR leaf ambient       280/65536        6720/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       21389/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 132644 bytes ====
+
+Total triangle count: 684
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21389 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 39
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  84 portalclusters
+ 203 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3174
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 66
+visdatasize:2549  compressed from 2688
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+290 faces
+712442 square feet [102591736.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+290 patches before subdivision
+290 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5593, max 68
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 59/8192          708/98304    ( 0.7%) 
+brushsides             360/65536        2880/524288   ( 0.5%) 
+planes                 384/65536        7680/1310720  ( 0.6%) 
+vertexes               566/65536        6792/786432   ( 0.9%) 
+nodes                  267/65536        8544/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  290/65536       16240/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              173/65536        9688/3670016  ( 0.3%) 
+leaves                 280/65536        8960/2097152  ( 0.4%) 
+leaffaces              320/65536         640/131072   ( 0.5%) 
+leafbrushes            154/65536         308/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1110/256000       4440/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            63/65536         126/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2549/16777216 ( 0.0%) 
+entdata               [variable]       23676/393216   ( 6.0%) 
+LDR leaf ambient       280/65536        6720/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       21389/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 133136 bytes ====
+
+Total triangle count: 684
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21389 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 39
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  84 portalclusters
+ 203 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3174
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 66
+visdatasize:2549  compressed from 2688
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+290 faces
+712442 square feet [102591736.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+290 patches before subdivision
+290 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5593, max 68
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 59/8192          708/98304    ( 0.7%) 
+brushsides             360/65536        2880/524288   ( 0.5%) 
+planes                 384/65536        7680/1310720  ( 0.6%) 
+vertexes               566/65536        6792/786432   ( 0.9%) 
+nodes                  267/65536        8544/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  290/65536       16240/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              173/65536        9688/3670016  ( 0.3%) 
+leaves                 280/65536        8960/2097152  ( 0.4%) 
+leaffaces              320/65536         640/131072   ( 0.5%) 
+leafbrushes            154/65536         308/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1110/256000       4440/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            63/65536         126/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2549/16777216 ( 0.0%) 
+entdata               [variable]       23676/393216   ( 6.0%) 
+LDR leaf ambient       280/65536        6720/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       21389/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 133136 bytes ====
+
+Total triangle count: 684
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21389 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 39
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  84 portalclusters
+ 203 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3174
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 66
+visdatasize:2549  compressed from 2688
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+290 faces
+712442 square feet [102591736.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+290 patches before subdivision
+290 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5593, max 68
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 59/8192          708/98304    ( 0.7%) 
+brushsides             360/65536        2880/524288   ( 0.5%) 
+planes                 384/65536        7680/1310720  ( 0.6%) 
+vertexes               566/65536        6792/786432   ( 0.9%) 
+nodes                  267/65536        8544/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  290/65536       16240/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              173/65536        9688/3670016  ( 0.3%) 
+leaves                 280/65536        8960/2097152  ( 0.4%) 
+leaffaces              320/65536         640/131072   ( 0.5%) 
+leafbrushes            154/65536         308/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1110/256000       4440/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            63/65536         126/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2549/16777216 ( 0.0%) 
+entdata               [variable]       23676/393216   ( 6.0%) 
+LDR leaf ambient       280/65536        6720/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       21389/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 133136 bytes ====
+
+Total triangle count: 684
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21389 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 39
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  84 portalclusters
+ 203 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3174
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 66
+visdatasize:2549  compressed from 2688
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+290 faces
+712442 square feet [102591736.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+290 patches before subdivision
+290 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5593, max 68
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 59/8192          708/98304    ( 0.7%) 
+brushsides             360/65536        2880/524288   ( 0.5%) 
+planes                 384/65536        7680/1310720  ( 0.6%) 
+vertexes               566/65536        6792/786432   ( 0.9%) 
+nodes                  267/65536        8544/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  290/65536       16240/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              173/65536        9688/3670016  ( 0.3%) 
+leaves                 280/65536        8960/2097152  ( 0.4%) 
+leaffaces              320/65536         640/131072   ( 0.5%) 
+leafbrushes            154/65536         308/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1110/256000       4440/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            63/65536         126/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2549/16777216 ( 0.0%) 
+entdata               [variable]       23846/393216   ( 6.1%) 
+LDR leaf ambient       280/65536        6720/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       21389/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 133306 bytes ====
+
+Total triangle count: 684
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.vmf
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "halflife/black" not found
+Material not found!: HALFLIFE/BLACK
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "tools/toolsnodraw" not found
+Material not found!: TOOLS/TOOLSNODRAW
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt...done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21389 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 39
+Reduced 7 texdatas to 7 (144 bytes to 144)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.prt
+  84 portalclusters
+ 203 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 3174
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 66
+visdatasize:2549  compressed from 2688
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+290 faces
+712442 square feet [102591736.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+290 patches before subdivision
+290 patches after subdivision
+can't solve quadratic for light 37.000000 37.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5593, max 68
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 59/8192          708/98304    ( 0.7%) 
+brushsides             360/65536        2880/524288   ( 0.5%) 
+planes                 384/65536        7680/1310720  ( 0.6%) 
+vertexes               566/65536        6792/786432   ( 0.9%) 
+nodes                  267/65536        8544/2097152  ( 0.4%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  290/65536       16240/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              173/65536        9688/3670016  ( 0.3%) 
+leaves                 280/65536        8960/2097152  ( 0.4%) 
+leaffaces              320/65536         640/131072   ( 0.5%) 
+leafbrushes            154/65536         308/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1110/256000       4440/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            63/65536         126/131072   ( 0.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2549/16777216 ( 0.0%) 
+entdata               [variable]       23845/393216   ( 6.1%) 
+LDR leaf ambient       280/65536        6720/1572864  ( 0.4%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       21389/4194304  ( 0.5%) 
+==== Total Win32 BSP file data space used: 133305 bytes ====
+
+Total triangle count: 684
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\testscare.bsp
+0 seconds elapsed

@@ -1,0 +1,1520 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (104295 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 307 texinfos to 164
+Reduced 70 texdatas to 63 (3175 bytes to 2942)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+4978 faces
+4326341 square feet [622993216.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2171 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                300/8192         3600/98304    ( 3.7%) 
+brushsides            1889/65536       15112/524288   ( 2.9%) 
+planes                 708/65536       14160/1310720  ( 1.1%) 
+vertexes              5422/65536       65064/786432   ( 8.3%) 
+nodes                 2154/65536       68928/2097152  ( 3.3%) 
+texinfos               164/12288       11808/884736   ( 1.3%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 4978/65536      278768/3670016  ( 7.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              962/65536       53872/3670016  ( 1.5%) 
+leaves                2159/65536       69088/2097152  ( 3.3%) 
+leaffaces             6298/65536       12596/131072   ( 9.6%) 
+leafbrushes           1237/65536        2474/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            25763/512000     103052/2048000  ( 5.0%) 
+edges                14177/256000      56708/1024000  ( 5.5%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8813688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      112590/393216   (28.6%) 
+LDR ambient table     2159/65536        8636/262144   ( 3.3%) 
+HDR ambient table     2159/65536        8636/262144   ( 3.3%) 
+LDR leaf ambient     12093/65536      338604/1835008  (18.5%) 
+HDR leaf ambient      2159/65536       60452/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      104295/4194304  ( 2.5%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12025
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (109235 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 334 texinfos to 191
+Reduced 70 texdatas to 63 (3150 bytes to 2917)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5032 faces
+5420641 square feet [780572416.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                309/8192         3708/98304    ( 3.8%) 
+brushsides            1943/65536       15544/524288   ( 3.0%) 
+planes                 820/65536       16400/1310720  ( 1.3%) 
+vertexes              5494/65536       65928/786432   ( 8.4%) 
+nodes                 2208/65536       70656/2097152  ( 3.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5032/65536      281792/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1016/65536       56896/3670016  ( 1.6%) 
+leaves                2222/65536       71104/2097152  ( 3.4%) 
+leaffaces             6352/65536       12704/131072   ( 9.7%) 
+leafbrushes           1246/65536        2492/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26195/512000     104780/2048000  ( 5.1%) 
+edges                14393/256000      57572/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8813688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      118813/393216   (30.2%) 
+LDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+HDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+LDR leaf ambient     12266/65536      343448/1835008  (18.7%) 
+HDR leaf ambient      2222/65536       62216/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      109235/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12133
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (109235 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 334 texinfos to 191
+Reduced 70 texdatas to 63 (3150 bytes to 2917)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5032 faces
+5420641 square feet [780572416.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                309/8192         3708/98304    ( 3.8%) 
+brushsides            1943/65536       15544/524288   ( 3.0%) 
+planes                 820/65536       16400/1310720  ( 1.3%) 
+vertexes              5494/65536       65928/786432   ( 8.4%) 
+nodes                 2208/65536       70656/2097152  ( 3.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5032/65536      281792/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1016/65536       56896/3670016  ( 1.6%) 
+leaves                2222/65536       71104/2097152  ( 3.4%) 
+leaffaces             6352/65536       12704/131072   ( 9.7%) 
+leafbrushes           1246/65536        2492/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26195/512000     104780/2048000  ( 5.1%) 
+edges                14393/256000      57572/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8813688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      126895/393216   (32.3%) 
+LDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+HDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+LDR leaf ambient     12266/65536      343448/1835008  (18.7%) 
+HDR leaf ambient      2222/65536       62216/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      109235/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12133
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 9 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (109235 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 334 texinfos to 191
+Reduced 70 texdatas to 63 (3150 bytes to 2917)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5032 faces
+5420641 square feet [780572416.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2137 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                309/8192         3708/98304    ( 3.8%) 
+brushsides            1943/65536       15544/524288   ( 3.0%) 
+planes                 822/65536       16440/1310720  ( 1.3%) 
+vertexes              5494/65536       65928/786432   ( 8.4%) 
+nodes                 2208/65536       70656/2097152  ( 3.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5032/65536      281792/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1016/65536       56896/3670016  ( 1.6%) 
+leaves                2222/65536       71104/2097152  ( 3.4%) 
+leaffaces             6352/65536       12704/131072   ( 9.7%) 
+leafbrushes           1246/65536        2492/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26195/512000     104780/2048000  ( 5.1%) 
+edges                14393/256000      57572/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8813688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      127485/393216   (32.4%) 
+LDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+HDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+LDR leaf ambient     12266/65536      343448/1835008  (18.7%) 
+HDR leaf ambient      2222/65536       62216/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      109235/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12133
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (109233 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 334 texinfos to 191
+Reduced 70 texdatas to 63 (3150 bytes to 2917)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5032 faces
+4885120 square feet [703457280.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2126 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                309/8192         3708/98304    ( 3.8%) 
+brushsides            1943/65536       15544/524288   ( 3.0%) 
+planes                 826/65536       16520/1310720  ( 1.3%) 
+vertexes              5494/65536       65928/786432   ( 8.4%) 
+nodes                 2208/65536       70656/2097152  ( 3.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5032/65536      281792/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1016/65536       56896/3670016  ( 1.6%) 
+leaves                2222/65536       71104/2097152  ( 3.4%) 
+leaffaces             6352/65536       12704/131072   ( 9.7%) 
+leafbrushes           1246/65536        2492/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26195/512000     104780/2048000  ( 5.1%) 
+edges                14393/256000      57572/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8813688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      127306/393216   (32.4%) 
+LDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+HDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+LDR leaf ambient     12238/65536      342664/1835008  (18.7%) 
+HDR leaf ambient      2222/65536       62216/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      109233/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12133
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 7 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (109233 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 334 texinfos to 191
+Reduced 70 texdatas to 63 (3150 bytes to 2917)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5032 faces
+4885120 square feet [703457280.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2052 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                309/8192         3708/98304    ( 3.8%) 
+brushsides            1943/65536       15544/524288   ( 3.0%) 
+planes                 826/65536       16520/1310720  ( 1.3%) 
+vertexes              5494/65536       65928/786432   ( 8.4%) 
+nodes                 2208/65536       70656/2097152  ( 3.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5032/65536      281792/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1016/65536       56896/3670016  ( 1.6%) 
+leaves                2222/65536       71104/2097152  ( 3.4%) 
+leaffaces             6352/65536       12704/131072   ( 9.7%) 
+leafbrushes           1246/65536        2492/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26195/512000     104780/2048000  ( 5.1%) 
+edges                14393/256000      57572/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8813688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      127322/393216   (32.4%) 
+LDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+HDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+LDR leaf ambient     12243/65536      342804/1835008  (18.7%) 
+HDR leaf ambient      2222/65536       62216/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      109233/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12133
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (109233 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 334 texinfos to 191
+Reduced 70 texdatas to 63 (3150 bytes to 2917)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5032 faces
+4885120 square feet [703457280.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2071 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                309/8192         3708/98304    ( 3.8%) 
+brushsides            1943/65536       15544/524288   ( 3.0%) 
+planes                 826/65536       16520/1310720  ( 1.3%) 
+vertexes              5494/65536       65928/786432   ( 8.4%) 
+nodes                 2208/65536       70656/2097152  ( 3.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5032/65536      281792/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1016/65536       56896/3670016  ( 1.6%) 
+leaves                2222/65536       71104/2097152  ( 3.4%) 
+leaffaces             6352/65536       12704/131072   ( 9.7%) 
+leafbrushes           1246/65536        2492/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26195/512000     104780/2048000  ( 5.1%) 
+edges                14393/256000      57572/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            352/32768        3520/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8813688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      127361/393216   (32.4%) 
+LDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+HDR ambient table     2222/65536        8888/262144   ( 3.4%) 
+LDR leaf ambient     12243/65536      342804/1835008  (18.7%) 
+HDR leaf ambient      2222/65536       62216/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      109233/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12133
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (111278 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 365 texinfos to 204
+Reduced 72 texdatas to 65 (3219 bytes to 2986)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5056 faces
+4885314 square feet [703485312.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2125 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes                313/8192         3756/98304    ( 3.8%) 
+brushsides            1979/65536       15832/524288   ( 3.0%) 
+planes                 922/65536       18440/1310720  ( 1.4%) 
+vertexes              5538/65536       66456/786432   ( 8.5%) 
+nodes                 2232/65536       71424/2097152  ( 3.4%) 
+texinfos               204/12288       14688/884736   ( 1.7%) 
+texdata                 65/2048         2080/65536    ( 3.2%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5056/65536      283136/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1035/65536       57960/3670016  ( 1.6%) 
+leaves                2249/65536       71968/2097152  ( 3.4%) 
+leaffaces             6380/65536       12760/131072   ( 9.7%) 
+leafbrushes           1253/65536        2506/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26366/512000     105464/2048000  ( 5.1%) 
+edges                14483/256000      57932/1024000  ( 5.7%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            350/32768        3500/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4761/65536        9522/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8814240/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      158435/393216   (40.3%) 
+LDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+HDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+LDR leaf ambient     12264/65536      343392/1835008  (18.7%) 
+HDR leaf ambient      2249/65536       62972/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      111278/4194304  ( 2.7%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12180
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (111278 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 365 texinfos to 204
+Reduced 72 texdatas to 65 (3196 bytes to 2963)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5056 faces
+4885314 square feet [703485312.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2249 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes                313/8192         3756/98304    ( 3.8%) 
+brushsides            1979/65536       15832/524288   ( 3.0%) 
+planes                 922/65536       18440/1310720  ( 1.4%) 
+vertexes              5538/65536       66456/786432   ( 8.5%) 
+nodes                 2232/65536       71424/2097152  ( 3.4%) 
+texinfos               204/12288       14688/884736   ( 1.7%) 
+texdata                 65/2048         2080/65536    ( 3.2%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5056/65536      283136/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1035/65536       57960/3670016  ( 1.6%) 
+leaves                2249/65536       71968/2097152  ( 3.4%) 
+leaffaces             6380/65536       12760/131072   ( 9.7%) 
+leafbrushes           1253/65536        2506/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26366/512000     105464/2048000  ( 5.1%) 
+edges                14483/256000      57932/1024000  ( 5.7%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            350/32768        3500/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4761/65536        9522/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8814240/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      158403/393216   (40.3%) 
+LDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+HDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+LDR leaf ambient     12259/65536      343252/1835008  (18.7%) 
+HDR leaf ambient      2249/65536       62972/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      111278/4194304  ( 2.7%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12180
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (111278 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 365 texinfos to 204
+Reduced 72 texdatas to 65 (3196 bytes to 2963)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5056 faces
+4885314 square feet [703485312.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2240 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes                313/8192         3756/98304    ( 3.8%) 
+brushsides            1979/65536       15832/524288   ( 3.0%) 
+planes                 922/65536       18440/1310720  ( 1.4%) 
+vertexes              5538/65536       66456/786432   ( 8.5%) 
+nodes                 2232/65536       71424/2097152  ( 3.4%) 
+texinfos               204/12288       14688/884736   ( 1.7%) 
+texdata                 65/2048         2080/65536    ( 3.2%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5056/65536      283136/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1035/65536       57960/3670016  ( 1.6%) 
+leaves                2249/65536       71968/2097152  ( 3.4%) 
+leaffaces             6380/65536       12760/131072   ( 9.7%) 
+leafbrushes           1253/65536        2506/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26366/512000     105464/2048000  ( 5.1%) 
+edges                14483/256000      57932/1024000  ( 5.7%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            350/32768        3500/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4761/65536        9522/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8814240/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      158354/393216   (40.3%) 
+LDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+HDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+LDR leaf ambient     12259/65536      343252/1835008  (18.7%) 
+HDR leaf ambient      2249/65536       62972/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      111278/4194304  ( 2.7%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12180
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 15 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (111246 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 369 texinfos to 207
+Reduced 72 texdatas to 65 (3196 bytes to 2963)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (111246 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 369 texinfos to 207
+Reduced 72 texdatas to 65 (3196 bytes to 2963)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5057 faces
+4885696 square feet [703540224.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2181 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes                313/8192         3756/98304    ( 3.8%) 
+brushsides            1979/65536       15832/524288   ( 3.0%) 
+planes                 920/65536       18400/1310720  ( 1.4%) 
+vertexes              5535/65536       66420/786432   ( 8.4%) 
+nodes                 2232/65536       71424/2097152  ( 3.4%) 
+texinfos               207/12288       14904/884736   ( 1.7%) 
+texdata                 65/2048         2080/65536    ( 3.2%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5057/65536      283192/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1037/65536       58072/3670016  ( 1.6%) 
+leaves                2249/65536       71968/2097152  ( 3.4%) 
+leaffaces             6381/65536       12762/131072   ( 9.7%) 
+leafbrushes           1253/65536        2506/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26376/512000     105504/2048000  ( 5.2%) 
+edges                14486/256000      57944/1024000  ( 5.7%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            348/32768        3480/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4737/65536        9474/131072   ( 7.2%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8817444/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      158371/393216   (40.3%) 
+LDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+HDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+LDR leaf ambient     12282/65536      343896/1835008  (18.7%) 
+HDR leaf ambient      2249/65536       62972/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      111246/4194304  ( 2.7%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12180
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (111246 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 369 texinfos to 207
+Reduced 72 texdatas to 65 (3196 bytes to 2963)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5057 faces
+4885696 square feet [703540224.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2285 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes                313/8192         3756/98304    ( 3.8%) 
+brushsides            1979/65536       15832/524288   ( 3.0%) 
+planes                 920/65536       18400/1310720  ( 1.4%) 
+vertexes              5535/65536       66420/786432   ( 8.4%) 
+nodes                 2232/65536       71424/2097152  ( 3.4%) 
+texinfos               207/12288       14904/884736   ( 1.7%) 
+texdata                 65/2048         2080/65536    ( 3.2%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5057/65536      283192/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1037/65536       58072/3670016  ( 1.6%) 
+leaves                2249/65536       71968/2097152  ( 3.4%) 
+leaffaces             6381/65536       12762/131072   ( 9.7%) 
+leafbrushes           1253/65536        2506/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26376/512000     105504/2048000  ( 5.2%) 
+edges                14486/256000      57944/1024000  ( 5.7%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            348/32768        3480/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4737/65536        9474/131072   ( 7.2%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8817444/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      158212/393216   (40.2%) 
+LDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+HDR ambient table     2249/65536        8996/262144   ( 3.4%) 
+LDR leaf ambient     12276/65536      343728/1835008  (18.7%) 
+HDR leaf ambient      2249/65536       62972/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      111246/4194304  ( 2.7%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12180
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 18 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (110304 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 362 texinfos to 202
+Reduced 71 texdatas to 64 (3171 bytes to 2938)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5039 faces
+4885688 square feet [703539200.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2283 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+6Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_battleground/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0....1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces....done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+.7..Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+.8done (3) (110304 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 362 texinfos to 202
+Reduced 71 texdatas to 64 (3171 bytes to 2938)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+.10 seconds elapsed
+..9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  15/1024          720/49152    ( 1.5%) 
+brushes                311/8192         3732/98304    ( 3.8%) 
+brushsides            1967/65536       15736/524288   ( 3.0%) 
+planes                 916/65536       18320/1310720  ( 1.4%) 
+vertexes              5507/65536       66084/786432   ( 8.4%) 
+nodes                 2220/65536       71040/2097152  ( 3.4%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5039/65536      282184/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1024/65536       57344/3670016  ( 1.6%) 
+leaves                2236/65536       71552/2097152  ( 3.4%) 
+leaffaces             6359/65536       12718/131072   ( 9.7%) 
+leafbrushes           1248/65536        2496/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26253/512000     105012/2048000  ( 5.1%) 
+edges                14420/256000      57680/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            350/32768        3500/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4752/65536        9504/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8816892/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      155928/393216   (39.7%) 
+LDR ambient table     2236/65536        8944/262144   ( 3.4%) 
+HDR ambient table     2236/65536        8944/262144   ( 3.4%) 
+LDR leaf ambient     12271/65536      343588/1835008  (18.7%) 
+HDR leaf ambient      2236/65536       62608/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      110304/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12145
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 38 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+No vis information, direct lighting only.
+5039 faces
+4885688 square feet [703539200.00 square inches]
+73 Displacements
+486568 Square Feet [70065912.00 Square Inches]
+32 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2158 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  15/1024          720/49152    ( 1.5%) 
+brushes                311/8192         3732/98304    ( 3.8%) 
+brushsides            1967/65536       15736/524288   ( 3.0%) 
+planes                 916/65536       18320/1310720  ( 1.4%) 
+vertexes              5507/65536       66084/786432   ( 8.4%) 
+nodes                 2220/65536       71040/2097152  ( 3.4%) 
+texinfos               202/12288       14544/884736   ( 1.6%) 
+texdata                 64/2048         2048/65536    ( 3.1%) 
+dispinfos               73/0           12848/0        ( 0.0%) 
+disp_verts           21097/0          421940/0        ( 0.0%) 
+disp_tris            37376/0           74752/0        ( 0.0%) 
+disp_lmsamples      845167/0          845167/0        ( 0.0%) 
+faces                 5039/65536      282184/3670016  ( 7.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1024/65536       57344/3670016  ( 1.6%) 
+leaves                2236/65536       71552/2097152  ( 3.4%) 
+leaffaces             6359/65536       12718/131072   ( 9.7%) 
+leafbrushes           1248/65536        2496/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26253/512000     105012/2048000  ( 5.1%) 
+edges                14420/256000      57680/1024000  ( 5.6%) 
+LDR worldlights         32/8192         2816/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            350/32768        3500/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4752/65536        9504/131072   ( 7.3%) 
+cubemapsamples          30/1024          480/16384    ( 2.9%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8816892/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      155928/393216   (39.7%) 
+LDR ambient table     2236/65536        8944/262144   ( 3.4%) 
+HDR ambient table     2236/65536        8944/262144   ( 3.4%) 
+LDR leaf ambient     12272/65536      343616/1835008  (18.7%) 
+HDR leaf ambient      2236/65536       62608/1835008  ( 3.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]     3292222/0        ( 0.0%) 
+physics               [variable]      110304/4194304  ( 2.6%) 
+physics terrain       [variable]       20322/1048576  ( 1.9%) 
+
+Level flags = 0
+
+Total triangle count: 12145
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_battleground.bsp
+2 minutes, 24 seconds elapsed

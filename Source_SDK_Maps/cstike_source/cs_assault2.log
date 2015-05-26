@@ -1,0 +1,229 @@
+
+
+
+Could not start the empty shader (shaderapiempty.dll)!
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\cs_assault2.bsp
+Error opening c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\cs_assault2.bsp
+
+
+Could not start the empty shader (shaderapiempty.dll)!
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\cs_assault2.bsp
+Error opening c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\cs_assault2.bsp
+
+
+Could not start the empty shader (shaderapiempty.dll)!
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\cs_assault2.bsp
+Reading unknown lump #32 (6602 bytes)
+Reading unknown lump #49 (1759233 bytes)
+Error! Unable to load model "models/props_c17/light_industrialbell01_on.mdl"
+Error! Unable to load model "models/props_wasteland/prison_cagedlight001a.mdl"
+Error! Unable to load model "models/props_wasteland/chimneypipe01b.mdl"
+Error! Unable to load model "models/props_lab/pipesystem01b.mdl"
+Error! Unable to load model "models/props_rooftop/chimneytoppipe_cluster01c.mdl"
+Error! Unable to load model "models/props_rooftop/RooftopCluser01a.mdl"
+Error! Unable to load model "models/props_rooftop/chimneypipe01c.mdl"
+Error! Unable to load model "models/props_rooftop/roof_vent004.mdl"
+Error! Unable to load model "models/props_wasteland/exterior_fence002e.mdl"
+Error! Unable to load model "models/props_canal/canal_bridge_railing01.mdl"
+Error! Unable to load model "models/props_wasteland/interior_fence002a.mdl"
+Error! Unable to load model "models/props_wasteland/interior_fence001g.mdl"
+Error! Unable to load model "models/props_wasteland/interior_fence002e.mdl"
+Error! Unable to load model "models/props_vents/vent_medium_straight001.mdl"
+Error! Unable to load model "models/props_vents/vent_cluster007.mdl"
+Error! Unable to load model "models/props_vents/vent_medium_grill001.mdl"
+Error! Unable to load model "models/props_lab/powerbox02c.mdl"
+Error! Unable to load model "models/props_lab/pipesystem02a.mdl"
+Error! Unable to load model "models/props_rooftop/Gutter_Pipe_256.mdl"
+Error! Unable to load model "models/props_rooftop/Gutter_Pipe_128.mdl"
+Error! Unable to load model "models/props_interiors/Lights_Florescent01a.mdl"
+Error! Unable to load model "models/props_lab/powerbox02a.mdl"
+Error! Unable to load model "models/props_lab/pipesystem02b.mdl"
+Error! Unable to load model "models/props_wasteland/prison_sprinkler001a.mdl"
+Error! Unable to load model "models/props_lab/powerbox02b.mdl"
+Error! Unable to load model "./models/props_lab/pipesystem02a.mdl"
+Error! Unable to load model "models/props_trainstation/LightTowerCluster01.mdl"
+Error! Unable to load model "models/props_lab/powerbox02d.mdl"
+Error! Unable to load model "models/props_lab/pipesystem02d.mdl"
+Error! Unable to load model "models/props_rooftop/roof_vent001.mdl"
+Error! Unable to load model "models/props_rooftop/roof_vent003.mdl"
+Error! Unable to load model "models/props_trainstation/TrackLight01.mdl"
+Error! Unable to load model "models/props_rooftop/Scaffolding01a.mdl"
+Error! Unable to load model "models/props_c17/pulleywheels_small01.mdl"
+Error! Unable to load model "models/props_c17/pulleyhook01.mdl"
+Error! Unable to load model "models/props_wasteland/tram_lever01.mdl"
+Error! Unable to load model "models/props_c17/metalladder002.mdl"
+Error! Unable to load model "models/props_c17/metalladder001.mdl"
+Error! Unable to load model "models/props_vents/vent_large_grill001.mdl"
+Error! Unable to load model "models/props_junk/garbage256_composite002a.mdl"
+Error! Unable to load model "models/props_c17/lamppost03a_off.mdl"
+Error! Unable to load model "models/props_wasteland/exterior_fence002d.mdl"
+Error! Unable to load model "models/props_wasteland/exterior_fence002b.mdl"
+Error! Unable to load model "models/props_wasteland/exterior_fence002a.mdl"
+Error! Unable to load model "models/props_trainstation/light_128wallMounted001a.mdl"
+Error! Unable to load model "models/props_wasteland/prison_bracket001a.mdl"
+Error! Unable to load model "models/props_wasteland/interior_fence002c.mdl"
+Error! Unable to load model "models/props_trainstation/light_Signal001a.mdl"
+Error! Unable to load model "models/props_trainstation/bench_indoor001a.mdl"
+Error! Unable to load model "models/props_canal/canal_bridge_railing_lamps.mdl"
+Error! Unable to load model "models/props_wasteland/exterior_fence002c.mdl"
+Error! Unable to load model "models/props_c17/fence02a.mdl"
+Error! Unable to load model "models/props_c17/fence02b.mdl"
+Error! Unable to load model "models/props_c17/concrete_barrier001a.mdl"
+Error! Unable to load model "models/props_wasteland/chimneypipe02a.mdl"
+Error! Unable to load model "models/props_pipes/gutter_512_002a.mdl"
+Error! Unable to load model "models/props_c17/utilitypole01d.mdl"
+Error! Unable to load model "models/props_c17/utilitypole01a.mdl"
+Error! Unable to load model "models/props_rooftop/roof_vent002.mdl"
+Error! Unable to load model "models/props_trainstation/trashcan_indoor001a.mdl"
+Error! Unable to load model "models/props_c17/gate_door01a.mdl"
+Error! Unable to load model "models/props_buildings/watertower_001c.mdl"
+Error! Unable to load model "models/props_junk/garbage_carboard002a.mdl"
+Error! Unable to load model "models/props_junk/garbage_carboard001a.mdl"
+Error! Unable to load model "models/props_junk/TrashCluster01a.mdl"
+Error! Unable to load model "models/props_rooftop/chimneypipe01a.mdl"
+Error! Unable to load model "models/props_junk/garbage256_composite002b.mdl"
+Error! Unable to load model "models/props_lab/powerbox03a.mdl"
+Error! Unable to load model "models/props_canal/winch02.mdl"
+Error! Unable to load model "models/props_wasteland/prison_switchbox001a.mdl"
+Error! Unable to load model "models/props_c17/light_cagelight02_off.mdl"
+Error! Unable to load model "models/props_wasteland/prison_pipefaucet001a.mdl"
+Error! Unable to load model "models/props_canal/refinery_05_skybox.mdl"
+Error! Unable to load model "models/props_canal/refinery_01_skybox.mdl"
+Error! Unable to load model "models/props_canal/refinery_03_skybox.mdl"
+Error! Unable to load model "models/props_canal/refinery_02_skybox.mdl"
+Error! Unable to load model "models/props_c17/light_cagelight02_on.mdl"
+Error! Unable to load model "models/props_c17/Gasmeter003a.mdl"
+Error! Unable to load model "models/props_c17/Gasmeter002a.mdl"
+Error! Unable to load model "models/props_c17/GasmeterPipes001a.mdl"
+Error! Unable to load model "models/props_c17/GasPipes006a.mdl"
+Error! Unable to load model "models/props_lab/powerbox01a.mdl"
+Error! Unable to load model "models/props_trainstation/TrackMarkers01.mdl"
+Error! Unable to load model "models/props_c17/GasmeterPipes002a.mdl"
+Error! Unable to load model "models/props_c17/GasPipes003a.mdl"
+Error! Unable to load model "models/props_c17/GasPipes002a.mdl"
+Error! Unable to load model "models/props_rooftop/RooftopCluser02a.mdl"
+Error! Unable to load model "models/props_c17/GasPipes004a.mdl"
+Error! Unable to load model "models/props_lab/pipesystem02c.mdl"
+7577 faces
+5 degenerate faces
+1258584 square feet [181236128.00 square inches]
+96 displacements
+33327 square feet [4799202.00 square inches]
+7572 patches before subdivision
+73334 patches after subdivision
+68 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12231778, max 1464
+transfer lists:  93.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(396263, 349253, 170083)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64079, 51275, 20697)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9314, 6724, 2252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1930, 1234, 334)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(395, 217, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(106, 50, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(34, 14, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(15, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(9, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(3, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(3, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(2, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(2, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0495 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  22/1024         1056/49152    ( 2.1%) 
+brushes               2526/8192        30312/98304    (30.8%) 
+brushsides           17010/65536      136080/524288   (26.0%) 
+planes                8048/65536      160960/1310720  (12.3%) 
+vertexes             22375/65536      268500/786432   (34.1%) 
+nodes                 5410/65536      173120/2097152  ( 8.3%) 
+texinfos              6311/12288      454392/884736   (51.4%) 
+texdata                359/2048        11488/65536    (17.5%) 
+dispinfos               96/0           16896/0        ( 0.0%) 
+disp_verts            3016/0           60320/0        ( 0.0%) 
+disp_tris             4128/0            8256/0        ( 0.0%) 
+disp_lmsamples       26408/0           26408/0        ( 0.0%) 
+faces                 7577/65536      424312/3670016  (11.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5079/65536      284424/3670016  ( 7.7%) 
+leaves                5433/65536      173856/2097152  ( 8.3%) 
+leaffaces            13651/65536       27302/131072   (20.8%) 
+leafbrushes          11499/65536       22998/131072   (17.5%) 
+areas                   12/256            96/2048     ( 4.7%) 
+surfedges            58418/512000     233672/2048000  (11.4%) 
+edges                38786/256000     155144/1024000  (15.2%) 
+LDR worldlights         67/8192         5896/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips           1115/32768       11150/327680   ( 3.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         21288/65536       42576/131072   (32.5%) 
+cubemapsamples          59/1024          944/16384    ( 5.8%) 
+overlays               361/512        127072/180224   (70.5%) 
+LDR lightdata         [variable]     2047660/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2010986/16777216 (12.0%) 
+entdata               [variable]      177456/393216   (45.1%) 
+LDR leaf ambient      5433/65536      130392/1572864  ( 8.3%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders               16/0             640/0        ( 0.0%) 
+occluder polygons       41/0             492/0        ( 0.0%) 
+occluder vert ind      172/0             688/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/59912    ( 0.0%) 
+pakfile               [variable]      471294/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]     1127510/4194304  (26.9%) 
+==== Total Win32 BSP file data space used: 8824350 bytes ====
+
+Total triangle count: 22943
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\cs_assault2.bsp
+Writing unknown lump #32 (6602 bytes)
+Writing unknown lump #49 (1759233 bytes)
+3 minutes, 55 seconds elapsed

@@ -1,0 +1,3146 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10926 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 19
+Reduced 8 texdatas to 6 (244 bytes to 191)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+97 faces
+241932 square feet [34838288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+97 patches before subdivision
+3419 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118378, max 172
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(536, 499, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64, 53, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8, 6, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 29/8192          348/98304    ( 0.4%) 
+brushsides             174/65536        1392/524288   ( 0.3%) 
+planes                 180/65536        3600/1310720  ( 0.3%) 
+vertexes               183/65536        2196/786432   ( 0.3%) 
+nodes                   39/65536        1248/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   97/65536        5432/3670016  ( 0.1%) 
+hdr faces               97/65536        5432/3670016  ( 0.1%) 
+origfaces               66/65536        3696/3670016  ( 0.1%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces              149/65536         298/131072   ( 0.2%) 
+leafbrushes             61/65536         122/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              736/512000       2944/2048000  ( 0.1%) 
+edges                  454/256000       1816/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          1/8192          100/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             10/32768         100/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      273164/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]        2488/393216   ( 0.6%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+HDR leaf ambient       101/65536        2828/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       10926/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 278
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10926 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 19
+Reduced 8 texdatas to 6 (244 bytes to 191)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+97 faces
+241932 square feet [34838288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+97 patches before subdivision
+3419 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118378, max 172
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(661, 601, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77, 63, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 29/8192          348/98304    ( 0.4%) 
+brushsides             174/65536        1392/524288   ( 0.3%) 
+planes                 180/65536        3600/1310720  ( 0.3%) 
+vertexes               183/65536        2196/786432   ( 0.3%) 
+nodes                   39/65536        1248/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   97/65536        5432/3670016  ( 0.1%) 
+hdr faces               97/65536        5432/3670016  ( 0.1%) 
+origfaces               66/65536        3696/3670016  ( 0.1%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces              149/65536         298/131072   ( 0.2%) 
+leafbrushes             61/65536         122/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              736/512000       2944/2048000  ( 0.1%) 
+edges                  450/256000       1800/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          1/8192          100/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             10/32768         100/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      273164/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]        2484/393216   ( 0.6%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+HDR leaf ambient       120/65536        3360/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       10926/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 278
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10926 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 19
+Reduced 8 texdatas to 6 (244 bytes to 191)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+97 faces
+241932 square feet [34838288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+97 patches before subdivision
+3419 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118370, max 172
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(662, 601, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77, 63, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0032 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 29/8192          348/98304    ( 0.4%) 
+brushsides             174/65536        1392/524288   ( 0.3%) 
+planes                 178/65536        3560/1310720  ( 0.3%) 
+vertexes               183/65536        2196/786432   ( 0.3%) 
+nodes                   39/65536        1248/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   97/65536        5432/3670016  ( 0.1%) 
+hdr faces               97/65536        5432/3670016  ( 0.1%) 
+origfaces               66/65536        3696/3670016  ( 0.1%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces              149/65536         298/131072   ( 0.2%) 
+leafbrushes             61/65536         122/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              736/512000       2944/2048000  ( 0.1%) 
+edges                  450/256000       1800/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          1/8192          100/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             10/32768         100/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      273164/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]        2478/393216   ( 0.6%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+HDR leaf ambient       100/65536        2800/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       10926/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 278
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11118 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 19
+Reduced 8 texdatas to 6 (244 bytes to 191)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+97 faces
+241932 square feet [34838288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+97 patches before subdivision
+3419 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118370, max 172
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(662, 601, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77, 63, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 29/8192          348/98304    ( 0.4%) 
+brushsides             174/65536        1392/524288   ( 0.3%) 
+planes                 188/65536        3760/1310720  ( 0.3%) 
+vertexes               183/65536        2196/786432   ( 0.3%) 
+nodes                   39/65536        1248/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   97/65536        5432/3670016  ( 0.1%) 
+hdr faces               97/65536        5432/3670016  ( 0.1%) 
+origfaces               66/65536        3696/3670016  ( 0.1%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces              149/65536         298/131072   ( 0.2%) 
+leafbrushes             67/65536         134/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              736/512000       2944/2048000  ( 0.1%) 
+edges                  450/256000       1800/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          1/8192          100/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             10/32768         100/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           159/65536         318/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      273164/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]        3617/393216   ( 0.9%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+HDR leaf ambient       100/65536        2800/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       11118/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 278
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11182 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 19
+Reduced 8 texdatas to 6 (244 bytes to 191)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+105 faces
+242847 square feet [34970048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+105 patches before subdivision
+3603 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 119421, max 172
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(662, 601, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77, 63, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 29/8192          348/98304    ( 0.4%) 
+brushsides             174/65536        1392/524288   ( 0.3%) 
+planes                 190/65536        3800/1310720  ( 0.3%) 
+vertexes               189/65536        2268/786432   ( 0.3%) 
+nodes                   39/65536        1248/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  105/65536        5880/3670016  ( 0.2%) 
+hdr faces              105/65536        5880/3670016  ( 0.2%) 
+origfaces               72/65536        4032/3670016  ( 0.1%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces              159/65536         318/131072   ( 0.2%) 
+leafbrushes             67/65536         134/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              788/512000       3152/2048000  ( 0.2%) 
+edges                  474/256000       1896/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          1/8192          100/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      287164/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]        4589/393216   ( 1.2%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+HDR leaf ambient       102/65536        2856/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       11182/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 290
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11182 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 19
+Reduced 8 texdatas to 6 (244 bytes to 191)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+105 faces
+242847 square feet [34970048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+105 patches before subdivision
+3603 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 119421, max 172
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(662, 601, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77, 63, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0032 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 29/8192          348/98304    ( 0.4%) 
+brushsides             174/65536        1392/524288   ( 0.3%) 
+planes                 190/65536        3800/1310720  ( 0.3%) 
+vertexes               189/65536        2268/786432   ( 0.3%) 
+nodes                   39/65536        1248/2097152  ( 0.1%) 
+texinfos                19/12288        1368/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  105/65536        5880/3670016  ( 0.2%) 
+hdr faces              105/65536        5880/3670016  ( 0.2%) 
+origfaces               72/65536        4032/3670016  ( 0.1%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces              159/65536         318/131072   ( 0.2%) 
+leafbrushes             67/65536         134/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              788/512000       3152/2048000  ( 0.2%) 
+edges                  474/256000       1896/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          1/8192          100/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      287164/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]        4589/393216   ( 1.2%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+HDR leaf ambient       102/65536        2856/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       11182/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 290
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12284 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 24
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+113 faces
+241662 square feet [34799456.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+113 patches before subdivision
+3535 patches after subdivision
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122176, max 175
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(669, 610, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(78, 65, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 31/8192          372/98304    ( 0.4%) 
+brushsides             186/65536        1488/524288   ( 0.3%) 
+planes                 236/65536        4720/1310720  ( 0.4%) 
+vertexes               205/65536        2460/786432   ( 0.3%) 
+nodes                   51/65536        1632/2097152  ( 0.1%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  113/65536        6328/3670016  ( 0.2%) 
+hdr faces              113/65536        6328/3670016  ( 0.2%) 
+origfaces               80/65536        4480/3670016  ( 0.1%) 
+leaves                  57/65536        1824/2097152  ( 0.1%) 
+leaffaces              167/65536         334/131072   ( 0.3%) 
+leafbrushes             69/65536         138/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              852/512000       3408/2048000  ( 0.2%) 
+edges                  514/256000       2056/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          1/8192          100/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284524/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       12224/393216   ( 3.1%) 
+LDR ambient table       57/65536         228/262144   ( 0.1%) 
+HDR ambient table       57/65536         228/262144   ( 0.1%) 
+LDR leaf ambient        57/65536        1596/1835008  ( 0.1%) 
+HDR leaf ambient       174/65536        4872/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       12284/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 306
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12284 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 24
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+113 faces
+241662 square feet [34799456.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+113 patches before subdivision
+3535 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122176, max 175
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2482, 610, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(315, 65, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(40, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 31/8192          372/98304    ( 0.4%) 
+brushsides             186/65536        1488/524288   ( 0.3%) 
+planes                 236/65536        4720/1310720  ( 0.4%) 
+vertexes               205/65536        2460/786432   ( 0.3%) 
+nodes                   51/65536        1632/2097152  ( 0.1%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  113/65536        6328/3670016  ( 0.2%) 
+hdr faces              113/65536        6328/3670016  ( 0.2%) 
+origfaces               80/65536        4480/3670016  ( 0.1%) 
+leaves                  57/65536        1824/2097152  ( 0.1%) 
+leaffaces              167/65536         334/131072   ( 0.3%) 
+leafbrushes             69/65536         138/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              852/512000       3408/2048000  ( 0.2%) 
+edges                  514/256000       2056/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284524/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       12704/393216   ( 3.2%) 
+LDR ambient table       57/65536         228/262144   ( 0.1%) 
+HDR ambient table       57/65536         228/262144   ( 0.1%) 
+LDR leaf ambient        57/65536        1596/1835008  ( 0.1%) 
+HDR leaf ambient       192/65536        5376/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       12284/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 306
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\common\alien swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12284 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 24
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+113 faces
+241662 square feet [34799456.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+113 patches before subdivision
+3535 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122176, max 175
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2482, 610, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(315, 65, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(40, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 31/8192          372/98304    ( 0.4%) 
+brushsides             186/65536        1488/524288   ( 0.3%) 
+planes                 236/65536        4720/1310720  ( 0.4%) 
+vertexes               205/65536        2460/786432   ( 0.3%) 
+nodes                   51/65536        1632/2097152  ( 0.1%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  113/65536        6328/3670016  ( 0.2%) 
+hdr faces              113/65536        6328/3670016  ( 0.2%) 
+origfaces               80/65536        4480/3670016  ( 0.1%) 
+leaves                  57/65536        1824/2097152  ( 0.1%) 
+leaffaces              167/65536         334/131072   ( 0.3%) 
+leafbrushes             69/65536         138/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              852/512000       3408/2048000  ( 0.2%) 
+edges                  514/256000       2056/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284524/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       12857/393216   ( 3.3%) 
+LDR ambient table       57/65536         228/262144   ( 0.1%) 
+HDR ambient table       57/65536         228/262144   ( 0.1%) 
+LDR leaf ambient        57/65536        1596/1835008  ( 0.1%) 
+HDR leaf ambient       192/65536        5376/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       12284/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 306
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15016 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 75 texinfos to 39
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+143 faces
+242569 square feet [34930056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+143 patches before subdivision
+3645 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 130860, max 177
+transfer lists:   1.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2614, 640, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(335, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes                 36/8192          432/98304    ( 0.4%) 
+brushsides             228/65536        1824/524288   ( 0.3%) 
+planes                 336/65536        6720/1310720  ( 0.5%) 
+vertexes               245/65536        2940/786432   ( 0.4%) 
+nodes                   81/65536        2592/2097152  ( 0.1%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  143/65536        8008/3670016  ( 0.2%) 
+hdr faces              143/65536        8008/3670016  ( 0.2%) 
+origfaces              110/65536        6160/3670016  ( 0.2%) 
+leaves                  92/65536        2944/2097152  ( 0.1%) 
+leaffaces              197/65536         394/131072   ( 0.3%) 
+leafbrushes             74/65536         148/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1092/512000       4368/2048000  ( 0.2%) 
+edges                  634/256000       2536/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      289324/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       24156/393216   ( 6.1%) 
+LDR ambient table       92/65536         368/262144   ( 0.1%) 
+HDR ambient table       92/65536         368/262144   ( 0.1%) 
+LDR leaf ambient        92/65536        2576/1835008  ( 0.1%) 
+HDR leaf ambient       215/65536        6020/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       15016/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 366
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15571 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+148 faces
+243780 square feet [35104408.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+148 patches before subdivision
+3588 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122026, max 170
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2607, 633, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(331, 67, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0031 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 37/8192          444/98304    ( 0.5%) 
+brushsides             234/65536        1872/524288   ( 0.4%) 
+planes                 354/65536        7080/1310720  ( 0.5%) 
+vertexes               253/65536        3036/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces              115/65536        6440/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              201/65536         402/131072   ( 0.3%) 
+leafbrushes             75/65536         150/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  658/256000       2632/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284120/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26188/393216   ( 6.7%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       246/65536        6888/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       15571/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 376
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15571 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+148 faces
+243780 square feet [35104408.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+148 patches before subdivision
+3588 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122026, max 170
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2638, 662, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(334, 70, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 37/8192          444/98304    ( 0.5%) 
+brushsides             234/65536        1872/524288   ( 0.4%) 
+planes                 354/65536        7080/1310720  ( 0.5%) 
+vertexes               253/65536        3036/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces              115/65536        6440/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              201/65536         402/131072   ( 0.3%) 
+leafbrushes             75/65536         150/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  658/256000       2632/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284120/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26189/393216   ( 6.7%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       248/65536        6944/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       15571/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 376
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 48 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15571 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+148 faces
+243780 square feet [35104408.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+148 patches before subdivision
+3588 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122026, max 170
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2638, 662, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(334, 70, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 37/8192          444/98304    ( 0.5%) 
+brushsides             234/65536        1872/524288   ( 0.4%) 
+planes                 354/65536        7080/1310720  ( 0.5%) 
+vertexes               253/65536        3036/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  148/65536        8288/3670016  ( 0.2%) 
+hdr faces              148/65536        8288/3670016  ( 0.2%) 
+origfaces              115/65536        6440/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              201/65536         402/131072   ( 0.3%) 
+leafbrushes             75/65536         150/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1132/512000       4528/2048000  ( 0.2%) 
+edges                  658/256000       2632/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           126/65536         252/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284120/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26237/393216   ( 6.7%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       248/65536        6944/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       15571/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 376
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23173 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 93 texinfos to 51
+Reduced 13 texdatas to 9 (363 bytes to 272)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+188 faces
+245832 square feet [35399840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+188 patches before subdivision
+3916 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 135481, max 172
+transfer lists:   1.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2652, 679, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(340, 74, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                 53/8192          636/98304    ( 0.6%) 
+brushsides             330/65536        2640/524288   ( 0.5%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes               324/65536        3888/786432   ( 0.5%) 
+nodes                   99/65536        3168/2097152  ( 0.2%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  188/65536       10528/3670016  ( 0.3%) 
+hdr faces              188/65536       10528/3670016  ( 0.3%) 
+origfaces              151/65536        8456/3670016  ( 0.2%) 
+leaves                 113/65536        3616/2097152  ( 0.2%) 
+leaffaces              245/65536         490/131072   ( 0.4%) 
+leafbrushes             93/65536         186/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1484/512000       5936/2048000  ( 0.3%) 
+edges                  864/256000       3456/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             15/32768         150/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           234/65536         468/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      290560/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26772/393216   ( 6.8%) 
+LDR ambient table      113/65536         452/262144   ( 0.2%) 
+HDR ambient table      113/65536         452/262144   ( 0.2%) 
+LDR leaf ambient       113/65536        3164/1835008  ( 0.2%) 
+HDR leaf ambient       299/65536        8372/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       23173/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 504
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21797 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 51
+Reduced 12 texdatas to 9 (347 bytes to 272)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+188 faces
+245832 square feet [35399840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+188 patches before subdivision
+3916 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 135481, max 172
+transfer lists:   1.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2652, 679, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(340, 74, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                 53/8192          636/98304    ( 0.6%) 
+brushsides             330/65536        2640/524288   ( 0.5%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes               324/65536        3888/786432   ( 0.5%) 
+nodes                   99/65536        3168/2097152  ( 0.2%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  188/65536       10528/3670016  ( 0.3%) 
+hdr faces              188/65536       10528/3670016  ( 0.3%) 
+origfaces              151/65536        8456/3670016  ( 0.2%) 
+leaves                 113/65536        3616/2097152  ( 0.2%) 
+leaffaces              245/65536         490/131072   ( 0.4%) 
+leafbrushes             93/65536         186/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1484/512000       5936/2048000  ( 0.3%) 
+edges                  864/256000       3456/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             15/32768         150/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           234/65536         468/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      290560/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26730/393216   ( 6.8%) 
+LDR ambient table      113/65536         452/262144   ( 0.2%) 
+HDR ambient table      113/65536         452/262144   ( 0.2%) 
+LDR leaf ambient       113/65536        3164/1835008  ( 0.2%) 
+HDR leaf ambient       299/65536        8372/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       21797/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 504
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21797 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 51
+Reduced 12 texdatas to 9 (347 bytes to 272)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+188 faces
+245832 square feet [35399840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+188 patches before subdivision
+3916 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 135481, max 172
+transfer lists:   1.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2652, 679, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(340, 74, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                 53/8192          636/98304    ( 0.6%) 
+brushsides             330/65536        2640/524288   ( 0.5%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes               324/65536        3888/786432   ( 0.5%) 
+nodes                   99/65536        3168/2097152  ( 0.2%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  188/65536       10528/3670016  ( 0.3%) 
+hdr faces              188/65536       10528/3670016  ( 0.3%) 
+origfaces              151/65536        8456/3670016  ( 0.2%) 
+leaves                 113/65536        3616/2097152  ( 0.2%) 
+leaffaces              245/65536         490/131072   ( 0.4%) 
+leafbrushes             93/65536         186/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1484/512000       5936/2048000  ( 0.3%) 
+edges                  864/256000       3456/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             15/32768         150/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           234/65536         468/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      290560/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26779/393216   ( 6.8%) 
+LDR ambient table      113/65536         452/262144   ( 0.2%) 
+HDR ambient table      113/65536         452/262144   ( 0.2%) 
+LDR leaf ambient       113/65536        3164/1835008  ( 0.2%) 
+HDR leaf ambient       299/65536        8372/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       21797/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 504
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+2 seconds elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21797 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 51
+Reduced 12 texdatas to 9 (347 bytes to 272)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+188 faces
+245832 square feet [35399840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+188 patches before subdivision
+3916 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 135622, max 172
+transfer lists:   1.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2656, 683, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(341, 75, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0030 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                 53/8192          636/98304    ( 0.6%) 
+brushsides             330/65536        2640/524288   ( 0.5%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes               324/65536        3888/786432   ( 0.5%) 
+nodes                   99/65536        3168/2097152  ( 0.2%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  188/65536       10528/3670016  ( 0.3%) 
+hdr faces              188/65536       10528/3670016  ( 0.3%) 
+origfaces              151/65536        8456/3670016  ( 0.2%) 
+leaves                 113/65536        3616/2097152  ( 0.2%) 
+leaffaces              245/65536         490/131072   ( 0.4%) 
+leafbrushes             93/65536         186/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1484/512000       5936/2048000  ( 0.3%) 
+edges                  864/256000       3456/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             15/32768         150/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           234/65536         468/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      290560/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26809/393216   ( 6.8%) 
+LDR ambient table      113/65536         452/262144   ( 0.2%) 
+HDR ambient table      113/65536         452/262144   ( 0.2%) 
+LDR leaf ambient       113/65536        3164/1835008  ( 0.2%) 
+HDR leaf ambient       299/65536        8372/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       21797/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 504
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+150 faces
+243762 square feet [35101856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+3586 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122066, max 166
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2616, 653, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(333, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             252/65536        2016/524288   ( 0.4%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes               270/65536        3240/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces              150/65536        8400/3670016  ( 0.2%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              204/65536         408/131072   ( 0.3%) 
+leafbrushes             80/65536         160/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1152/512000       4608/2048000  ( 0.2%) 
+edges                  673/256000       2692/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           117/65536         234/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284336/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26251/393216   ( 6.7%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       16587/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+150 faces
+243762 square feet [35101856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+3586 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122066, max 166
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2616, 653, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(333, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             252/65536        2016/524288   ( 0.4%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes               270/65536        3240/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces              150/65536        8400/3670016  ( 0.2%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              204/65536         408/131072   ( 0.3%) 
+leafbrushes             80/65536         160/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1152/512000       4608/2048000  ( 0.2%) 
+edges                  673/256000       2692/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           117/65536         234/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284336/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26339/393216   ( 6.7%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       16587/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+150 faces
+243762 square feet [35101856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+3586 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122066, max 166
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2616, 653, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(333, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             252/65536        2016/524288   ( 0.4%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes               270/65536        3240/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces              150/65536        8400/3670016  ( 0.2%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              204/65536         408/131072   ( 0.3%) 
+leafbrushes             80/65536         160/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1152/512000       4608/2048000  ( 0.2%) 
+edges                  673/256000       2692/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           117/65536         234/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284336/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26861/393216   ( 6.8%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       16587/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+150 faces
+243762 square feet [35101856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+3586 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122066, max 166
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2616, 653, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(333, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             252/65536        2016/524288   ( 0.4%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes               270/65536        3240/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces              150/65536        8400/3670016  ( 0.2%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              204/65536         408/131072   ( 0.3%) 
+leafbrushes             80/65536         160/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1152/512000       4608/2048000  ( 0.2%) 
+edges                  673/256000       2692/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           117/65536         234/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284336/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       26881/393216   ( 6.8%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       16587/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+150 faces
+243762 square feet [35101856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+3586 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122066, max 166
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2616, 653, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(333, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             252/65536        2016/524288   ( 0.4%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes               270/65536        3240/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces              150/65536        8400/3670016  ( 0.2%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              204/65536         408/131072   ( 0.3%) 
+leafbrushes             80/65536         160/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1152/512000       4608/2048000  ( 0.2%) 
+edges                  673/256000       2692/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           117/65536         234/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284336/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       27638/393216   ( 7.0%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       16587/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+3 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+150 faces
+243762 square feet [35101856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+3586 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122066, max 166
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2616, 653, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(333, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             252/65536        2016/524288   ( 0.4%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes               270/65536        3240/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces              150/65536        8400/3670016  ( 0.2%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              204/65536         408/131072   ( 0.3%) 
+leafbrushes             80/65536         160/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1152/512000       4608/2048000  ( 0.2%) 
+edges                  673/256000       2692/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           117/65536         234/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284336/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       27384/393216   ( 7.0%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       16587/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed
+
+
+
+materialPath: D:\Program Files\steam\steamapps\common\Alien Swarm\swarm\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.vmf
+Patching WVT material: maps/asw_exp_gain/concrete/blendconcsnow001a_wvt_patch
+Patching WVT material: maps/asw_exp_gain/concrete/concretefloor051_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 60 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 10 texdatas to 8 (291 bytes to 238)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.prt
+   4 portalclusters
+   4 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+150 faces
+243762 square feet [35101856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+150 patches before subdivision
+3586 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 122066, max 166
+transfer lists:   0.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2616, 653, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(333, 68, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0030 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             252/65536        2016/524288   ( 0.4%) 
+planes                 360/65536        7200/1310720  ( 0.5%) 
+vertexes               270/65536        3240/786432   ( 0.4%) 
+nodes                   87/65536        2784/2097152  ( 0.1%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  150/65536        8400/3670016  ( 0.2%) 
+hdr faces              150/65536        8400/3670016  ( 0.2%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                  99/65536        3168/2097152  ( 0.2%) 
+leaffaces              204/65536         408/131072   ( 0.3%) 
+leafbrushes             80/65536         160/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1152/512000       4608/2048000  ( 0.2%) 
+edges                  673/256000       2692/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              8/32768          80/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           117/65536         234/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      284336/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]       27380/393216   ( 7.0%) 
+LDR ambient table       99/65536         396/262144   ( 0.2%) 
+HDR ambient table       99/65536         396/262144   ( 0.2%) 
+LDR leaf ambient        99/65536        2772/1835008  ( 0.2%) 
+HDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       75694/0        ( 0.0%) 
+physics               [variable]       16587/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 388
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\asw\asw_exp_gain.bsp
+1 second elapsed

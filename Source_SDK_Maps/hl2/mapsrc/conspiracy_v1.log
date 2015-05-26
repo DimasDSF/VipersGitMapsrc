@@ -1,0 +1,2665 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 218 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551072 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2585 texinfos to 1507
+Reduced 90 texdatas to 81 (2369 bytes to 1893)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (1379.00 -3963.00 352.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 5632.0 -1240.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 5164.0 5120.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 5676.0 5120.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 5632.0 10120.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6656.0 6144.0 3759.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 4608.0 -1240.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 4608.0 5120.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6144.0 4608.0 10120.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 214 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (554083 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2594 texinfos to 1527
+Reduced 91 texdatas to 81 (2411 bytes to 1902)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 214 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551987 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2594 texinfos to 1527
+Reduced 91 texdatas to 81 (2411 bytes to 1902)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 214 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551903 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2596 texinfos to 1530
+Reduced 92 texdatas to 83 (2411 bytes to 1939)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551777 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2588 texinfos to 1529
+Reduced 89 texdatas to 80 (2349 bytes to 1880)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+No vis information, direct lighting only.
+7596 faces
+10 degenerate faces
+4133695 square feet [595252160.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+158 direct lights
+0
+WARNING: Too many light styles on a face at (-5945.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5689.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5661.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5803.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5823.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5405.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5333.523438, -1362.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5357.000000, -1362.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5308.000000, -1362.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5798.000000, -1631.500000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5938.000000, -1631.500000, -393.000000)
+...
+WARNING: Too many light styles on a face at (-5354.000000, -1360.500000, -396.500000)
+
+WARNING: Too many light styles on a face at (-5328.000000, -1360.500000, -396.500000)
+
+WARNING: Too many light styles on a face at (-5305.000000, -1360.500000, -396.500000)
+1...2...3...4...5.
+WARNING: Too many light styles on a face at (-4881.500000, -472.925018, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4718.281738, -807.511169, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4717.000000, -480.924988, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4701.000000, -441.850006, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4849.500000, -480.924988, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4717.000000, -399.424988, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4739.004883, -829.425110, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4718.600098, -798.250000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4702.297363, -765.904053, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4850.299805, -483.125000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4739.804688, -831.625122, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4718.600098, -401.625000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4839.000000, -481.000000, -1961.000000)
+
+WARNING: Too many light styles on a face at (-4845.500000, -398.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5004.000000, -683.497864, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4871.500000, -481.000000, -1976.500000)
+
+WARNING: Too many light styles on a face at (-4871.000000, -481.000000, -1995.000000)
+
+WARNING: Too many light styles on a face at (-4871.000000, -481.000000, -1961.000000)
+
+WARNING: Too many light styles on a face at (-4997.000000, -398.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4864.000000, -472.000000, -1976.500000)
+
+WARNING: Too many light styles on a face at (-4856.000000, -424.000000, -1989.000000)
+
+WARNING: Too many light styles on a face at (-5003.278320, -686.004456, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4888.000000, -828.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4738.000000, -828.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4854.000000, -835.500000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-5116.899902, -1479.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5116.899902, -1401.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4906.812012, -1260.312622, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4781.000000, -1088.425049, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4847.399902, -1096.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4905.399902, -1156.900024, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4846.424805, -1227.088379, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4842.491211, -1228.498535, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4825.916016, -1212.832642, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4897.259277, -1097.517700, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4739.000000, -1024.925049, -2032.000000)
+.
+WARNING: Too many light styles on a face at (-5116.899902, -1479.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-4670.200195, -1748.900024, -386.000000)
+
+WARNING: Too many light styles on a face at (-4929.799805, -1401.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-4725.821777, -1722.112671, -386.000000)
+
+WARNING: Too many light styles on a face at (-5117.117188, -1496.557373, -386.000000)
+
+WARNING: Too many light styles on a face at (-4719.000000, -1748.900024, -386.000000)
+
+WARNING: Too many light styles on a face at (-4721.000000, -1429.000000, -383.450012)
+
+WARNING: Too many light styles on a face at (-4720.500000, -1464.900024, -383.000000)
+
+WARNING: Too many light styles on a face at (-4906.812012, -1260.312622, -1922.000000)
+.
+WARNING: Too many light styles on a face at (-4842.491211, -1228.498535, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4802.045898, -1221.178955, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4905.399902, -1156.900024, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4825.916016, -1212.832642, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4897.259277, -1097.517700, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4847.399902, -1093.949951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4739.799805, -1027.125000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4881.399902, -1083.949951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4449.799805, -1732.900024, -496.000000)
+
+WARNING: Too many light styles on a face at (-5116.899902, -1479.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-4929.799805, -1401.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-4725.410156, -1722.232178, -496.000000)
+
+WARNING: Too many light styles on a face at (-4894.356445, -1625.203369, -496.000000)
+
+WARNING: Too many light styles on a face at (-4710.600098, -1788.000000, -388.825012)
+
+WARNING: Too many light styles on a face at (-4758.941895, -1788.000000, -388.825012)
+
+WARNING: Too many light styles on a face at (-4791.200195, -1788.000000, -388.825012)
+
+WARNING: Too many light styles on a face at (-4899.000000, -1617.296021, -388.824982)
+
+WARNING: Too many light styles on a face at (-4721.000000, -1429.000000, -498.500000)
+
+WARNING: Too many light styles on a face at (-4722.000000, -1428.699951, -502.210022)
+
+WARNING: Too many light styles on a face at (-4720.500000, -1512.900024, -499.000000)
+
+WARNING: Too many light styles on a face at (-4722.000000, -1428.699951, -508.660004)
+
+WARNING: Too many light styles on a face at (-4722.000000, -1380.700073, -520.950012)
+
+WARNING: Too many light styles on a face at (-4883.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4769.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4738.000000, -1032.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4763.319824, -1082.000000, -1926.924805)
+
+WARNING: Too many light styles on a face at (-4883.359863, -1082.000000, -1926.924805)
+
+WARNING: Too many light styles on a face at (-4888.000000, -1032.000000, -1929.000000)
+6
+WARNING: Too many light styles on a face at (-4898.001953, -1253.454956, -1924.599976)
+
+WARNING: Too many light styles on a face at (-4852.000000, -1089.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4819.956055, -1232.035522, -1924.599976)
+
+WARNING: Too many light styles on a face at (-4856.687500, -1238.333496, -1924.599976)
+
+WARNING: Too many light styles on a face at (-4871.668945, -1240.901489, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5113.373535, -1626.373413, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5934.299805, -1630.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5885.299805, -1633.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5792.299805, -1635.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5792.299805, -1630.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5743.299805, -1633.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5658.299805, -1630.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5433.733398, -1477.133423, -386.000000)
+
+WARNING: Too many light styles on a face at (-5457.599609, -1401.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5401.732910, -1372.866577, -386.000000)
+
+WARNING: Too many light styles on a face at (-5674.299805, -1237.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5153.000000, -1401.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5147.899902, -1400.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-5617.599609, -1525.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5553.599609, -1515.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5506.431152, -1413.831299, -386.000000)
+
+WARNING: Too many light styles on a face at (-5595.799805, -1525.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5147.399902, -1480.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-5906.800781, -1656.200195, -386.000000)
+
+WARNING: Too many light styles on a face at (-5794.800781, -1688.200195, -386.000000)
+
+WARNING: Too many light styles on a face at (-5841.599609, -1580.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5617.599609, -1253.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5373.799805, -1367.000000, -386.000000)
+.
+WARNING: Too many light styles on a face at (-5693.511230, -1575.537720, -382.950531)
+
+WARNING: Too many light styles on a face at (-5948.799805, -1574.293457, -381.705688)
+
+WARNING: Too many light styles on a face at (-5955.292969, -1493.000000, -381.706665)
+
+WARNING: Too many light styles on a face at (-5956.625977, -1573.666626, -383.040070)
+
+WARNING: Too many light styles on a face at (-5954.666504, -1575.626587, -383.039398)
+
+WARNING: Too many light styles on a face at (-5710.949707, -1248.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5533.980469, -1291.250000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5966.949707, -1520.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5533.980469, -1520.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5519.251465, -1403.551636, -496.000000)
+
+WARNING: Too many light styles on a face at (-5566.949707, -1419.250000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5966.949707, -1515.000000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5533.980469, -1515.000000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5894.000000, -1631.299927, -496.000000)
+
+WARNING: Too many light styles on a face at (-5801.000000, -1702.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5752.000000, -1670.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5752.000000, -1631.299927, -496.000000)
+
+WARNING: Too many light styles on a face at (-5687.000000, -1638.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5476.000000, -1766.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5468.000000, -1702.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5431.966797, -1478.016724, -496.000000)
+
+WARNING: Too many light styles on a face at (-5454.949707, -1404.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5384.133301, -1362.658325, -496.000000)
+
+WARNING: Too many light styles on a face at (-5147.899902, -1400.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-5153.000000, -1404.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5147.399902, -1480.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-5372.475098, -1362.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5283.500000, -1362.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5677.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5819.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5959.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-6034.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5393.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1360.500000, -473.000000)
+
+WARNING: Too many light styles on a face at (-5370.600098, -1360.500000, -394.000000)
+
+WARNING: Too many light styles on a face at (-5370.600098, -1359.000000, -394.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1362.000000, -389.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1360.500000, -480.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1359.000000, -480.000000)
+
+WARNING: Too many light styles on a face at (-5373.532227, -1361.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5320.000000, -1357.500000, -480.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1362.000000, -489.000000)
+
+WARNING: Too many light styles on a face at (-5380.000000, -1362.000000, -489.500000)
+.
+WARNING: Too many light styles on a face at (-6036.000000, -1507.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5411.288574, -1392.538940, -489.500000)
+
+WARNING: Too many light styles on a face at (-5401.287598, -1373.701904, -489.500000)
+
+WARNING: Too many light styles on a face at (-5390.552734, -1366.394409, -489.500000)
+
+WARNING: Too many light styles on a face at (-5406.097656, -1379.441895, -489.500000)
+
+WARNING: Too many light styles on a face at (-6036.000000, -1621.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5888.000000, -1633.000000, -494.000000)
+
+WARNING: Too many light styles on a face at (-5814.000000, -1636.999756, -393.000000)
+
+WARNING: Too many light styles on a face at (-5748.000000, -1633.000000, -494.000000)
+
+WARNING: Too many light styles on a face at (-5757.000000, -1631.000000, -489.500000)
+
+WARNING: Too many light styles on a face at (-5897.000000, -1631.000000, -489.500000)
+
+WARNING: Too many light styles on a face at (-5176.200195, -1429.066406, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5225.390137, -1477.066406, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5146.833984, -1523.881958, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5133.399902, -1526.449951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5148.537109, -1479.726318, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5150.899902, -1400.949951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5148.030762, -1483.933350, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5238.600098, -1478.800049, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5174.600098, -1446.800049, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5146.833984, -1523.881958, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5133.399902, -1526.449951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5148.537109, -1479.726440, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5150.899902, -1400.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5148.030762, -1483.933472, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1476.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5150.793457, -1478.792969, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5148.000000, -1510.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5148.000000, -1518.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5121.905273, -1617.485962, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5120.629883, -1619.116699, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5289.390137, -1573.000000, -1929.033203)
+
+WARNING: Too many light styles on a face at (-5137.590332, -1558.588135, -1924.599976)
+.7
+WARNING: Too many light styles on a face at (-5159.000000, -1401.000000, -493.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1401.000000, -493.000000)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1401.000000, -389.000000)
+.
+WARNING: Too many light styles on a face at (-5410.000000, -1396.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5412.000000, -1473.000000, -495.500000)
+
+WARNING: Too many light styles on a face at (-5414.000000, -1401.000000, -493.000000)
+
+WARNING: Too many light styles on a face at (-5251.729980, -1363.000000, -395.530487)
+
+WARNING: Too many light styles on a face at (-5253.921387, -1363.000000, -394.369263)
+
+WARNING: Too many light styles on a face at (-5249.733887, -1363.000000, -391.617218)
+
+WARNING: Too many light styles on a face at (-5250.747559, -1363.000000, -397.938873)
+
+WARNING: Too many light styles on a face at (-5258.488281, -1363.000000, -399.411591)
+
+WARNING: Too many light styles on a face at (-5265.927734, -1363.000000, -398.697510)
+
+WARNING: Too many light styles on a face at (-5264.477051, -1363.000000, -395.777802)
+
+WARNING: Too many light styles on a face at (-5269.093750, -1363.000000, -395.660217)
+
+WARNING: Too many light styles on a face at (-5265.959961, -1363.000000, -392.628754)
+
+WARNING: Too many light styles on a face at (-5269.891113, -1363.000000, -391.929260)
+
+WARNING: Too many light styles on a face at (-5264.633301, -1363.000000, -390.935516)
+
+WARNING: Too many light styles on a face at (-5264.705078, -1363.000000, -400.377502)
+
+WARNING: Too many light styles on a face at (-5269.816895, -1363.000000, -399.315216)
+
+WARNING: Too many light styles on a face at (-5410.000000, -1475.412842, -393.000000)
+
+WARNING: Too many light styles on a face at (-5410.000000, -1431.412842, -393.000000)
+
+WARNING: Too many light styles on a face at (-4898.000000, -1474.373779, -408.968719)
+..8..
+WARNING: Too many light styles on a face at (-5842.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5705.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5422.000000, -1628.000000, -393.000000)
+.
+WARNING: Too many light styles on a face at (-5410.500000, -1627.000000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5410.500000, -1628.500000, -434.000000)
+
+WARNING: Too many light styles on a face at (-5686.000000, -1628.500000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5690.500000, -1627.000000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5690.500000, -1628.500000, -434.000000)
+
+WARNING: Too many light styles on a face at (-5826.000000, -1628.500000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5830.500000, -1627.000000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5830.500000, -1628.500000, -434.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1431.373779, -1928.984375)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1475.387085, -1928.984375)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1401.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-5157.000000, -1436.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1401.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1403.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-5157.000000, -1509.000000, -1922.500000)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1476.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-5157.000000, -1509.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-5153.000000, -1473.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4739.000000, -989.078552, -1930.386353)
+
+WARNING: Too many light styles on a face at (-4739.000000, -991.270874, -1931.524658)
+
+WARNING: Too many light styles on a face at (-4739.000000, -992.253052, -1933.935059)
+
+WARNING: Too many light styles on a face at (-4739.000000, -993.275146, -1927.620361)
+
+WARNING: Too many light styles on a face at (-4739.000000, -984.486938, -1935.411499)
+
+WARNING: Too many light styles on a face at (-4739.000000, -977.038452, -1928.631470)
+
+WARNING: Too many light styles on a face at (-4739.000000, -973.899780, -1931.652100)
+
+WARNING: Too many light styles on a face at (-4739.000000, -978.522583, -1931.781616)
+
+WARNING: Too many light styles on a face at (-4739.000000, -977.072449, -1934.697632)
+
+WARNING: Too many light styles on a face at (-4739.000000, -978.294434, -1936.377563)
+
+WARNING: Too many light styles on a face at (-4739.000000, -973.182434, -1935.312500)
+
+WARNING: Too many light styles on a face at (-4739.000000, -973.124512, -1927.908081)
+
+WARNING: Too many light styles on a face at (-4739.000000, -978.372803, -1926.946655)
+
+WARNING: Too many light styles on a face at (-4858.000000, -835.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -835.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -835.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -831.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4858.000000, -835.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -835.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -835.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4740.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4770.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4886.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4852.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -831.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -833.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4812.000000, -833.000000, -1929.000000)
+9
+WARNING: Too many light styles on a face at (-4777.000000, -1088.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4858.000000, -1084.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -1084.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -1084.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4858.000000, -1084.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -1084.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -1084.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4883.000000, -1082.000000, -1922.500000)
+
+WARNING: Too many light styles on a face at (-4738.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4854.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4888.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4740.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4770.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4886.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4852.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4883.000000, -1082.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4849.000000, -1086.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4811.520508, -1084.000000, -1928.984375)
+
+WARNING: Too many light styles on a face at (-4812.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4847.520508, -1084.000000, -1928.984375)
+...
+WARNING: Too many light styles on a face at (-4864.500000, -481.000000, -1976.500000)
+10Build Patch/Sample Hash Table(s).....Done<0.1421 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 196/1024         9408/49152    (19.1%) 
+brushes               1307/8192        15684/98304    (16.0%) 
+brushsides            9324/65536       74592/524288   (14.2%) 
+planes                6986/65536      139720/1310720  (10.7%) 
+vertexes             13752/65536      165024/786432   (21.0%) 
+nodes                 5208/65536      166656/2097152  ( 7.9%) 
+texinfos              1529/12288      110088/884736   (12.4%) 
+texdata                 80/2048         2560/65536    ( 3.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7596/65536      425376/3670016  (11.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3938/65536      220528/3670016  ( 6.0%) 
+leaves                5405/65536      172960/2097152  ( 8.2%) 
+leaffaces             9372/65536       18744/131072   (14.3%) 
+leafbrushes           2600/65536        5200/131072   ( 4.0%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            52200/512000     208800/2048000  (10.2%) 
+edges                31180/256000     124720/1024000  (12.2%) 
+LDR worldlights        158/8192        13904/720896   ( 1.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            736/32768        7360/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11685/65536       23370/131072   (17.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    14319384/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      220996/393216   (56.2%) 
+LDR ambient table     5405/65536       21620/262144   ( 8.2%) 
+HDR ambient table     5405/65536       21620/262144   ( 8.2%) 
+LDR leaf ambient     21221/65536      594188/1835008  (32.4%) 
+HDR leaf ambient      5405/65536      151340/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9930     ( 0.0%) 
+pakfile               [variable]      214327/0        ( 0.0%) 
+physics               [variable]      551777/4194304  (13.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20898
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+2 minutes, 33 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551777 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2584 texinfos to 1529
+Reduced 89 texdatas to 80 (2357 bytes to 1884)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+No vis information, direct lighting only.
+7588 faces
+10 degenerate faces
+4133696 square feet [595252288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+158 direct lights
+0
+WARNING: Too many light styles on a face at (-5945.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5689.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5661.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5803.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5823.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5405.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5357.000000, -1362.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5333.523438, -1362.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5308.000000, -1362.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5798.000000, -1631.500000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5938.000000, -1631.500000, -393.000000)
+...
+WARNING: Too many light styles on a face at (-5354.000000, -1360.500000, -396.500000)
+
+WARNING: Too many light styles on a face at (-5328.000000, -1360.500000, -396.500000)
+
+WARNING: Too many light styles on a face at (-5305.000000, -1360.500000, -396.500000)
+1...2...3...4...5.
+WARNING: Too many light styles on a face at (-4881.500000, -472.925018, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4718.281738, -807.511169, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4717.000000, -480.924988, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4701.000000, -441.850006, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4849.500000, -480.924988, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4717.000000, -399.424988, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4739.004883, -829.425110, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4718.600098, -798.250000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4702.297363, -765.904053, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4850.299805, -483.125000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4739.804688, -831.625122, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4718.600098, -401.625000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4839.000000, -481.000000, -1961.000000)
+
+WARNING: Too many light styles on a face at (-4845.500000, -398.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5004.000000, -683.497864, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4871.500000, -481.000000, -1976.500000)
+
+WARNING: Too many light styles on a face at (-4871.000000, -481.000000, -1995.000000)
+
+WARNING: Too many light styles on a face at (-4871.000000, -481.000000, -1961.000000)
+
+WARNING: Too many light styles on a face at (-4997.000000, -398.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4864.000000, -472.000000, -1976.500000)
+
+WARNING: Too many light styles on a face at (-4856.000000, -424.000000, -1989.000000)
+
+WARNING: Too many light styles on a face at (-5003.278320, -686.004456, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4888.000000, -828.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4738.000000, -828.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4854.000000, -835.500000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-5116.899902, -1479.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5116.899902, -1401.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4906.812012, -1260.312622, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4905.399902, -1156.900024, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4781.000000, -1088.425049, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4847.399902, -1096.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4846.424805, -1227.088379, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4842.491211, -1228.498535, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4825.916016, -1212.832642, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4897.259277, -1097.517700, -2032.000000)
+
+WARNING: Too many light styles on a face at (-4739.000000, -1024.925049, -2032.000000)
+.
+WARNING: Too many light styles on a face at (-5116.899902, -1479.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-4670.200195, -1748.900024, -386.000000)
+
+WARNING: Too many light styles on a face at (-4929.799805, -1401.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-4725.821777, -1722.112671, -386.000000)
+
+WARNING: Too many light styles on a face at (-5117.117188, -1496.557373, -386.000000)
+
+WARNING: Too many light styles on a face at (-4719.000000, -1748.900024, -386.000000)
+
+WARNING: Too many light styles on a face at (-4721.000000, -1429.000000, -383.450012)
+
+WARNING: Too many light styles on a face at (-4720.500000, -1464.900024, -383.000000)
+
+WARNING: Too many light styles on a face at (-4906.812012, -1260.312622, -1922.000000)
+.
+WARNING: Too many light styles on a face at (-4842.491211, -1228.498535, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4802.045898, -1221.178955, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4905.399902, -1156.900024, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4825.916016, -1212.832642, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4897.259277, -1097.517700, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4847.399902, -1093.949951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4739.799805, -1027.125000, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4881.399902, -1083.949951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-4449.799805, -1732.900024, -496.000000)
+
+WARNING: Too many light styles on a face at (-5116.899902, -1479.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-4929.799805, -1401.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-4725.410156, -1722.232178, -496.000000)
+
+WARNING: Too many light styles on a face at (-4894.356445, -1625.203369, -496.000000)
+
+WARNING: Too many light styles on a face at (-4710.600098, -1788.000000, -388.825012)
+
+WARNING: Too many light styles on a face at (-4758.941895, -1788.000000, -388.825012)
+
+WARNING: Too many light styles on a face at (-4791.200195, -1788.000000, -388.825012)
+
+WARNING: Too many light styles on a face at (-4899.000000, -1617.296021, -388.824982)
+
+WARNING: Too many light styles on a face at (-4721.000000, -1429.000000, -498.500000)
+
+WARNING: Too many light styles on a face at (-4722.000000, -1428.699951, -502.210022)
+
+WARNING: Too many light styles on a face at (-4720.500000, -1512.900024, -499.000000)
+
+WARNING: Too many light styles on a face at (-4722.000000, -1428.699951, -508.660004)
+
+WARNING: Too many light styles on a face at (-4722.000000, -1380.700073, -520.950012)
+
+WARNING: Too many light styles on a face at (-4883.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4769.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4738.000000, -1032.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4763.319824, -1082.000000, -1926.924805)
+
+WARNING: Too many light styles on a face at (-4883.359863, -1082.000000, -1926.924805)
+
+WARNING: Too many light styles on a face at (-4888.000000, -1032.000000, -1929.000000)
+6
+WARNING: Too many light styles on a face at (-4898.001953, -1253.454956, -1924.599976)
+
+WARNING: Too many light styles on a face at (-4852.000000, -1089.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4819.956055, -1232.035522, -1924.599976)
+
+WARNING: Too many light styles on a face at (-4856.687500, -1238.333496, -1924.599976)
+
+WARNING: Too many light styles on a face at (-4871.668945, -1240.901489, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5113.373535, -1626.373413, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5934.299805, -1630.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5885.299805, -1633.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5792.299805, -1635.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5792.299805, -1630.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5743.299805, -1633.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5658.299805, -1630.500000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5433.733398, -1477.133423, -386.000000)
+
+WARNING: Too many light styles on a face at (-5457.599609, -1401.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5401.732910, -1372.866577, -386.000000)
+
+WARNING: Too many light styles on a face at (-5674.299805, -1237.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5153.000000, -1401.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5147.899902, -1400.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-5617.599609, -1525.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5553.599609, -1515.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5506.431152, -1413.831299, -386.000000)
+
+WARNING: Too many light styles on a face at (-5595.799805, -1525.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5147.399902, -1480.949951, -386.000000)
+
+WARNING: Too many light styles on a face at (-5906.800781, -1656.200195, -386.000000)
+
+WARNING: Too many light styles on a face at (-5794.800781, -1688.200195, -386.000000)
+
+WARNING: Too many light styles on a face at (-5841.599609, -1580.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5617.599609, -1253.000000, -386.000000)
+
+WARNING: Too many light styles on a face at (-5373.799805, -1367.000000, -386.000000)
+.
+WARNING: Too many light styles on a face at (-5693.511230, -1575.537720, -382.950531)
+
+WARNING: Too many light styles on a face at (-5948.799805, -1574.293457, -381.705688)
+
+WARNING: Too many light styles on a face at (-5955.292969, -1493.000000, -381.706665)
+
+WARNING: Too many light styles on a face at (-5956.625977, -1573.666626, -383.040070)
+
+WARNING: Too many light styles on a face at (-5954.666504, -1575.626587, -383.039398)
+
+WARNING: Too many light styles on a face at (-5710.949707, -1248.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5533.980469, -1291.250000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5966.949707, -1520.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5533.980469, -1520.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5519.251465, -1403.551636, -496.000000)
+
+WARNING: Too many light styles on a face at (-5566.949707, -1419.250000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5966.949707, -1515.000000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5533.980469, -1515.000000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5894.000000, -1631.299927, -496.000000)
+
+WARNING: Too many light styles on a face at (-5801.000000, -1702.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5752.000000, -1670.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5752.000000, -1631.299927, -496.000000)
+
+WARNING: Too many light styles on a face at (-5687.000000, -1638.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5476.000000, -1766.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5431.966797, -1478.016724, -496.000000)
+
+WARNING: Too many light styles on a face at (-5454.949707, -1404.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5468.000000, -1702.599976, -496.000000)
+
+WARNING: Too many light styles on a face at (-5384.133301, -1362.658325, -496.000000)
+
+WARNING: Too many light styles on a face at (-5147.899902, -1400.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-5153.000000, -1404.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5147.399902, -1480.949951, -496.000000)
+
+WARNING: Too many light styles on a face at (-5372.475098, -1362.125000, -496.000000)
+
+WARNING: Too many light styles on a face at (-5283.500000, -1362.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5677.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5819.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5959.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-6034.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5393.500000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1360.500000, -473.000000)
+
+WARNING: Too many light styles on a face at (-5370.600098, -1360.500000, -394.000000)
+
+WARNING: Too many light styles on a face at (-5370.600098, -1359.000000, -394.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1362.000000, -389.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1360.500000, -480.000000)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1359.000000, -480.000000)
+
+WARNING: Too many light styles on a face at (-5320.000000, -1357.500000, -480.000000)
+
+WARNING: Too many light styles on a face at (-5373.532227, -1361.000000, -401.039063)
+
+WARNING: Too many light styles on a face at (-5377.000000, -1362.000000, -489.000000)
+
+WARNING: Too many light styles on a face at (-5380.000000, -1362.000000, -489.500000)
+
+WARNING: Too many light styles on a face at (-6036.000000, -1507.000000, -393.000000)
+.
+WARNING: Too many light styles on a face at (-5411.288574, -1392.538940, -489.500000)
+
+WARNING: Too many light styles on a face at (-5401.287598, -1373.701904, -489.500000)
+
+WARNING: Too many light styles on a face at (-5390.552734, -1366.394409, -489.500000)
+
+WARNING: Too many light styles on a face at (-5406.097656, -1379.441895, -489.500000)
+
+WARNING: Too many light styles on a face at (-6036.000000, -1621.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5888.000000, -1633.000000, -494.000000)
+
+WARNING: Too many light styles on a face at (-5814.000000, -1636.999756, -393.000000)
+
+WARNING: Too many light styles on a face at (-5748.000000, -1633.000000, -494.000000)
+
+WARNING: Too many light styles on a face at (-5757.000000, -1631.000000, -489.500000)
+
+WARNING: Too many light styles on a face at (-5897.000000, -1631.000000, -489.500000)
+
+WARNING: Too many light styles on a face at (-5176.200195, -1429.066406, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5146.833984, -1523.881958, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5133.399902, -1526.449951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5225.390137, -1477.066406, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5148.537109, -1479.726318, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5150.899902, -1400.949951, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5148.030762, -1483.933350, -1922.000000)
+
+WARNING: Too many light styles on a face at (-5238.600098, -1478.800049, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5174.600098, -1446.800049, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5146.833984, -1523.881958, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5133.399902, -1526.449951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5148.537109, -1479.726440, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5150.899902, -1400.949951, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5148.030762, -1483.933472, -2032.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1476.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5150.793457, -1478.792969, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5148.000000, -1510.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5148.000000, -1518.500000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5121.905273, -1617.485962, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5120.629883, -1619.116699, -1924.599976)
+
+WARNING: Too many light styles on a face at (-5289.390137, -1573.000000, -1929.033203)
+
+WARNING: Too many light styles on a face at (-5137.590332, -1558.588135, -1924.599976)
+.7
+WARNING: Too many light styles on a face at (-5159.000000, -1401.000000, -493.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1401.000000, -493.000000)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1401.000000, -389.000000)
+.
+WARNING: Too many light styles on a face at (-5410.000000, -1396.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5412.000000, -1473.000000, -495.500000)
+
+WARNING: Too many light styles on a face at (-5414.000000, -1401.000000, -493.000000)
+
+WARNING: Too many light styles on a face at (-5251.729980, -1363.000000, -395.530487)
+
+WARNING: Too many light styles on a face at (-5253.921387, -1363.000000, -394.369263)
+
+WARNING: Too many light styles on a face at (-5249.733887, -1363.000000, -391.617218)
+
+WARNING: Too many light styles on a face at (-5250.747559, -1363.000000, -397.938873)
+
+WARNING: Too many light styles on a face at (-5258.488281, -1363.000000, -399.411591)
+
+WARNING: Too many light styles on a face at (-5265.927734, -1363.000000, -398.697510)
+
+WARNING: Too many light styles on a face at (-5264.477051, -1363.000000, -395.777802)
+
+WARNING: Too many light styles on a face at (-5269.093750, -1363.000000, -395.660217)
+
+WARNING: Too many light styles on a face at (-5265.959961, -1363.000000, -392.628754)
+
+WARNING: Too many light styles on a face at (-5269.891113, -1363.000000, -391.929260)
+
+WARNING: Too many light styles on a face at (-5264.633301, -1363.000000, -390.935516)
+
+WARNING: Too many light styles on a face at (-5264.705078, -1363.000000, -400.377502)
+
+WARNING: Too many light styles on a face at (-5269.816895, -1363.000000, -399.315216)
+
+WARNING: Too many light styles on a face at (-5410.000000, -1475.412842, -393.000000)
+
+WARNING: Too many light styles on a face at (-5410.000000, -1431.412842, -393.000000)
+
+WARNING: Too many light styles on a face at (-4898.000000, -1474.373779, -408.968719)
+..8..
+WARNING: Too many light styles on a face at (-5842.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5705.000000, -1628.000000, -393.000000)
+
+WARNING: Too many light styles on a face at (-5422.000000, -1628.000000, -393.000000)
+.
+WARNING: Too many light styles on a face at (-5410.500000, -1627.000000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5410.500000, -1628.500000, -434.000000)
+
+WARNING: Too many light styles on a face at (-5690.500000, -1627.000000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5686.000000, -1628.500000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5690.500000, -1628.500000, -434.000000)
+
+WARNING: Too many light styles on a face at (-5826.000000, -1628.500000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5830.500000, -1627.000000, -441.000000)
+
+WARNING: Too many light styles on a face at (-5830.500000, -1628.500000, -434.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1431.373779, -1928.984375)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1475.387085, -1928.984375)
+
+WARNING: Too many light styles on a face at (-5157.000000, -1436.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1401.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-5155.000000, -1401.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1403.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-5157.000000, -1509.000000, -1922.500000)
+
+WARNING: Too many light styles on a face at (-5159.000000, -1476.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-5157.000000, -1509.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-5153.000000, -1473.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4739.000000, -989.078552, -1930.386353)
+
+WARNING: Too many light styles on a face at (-4739.000000, -991.270874, -1931.524658)
+
+WARNING: Too many light styles on a face at (-4739.000000, -993.275146, -1927.620361)
+
+WARNING: Too many light styles on a face at (-4739.000000, -992.253052, -1933.935059)
+
+WARNING: Too many light styles on a face at (-4739.000000, -984.486938, -1935.411499)
+
+WARNING: Too many light styles on a face at (-4739.000000, -977.038452, -1928.631470)
+
+WARNING: Too many light styles on a face at (-4739.000000, -973.899780, -1931.652100)
+
+WARNING: Too many light styles on a face at (-4739.000000, -978.522583, -1931.781616)
+
+WARNING: Too many light styles on a face at (-4739.000000, -977.072449, -1934.697632)
+
+WARNING: Too many light styles on a face at (-4739.000000, -978.294434, -1936.377563)
+
+WARNING: Too many light styles on a face at (-4739.000000, -973.182434, -1935.312500)
+
+WARNING: Too many light styles on a face at (-4739.000000, -973.124512, -1927.908081)
+
+WARNING: Too many light styles on a face at (-4739.000000, -978.372803, -1926.946655)
+
+WARNING: Too many light styles on a face at (-4858.000000, -835.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -835.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -835.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4858.000000, -835.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -831.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -835.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -835.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4740.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4770.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4886.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4852.000000, -835.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -831.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -833.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4812.000000, -833.000000, -1929.000000)
+9
+WARNING: Too many light styles on a face at (-4777.000000, -1088.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4858.000000, -1084.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -1084.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -1084.000000, -2029.000000)
+
+WARNING: Too many light styles on a face at (-4858.000000, -1084.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4777.000000, -1084.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4744.000000, -1084.000000, -1925.000000)
+
+WARNING: Too many light styles on a face at (-4883.000000, -1082.000000, -1922.500000)
+
+WARNING: Too many light styles on a face at (-4738.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4854.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4888.000000, -1082.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4740.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4770.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4886.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4852.000000, -1084.000000, -1930.500000)
+
+WARNING: Too many light styles on a face at (-4883.000000, -1082.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4849.000000, -1086.000000, -2031.500000)
+
+WARNING: Too many light styles on a face at (-4772.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4811.520508, -1084.000000, -1928.984375)
+
+WARNING: Too many light styles on a face at (-4812.000000, -1086.000000, -1929.000000)
+
+WARNING: Too many light styles on a face at (-4847.520508, -1084.000000, -1928.984375)
+...
+WARNING: Too many light styles on a face at (-4864.500000, -481.000000, -1976.500000)
+10Build Patch/Sample Hash Table(s).....Done<0.1409 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 196/1024         9408/49152    (19.1%) 
+brushes               1307/8192        15684/98304    (16.0%) 
+brushsides            9324/65536       74592/524288   (14.2%) 
+planes                6986/65536      139720/1310720  (10.7%) 
+vertexes             13723/65536      164676/786432   (20.9%) 
+nodes                 5200/65536      166400/2097152  ( 7.9%) 
+texinfos              1529/12288      110088/884736   (12.4%) 
+texdata                 80/2048         2560/65536    ( 3.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7588/65536      424928/3670016  (11.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3938/65536      220528/3670016  ( 6.0%) 
+leaves                5397/65536      172704/2097152  ( 8.2%) 
+leaffaces             9428/65536       18856/131072   (14.4%) 
+leafbrushes           2596/65536        5192/131072   ( 4.0%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            52150/512000     208600/2048000  (10.2%) 
+edges                31155/256000     124620/1024000  (12.2%) 
+LDR worldlights        158/8192        13904/720896   ( 1.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            732/32768        7320/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11622/65536       23244/131072   (17.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    14320768/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      222211/393216   (56.5%) 
+LDR ambient table     5397/65536       21588/262144   ( 8.2%) 
+HDR ambient table     5397/65536       21588/262144   ( 8.2%) 
+LDR leaf ambient     21203/65536      593684/1835008  (32.4%) 
+HDR leaf ambient      5397/65536      151116/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9930     ( 0.0%) 
+pakfile               [variable]      214339/0        ( 0.0%) 
+physics               [variable]      551777/4194304  (13.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20864
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+2 minutes, 32 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551777 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2584 texinfos to 1529
+Reduced 91 texdatas to 82 (2386 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551777 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2584 texinfos to 1529
+Reduced 91 texdatas to 82 (2386 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551777 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2584 texinfos to 1529
+Reduced 91 texdatas to 82 (2386 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551777 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2584 texinfos to 1529
+Reduced 91 texdatas to 82 (2386 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (551777 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2584 texinfos to 1529
+Reduced 91 texdatas to 82 (2386 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (553955 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2593 texinfos to 1538
+Reduced 91 texdatas to 82 (2386 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (553955 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2597 texinfos to 1542
+Reduced 89 texdatas to 80 (2352 bytes to 1881)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (559375 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2614 texinfos to 1557
+Reduced 90 texdatas to 81 (2392 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (560012 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2615 texinfos to 1557
+Reduced 91 texdatas to 81 (2443 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+error: material TOOLS/TOOLSPLAYERCLIP doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (559375 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2617 texinfos to 1557
+Reduced 91 texdatas to 81 (2414 bytes to 1921)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (558565 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2611 texinfos to 1560
+Reduced 90 texdatas to 82 (2388 bytes to 1955)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (558565 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2611 texinfos to 1560
+Reduced 90 texdatas to 82 (2388 bytes to 1955)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (558629 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2611 texinfos to 1560
+Reduced 90 texdatas to 82 (2388 bytes to 1955)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+error: material NATURE/TOXICSLIME002A_DX70_BENEATH doesn't have a $bottommaterial
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (558077 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2608 texinfos to 1557
+Reduced 90 texdatas to 82 (2388 bytes to 1955)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (555311 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2590 texinfos to 1539
+Reduced 90 texdatas to 82 (2362 bytes to 1942)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (557965 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2593 texinfos to 1542
+Reduced 90 texdatas to 82 (2362 bytes to 1942)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (557965 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2593 texinfos to 1542
+Reduced 90 texdatas to 82 (2362 bytes to 1942)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (557965 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2593 texinfos to 1542
+Reduced 90 texdatas to 82 (2362 bytes to 1942)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (548836 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2501 texinfos to 1519
+Reduced 95 texdatas to 86 (2532 bytes to 2056)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-10448.00 1168.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (548836 bytes)
+Static prop models/props_foliage/tree_deciduous_card_01_skybox.mdl outside the map (-10448.00, 1168.00, -120.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2503 texinfos to 1523
+Reduced 95 texdatas to 86 (2532 bytes to 2056)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\conspiracy_v1.bsp
+5 seconds elapsed

@@ -1,0 +1,24 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\testmapdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Brush 11805: MAX_MAP_BRUSHSIDES
+Side 5
+Texture: MODELS/PROPS_COMBINE/COMBINE_MONITORBAY_DISP
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\testmapdesert.bsp
+Error opening c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\testmapdesert.bsp
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\testmapdesert.bsp
+Error opening c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\testmapdesert.bsp

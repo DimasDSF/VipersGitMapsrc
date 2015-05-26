@@ -1,0 +1,1149 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4..Brush 3560: WARNING, microbrush
+.5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (126163 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 134 texinfos to 80
+Reduced 25 texdatas to 22 (605 bytes to 514)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+No vis information, direct lighting only.
+3780 faces
+4 degenerate faces
+1546878 square feet [222750528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 130.000000 130.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0352 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                341/8192         4092/98304    ( 4.2%) 
+brushsides            2819/65536       22552/524288   ( 4.3%) 
+planes                3212/65536       64240/1310720  ( 4.9%) 
+vertexes              5884/65536       70608/786432   ( 9.0%) 
+nodes                 2894/65536       92608/2097152  ( 4.4%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3780/65536      211680/3670016  ( 5.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1270/65536       71120/3670016  ( 1.9%) 
+leaves                2907/65536       93024/2097152  ( 4.4%) 
+leaffaces             4387/65536        8774/131072   ( 6.7%) 
+leafbrushes           1805/65536        3610/131072   ( 2.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            23720/512000      94880/2048000  ( 4.6%) 
+edges                12899/256000      51596/1024000  ( 5.0%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            422/32768        4220/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6711/65536       13422/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1744044/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       74030/393216   (18.8%) 
+LDR ambient table     2907/65536       11628/262144   ( 4.4%) 
+HDR ambient table     2907/65536       11628/262144   ( 4.4%) 
+LDR leaf ambient      3873/65536      108444/1835008  ( 5.9%) 
+HDR leaf ambient      2907/65536       81396/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212387/0        ( 0.0%) 
+physics               [variable]      126163/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11037
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+25 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4..Brush 3560: WARNING, microbrush
+.5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (126163 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 134 texinfos to 80
+Reduced 25 texdatas to 22 (605 bytes to 514)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+No vis information, direct lighting only.
+3780 faces
+4 degenerate faces
+1546878 square feet [222750528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 130.000000 130.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0345 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                341/8192         4092/98304    ( 4.2%) 
+brushsides            2819/65536       22552/524288   ( 4.3%) 
+planes                3212/65536       64240/1310720  ( 4.9%) 
+vertexes              5884/65536       70608/786432   ( 9.0%) 
+nodes                 2894/65536       92608/2097152  ( 4.4%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3780/65536      211680/3670016  ( 5.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1270/65536       71120/3670016  ( 1.9%) 
+leaves                2907/65536       93024/2097152  ( 4.4%) 
+leaffaces             4387/65536        8774/131072   ( 6.7%) 
+leafbrushes           1805/65536        3610/131072   ( 2.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            23720/512000      94880/2048000  ( 4.6%) 
+edges                12899/256000      51596/1024000  ( 5.0%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            422/32768        4220/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6711/65536       13422/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1744044/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       73672/393216   (18.7%) 
+LDR ambient table     2907/65536       11628/262144   ( 4.4%) 
+HDR ambient table     2907/65536       11628/262144   ( 4.4%) 
+LDR leaf ambient      3877/65536      108556/1835008  ( 5.9%) 
+HDR leaf ambient      2907/65536       81396/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212387/0        ( 0.0%) 
+physics               [variable]      126163/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11037
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+25 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4..Brush 3560: WARNING, microbrush
+.5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (126163 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 134 texinfos to 80
+Reduced 25 texdatas to 22 (605 bytes to 514)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+No vis information, direct lighting only.
+3780 faces
+4 degenerate faces
+1546878 square feet [222750528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 130.000000 130.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+can't solve quadratic for light 74.000000 74.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0289 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                341/8192         4092/98304    ( 4.2%) 
+brushsides            2819/65536       22552/524288   ( 4.3%) 
+planes                3212/65536       64240/1310720  ( 4.9%) 
+vertexes              5884/65536       70608/786432   ( 9.0%) 
+nodes                 2894/65536       92608/2097152  ( 4.4%) 
+texinfos                80/12288        5760/884736   ( 0.7%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3780/65536      211680/3670016  ( 5.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1270/65536       71120/3670016  ( 1.9%) 
+leaves                2907/65536       93024/2097152  ( 4.4%) 
+leaffaces             4387/65536        8774/131072   ( 6.7%) 
+leafbrushes           1805/65536        3610/131072   ( 2.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            23720/512000      94880/2048000  ( 4.6%) 
+edges                12899/256000      51596/1024000  ( 5.0%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            422/32768        4220/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6711/65536       13422/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1744044/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       71248/393216   (18.1%) 
+LDR ambient table     2907/65536       11628/262144   ( 4.4%) 
+HDR ambient table     2907/65536       11628/262144   ( 4.4%) 
+LDR leaf ambient      3877/65536      108556/1835008  ( 5.9%) 
+HDR leaf ambient      2907/65536       81396/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212387/0        ( 0.0%) 
+physics               [variable]      126163/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11037
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+25 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4..Brush 3560: WARNING, microbrush
+.5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (126163 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 134 texinfos to 80
+Reduced 25 texdatas to 22 (605 bytes to 514)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4..Brush 3560: WARNING, microbrush
+.5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (100051 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 113 texinfos to 61
+Reduced 20 texdatas to 17 (484 bytes to 393)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (99659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 113 texinfos to 61
+Reduced 20 texdatas to 17 (484 bytes to 393)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (99659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 113 texinfos to 61
+Reduced 20 texdatas to 17 (484 bytes to 393)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (99659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 113 texinfos to 61
+Reduced 20 texdatas to 17 (484 bytes to 393)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.4 383.5 127.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (578.9 384.0 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (519.8 383.5 126.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7344: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (99659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 113 texinfos to 61
+Reduced 20 texdatas to 17 (484 bytes to 393)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (99659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 113 texinfos to 61
+Reduced 20 texdatas to 17 (484 bytes to 393)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (99111 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 105 texinfos to 57
+Reduced 20 texdatas to 17 (484 bytes to 393)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (98563 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 54
+Reduced 19 texdatas to 16 (463 bytes to 372)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (98563 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 54
+Reduced 19 texdatas to 16 (463 bytes to 372)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (98563 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 54
+Reduced 19 texdatas to 16 (463 bytes to 372)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (98563 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 54
+Reduced 19 texdatas to 16 (463 bytes to 372)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (98563 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 54
+Reduced 19 texdatas to 16 (463 bytes to 372)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (98563 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 54
+Reduced 19 texdatas to 16 (463 bytes to 372)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/stalkermap/nature/blendmuddirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3Brush 3560: WARNING, microbrush
+...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (2986.00 -129.00 -279.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (98563 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 54
+Reduced 19 texdatas to 16 (463 bytes to 372)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\stalkermap.bsp
+2 seconds elapsed

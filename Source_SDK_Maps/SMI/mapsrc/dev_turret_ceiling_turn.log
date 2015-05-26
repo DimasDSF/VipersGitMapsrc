@@ -1,0 +1,528 @@
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8907 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 24
+Reduced 6 texdatas to 6 (135 bytes to 135)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8908 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 26
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 29
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  21 portalclusters
+  51 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 439
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 21
+visdatasize:298  compressed from 336
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 29
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  21 portalclusters
+  51 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 439
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 21
+visdatasize:298  compressed from 336
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 29
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  21 portalclusters
+  51 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 439
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 21
+visdatasize:298  compressed from 336
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 29
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  21 portalclusters
+  51 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 439
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 21
+visdatasize:298  compressed from 336
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 29
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  21 portalclusters
+  51 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 439
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 21
+visdatasize:298  compressed from 336
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 29
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  21 portalclusters
+  51 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 439
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 21
+visdatasize:298  compressed from 336
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (9300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 29
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  21 portalclusters
+  51 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 439
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 21
+visdatasize:298  compressed from 336
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 49 texinfos to 31
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  13 portalclusters
+  37 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 169
+Average clusters visible: 13
+Building PAS...
+Average clusters audible: 13
+visdatasize:160  compressed from 208
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 49 texinfos to 31
+Reduced 6 texdatas to 6 (140 bytes to 140)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.prt
+  13 portalclusters
+  37 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 169
+Average clusters visible: 13
+Building PAS...
+Average clusters audible: 13
+visdatasize:160  compressed from 208
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_turret_ceiling_turn.bsp
+0 seconds elapsed

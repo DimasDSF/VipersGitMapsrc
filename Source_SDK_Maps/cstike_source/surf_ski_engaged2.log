@@ -1,0 +1,2011 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.vmf
+material "nature/snowfloor003a" not found
+Material not found!: NATURE/SNOWFLOOR003A
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLAB, using default
+material "metal/metalfloor007a" not found
+Material not found!: METAL/METALFLOOR007A
+material "nature/snowfloor001a" not found
+Material not found!: NATURE/SNOWFLOOR001A
+material "nature/snowwall004a" not found
+Material not found!: NATURE/SNOWWALL004A
+Can't find surfaceprop wood for material CS_ITALY/BOXSIDES_T01, using default
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "concrete/concretefloor014a" not found
+Material not found!: CONCRETE/CONCRETEFLOOR014A
+material "nature/snowfloor002a" not found
+Material not found!: NATURE/SNOWFLOOR002A
+Can't find surfaceprop metal for material DE_NUKE/NUKE_CEILING_02, using default
+material "props/plasticexitsign001b" not found
+Material not found!: PROPS/PLASTICEXITSIGN001B
+material "props/plasticexitsign002a" not found
+Material not found!: PROPS/PLASTICEXITSIGN002A
+Can't find surfaceprop metal for material ENVIRONMENT MAPS/PIPEMETAL004B, using default
+material "decals/credits" not found
+Material not found!: DECALS/CREDITS
+material "metal/metalpipe001a" not found
+Material not found!: METAL/METALPIPE001A
+material "cable/red" not found
+Material not found!: CABLE/RED
+material "cable/blue" not found
+Material not found!: CABLE/BLUE
+Can't find surfaceprop wood for material CS_HAVANA/WOODM, using default
+material "sprites/hydraspinalcord" not found
+Material not found!: SPRITES/HYDRASPINALCORD
+material "sprites/plasma" not found
+Material not found!: SPRITES/PLASMA
+material "cable/green" not found
+Material not found!: CABLE/GREEN
+material "sprites/physbeam" not found
+Material not found!: SPRITES/PHYSBEAM
+material "sprites/xbeam2" not found
+Material not found!: SPRITES/XBEAM2
+material "sprites/strider_bluebeam" not found
+Material not found!: SPRITES/STRIDER_BLUEBEAM
+material "lights/white004" not found
+Material not found!: LIGHTS/WHITE004
+Can't find surfaceprop metal for material CS_ITALY/IRONMETAL01, using default
+Can't find surfaceprop concrete for material CONCRETE/OFFFLRASNOW, using default
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "glass/reflectiveglass002" not found
+Material not found!: GLASS/REFLECTIVEGLASS002
+material "dev/dev_glassfrosted01a" not found
+Material not found!: DEV/DEV_GLASSFROSTED01A
+material "glass/glasswindow017a" not found
+Material not found!: GLASS/GLASSWINDOW017A
+material "lights/white002" not found
+Material not found!: LIGHTS/WHITE002
+Can't find surfaceprop metal for material EFFECTS/OFFELEVDRSA, using default
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "brick/brickfloor001a" not found
+Material not found!: BRICK/BRICKFLOOR001A
+material "props/signdanger002a" not found
+Material not found!: PROPS/SIGNDANGER002A
+material "lights/white003" not found
+Material not found!: LIGHTS/WHITE003
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "nature/water_canals_city_murky_dx70" not found
+Material not found!: NATURE/WATER_CANALS_CITY_MURKY_DX70
+material "nature/water_movingplane" not found
+Material not found!: NATURE/WATER_MOVINGPLANE
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material LIQUIDS/AZTECWATER, using default
+material "metal/metaldoor003a" not found
+Material not found!: METAL/METALDOOR003A
+material "sprites/640hud7" not found
+Material not found!: SPRITES/640HUD7
+Can't find surfaceprop metal for material DE_NUKE/NUKE_METALFLOOR_01, using default
+material "props/doorbutton002a" not found
+Material not found!: PROPS/DOORBUTTON002A
+Can't find surfaceprop plastic for material GLASS/BLINDS_ILLUMINATED, using default
+Can't find surfaceprop rubber for material CUSTOM/KEYPAD_BUTTON_1, using default
+material "effects/combinedisplay002a" not found
+Material not found!: EFFECTS/COMBINEDISPLAY002A
+material "effects/combinedisplay001b" not found
+Material not found!: EFFECTS/COMBINEDISPLAY001B
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "" not found
+Material not found!: 
+material "metal/metalladder001a" not found
+Material not found!: METAL/METALLADDER001A
+material "sprites/combineball_glow_red_1" not found
+Material not found!: SPRITES/COMBINEBALL_GLOW_RED_1
+material "tools/toolsinvisible" not found
+Material not found!: TOOLS/TOOLSINVISIBLE
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_laser (6848.78 5564.00 394.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7705.1, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7435.2, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0, 4608.0, 653.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+material "dev/dev_waterbeneath2" not found
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_99, using default
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_20, using default
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+material "skybox/sky_day01_08rt" not found
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (415635 bytes)
+Error loading studio model "models/props_combine/combine_barricade_short01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1155 texinfos to 959
+Reduced 72 texdatas to 58 (2016 bytes to 1230)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.bsp
+14 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.vmf
+material "nature/snowfloor003a" not found
+Material not found!: NATURE/SNOWFLOOR003A
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLAB, using default
+material "metal/metalfloor007a" not found
+Material not found!: METAL/METALFLOOR007A
+material "nature/snowfloor001a" not found
+Material not found!: NATURE/SNOWFLOOR001A
+material "nature/snowwall004a" not found
+Material not found!: NATURE/SNOWWALL004A
+Can't find surfaceprop wood for material CS_ITALY/BOXSIDES_T01, using default
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "concrete/concretefloor014a" not found
+Material not found!: CONCRETE/CONCRETEFLOOR014A
+material "nature/snowfloor002a" not found
+Material not found!: NATURE/SNOWFLOOR002A
+Can't find surfaceprop metal for material DE_NUKE/NUKE_CEILING_02, using default
+material "props/plasticexitsign001b" not found
+Material not found!: PROPS/PLASTICEXITSIGN001B
+material "props/plasticexitsign002a" not found
+Material not found!: PROPS/PLASTICEXITSIGN002A
+Can't find surfaceprop metal for material ENVIRONMENT MAPS/PIPEMETAL004B, using default
+material "decals/credits" not found
+Material not found!: DECALS/CREDITS
+material "metal/metalpipe001a" not found
+Material not found!: METAL/METALPIPE001A
+material "cable/red" not found
+Material not found!: CABLE/RED
+material "cable/blue" not found
+Material not found!: CABLE/BLUE
+Can't find surfaceprop wood for material CS_HAVANA/WOODM, using default
+material "sprites/hydraspinalcord" not found
+Material not found!: SPRITES/HYDRASPINALCORD
+material "sprites/plasma" not found
+Material not found!: SPRITES/PLASMA
+material "cable/green" not found
+Material not found!: CABLE/GREEN
+material "sprites/physbeam" not found
+Material not found!: SPRITES/PHYSBEAM
+material "sprites/xbeam2" not found
+Material not found!: SPRITES/XBEAM2
+material "sprites/strider_bluebeam" not found
+Material not found!: SPRITES/STRIDER_BLUEBEAM
+material "lights/white004" not found
+Material not found!: LIGHTS/WHITE004
+Can't find surfaceprop metal for material CS_ITALY/IRONMETAL01, using default
+Can't find surfaceprop concrete for material CONCRETE/OFFFLRASNOW, using default
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "glass/reflectiveglass002" not found
+Material not found!: GLASS/REFLECTIVEGLASS002
+material "dev/dev_glassfrosted01a" not found
+Material not found!: DEV/DEV_GLASSFROSTED01A
+material "glass/glasswindow017a" not found
+Material not found!: GLASS/GLASSWINDOW017A
+material "lights/white002" not found
+Material not found!: LIGHTS/WHITE002
+Can't find surfaceprop metal for material EFFECTS/OFFELEVDRSA, using default
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "brick/brickfloor001a" not found
+Material not found!: BRICK/BRICKFLOOR001A
+material "props/signdanger002a" not found
+Material not found!: PROPS/SIGNDANGER002A
+material "lights/white003" not found
+Material not found!: LIGHTS/WHITE003
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "nature/water_canals_city_murky_dx70" not found
+Material not found!: NATURE/WATER_CANALS_CITY_MURKY_DX70
+material "nature/water_movingplane" not found
+Material not found!: NATURE/WATER_MOVINGPLANE
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material LIQUIDS/AZTECWATER, using default
+material "metal/metaldoor003a" not found
+Material not found!: METAL/METALDOOR003A
+material "sprites/640hud7" not found
+Material not found!: SPRITES/640HUD7
+Can't find surfaceprop metal for material DE_NUKE/NUKE_METALFLOOR_01, using default
+material "props/doorbutton002a" not found
+Material not found!: PROPS/DOORBUTTON002A
+Can't find surfaceprop plastic for material GLASS/BLINDS_ILLUMINATED, using default
+Can't find surfaceprop rubber for material CUSTOM/KEYPAD_BUTTON_1, using default
+material "effects/combinedisplay002a" not found
+Material not found!: EFFECTS/COMBINEDISPLAY002A
+material "effects/combinedisplay001b" not found
+Material not found!: EFFECTS/COMBINEDISPLAY001B
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "" not found
+Material not found!: 
+material "metal/metalladder001a" not found
+Material not found!: METAL/METALLADDER001A
+material "sprites/combineball_glow_red_1" not found
+Material not found!: SPRITES/COMBINEBALL_GLOW_RED_1
+material "tools/toolsinvisible" not found
+Material not found!: TOOLS/TOOLSINVISIBLE
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_laser (6848.78 5564.00 394.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7705.1, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7435.2, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0, 4608.0, 653.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+material "dev/dev_waterbeneath2" not found
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_99, using default
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_20, using default
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+material "skybox/sky_day01_08rt" not found
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (416183 bytes)
+Error loading studio model "models/props_combine/combine_barricade_short01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1159 texinfos to 962
+Reduced 72 texdatas to 58 (2016 bytes to 1230)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.bsp
+13 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.vmf
+material "nature/snowfloor003a" not found
+Material not found!: NATURE/SNOWFLOOR003A
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLAB, using default
+material "metal/metalfloor007a" not found
+Material not found!: METAL/METALFLOOR007A
+material "nature/snowfloor001a" not found
+Material not found!: NATURE/SNOWFLOOR001A
+material "nature/snowwall004a" not found
+Material not found!: NATURE/SNOWWALL004A
+Can't find surfaceprop wood for material CS_ITALY/BOXSIDES_T01, using default
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "concrete/concretefloor014a" not found
+Material not found!: CONCRETE/CONCRETEFLOOR014A
+material "nature/snowfloor002a" not found
+Material not found!: NATURE/SNOWFLOOR002A
+Can't find surfaceprop metal for material DE_NUKE/NUKE_CEILING_02, using default
+material "props/plasticexitsign001b" not found
+Material not found!: PROPS/PLASTICEXITSIGN001B
+material "props/plasticexitsign002a" not found
+Material not found!: PROPS/PLASTICEXITSIGN002A
+Can't find surfaceprop metal for material ENVIRONMENT MAPS/PIPEMETAL004B, using default
+material "decals/credits" not found
+Material not found!: DECALS/CREDITS
+material "metal/metalpipe001a" not found
+Material not found!: METAL/METALPIPE001A
+material "cable/red" not found
+Material not found!: CABLE/RED
+material "cable/blue" not found
+Material not found!: CABLE/BLUE
+Can't find surfaceprop wood for material CS_HAVANA/WOODM, using default
+material "sprites/hydraspinalcord" not found
+Material not found!: SPRITES/HYDRASPINALCORD
+material "sprites/plasma" not found
+Material not found!: SPRITES/PLASMA
+material "cable/green" not found
+Material not found!: CABLE/GREEN
+material "sprites/physbeam" not found
+Material not found!: SPRITES/PHYSBEAM
+material "sprites/xbeam2" not found
+Material not found!: SPRITES/XBEAM2
+material "sprites/strider_bluebeam" not found
+Material not found!: SPRITES/STRIDER_BLUEBEAM
+material "lights/white004" not found
+Material not found!: LIGHTS/WHITE004
+Can't find surfaceprop metal for material CS_ITALY/IRONMETAL01, using default
+Can't find surfaceprop concrete for material CONCRETE/OFFFLRASNOW, using default
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "glass/reflectiveglass002" not found
+Material not found!: GLASS/REFLECTIVEGLASS002
+material "dev/dev_glassfrosted01a" not found
+Material not found!: DEV/DEV_GLASSFROSTED01A
+material "glass/glasswindow017a" not found
+Material not found!: GLASS/GLASSWINDOW017A
+material "lights/white002" not found
+Material not found!: LIGHTS/WHITE002
+Can't find surfaceprop metal for material EFFECTS/OFFELEVDRSA, using default
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "brick/brickfloor001a" not found
+Material not found!: BRICK/BRICKFLOOR001A
+material "props/signdanger002a" not found
+Material not found!: PROPS/SIGNDANGER002A
+material "lights/white003" not found
+Material not found!: LIGHTS/WHITE003
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "nature/water_canals_city_murky_dx70" not found
+Material not found!: NATURE/WATER_CANALS_CITY_MURKY_DX70
+material "nature/water_movingplane" not found
+Material not found!: NATURE/WATER_MOVINGPLANE
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material LIQUIDS/AZTECWATER, using default
+material "metal/metaldoor003a" not found
+Material not found!: METAL/METALDOOR003A
+material "sprites/640hud7" not found
+Material not found!: SPRITES/640HUD7
+Can't find surfaceprop metal for material DE_NUKE/NUKE_METALFLOOR_01, using default
+material "props/doorbutton002a" not found
+Material not found!: PROPS/DOORBUTTON002A
+Can't find surfaceprop plastic for material GLASS/BLINDS_ILLUMINATED, using default
+Can't find surfaceprop rubber for material CUSTOM/KEYPAD_BUTTON_1, using default
+material "effects/combinedisplay002a" not found
+Material not found!: EFFECTS/COMBINEDISPLAY002A
+material "effects/combinedisplay001b" not found
+Material not found!: EFFECTS/COMBINEDISPLAY001B
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "" not found
+Material not found!: 
+material "metal/metalladder001a" not found
+Material not found!: METAL/METALLADDER001A
+material "sprites/combineball_glow_red_1" not found
+Material not found!: SPRITES/COMBINEBALL_GLOW_RED_1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_laser (6848.78 5564.00 394.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7705.1, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7435.2, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0, 4608.0, 653.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+material "dev/dev_waterbeneath2" not found
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_99, using default
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_20, using default
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+material "skybox/sky_day01_08rt" not found
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (415088 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1146 texinfos to 954
+Reduced 71 texdatas to 57 (1995 bytes to 1209)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.bsp
+13 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.vmf
+material "nature/snowfloor003a" not found
+Material not found!: NATURE/SNOWFLOOR003A
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLAB, using default
+material "metal/metalfloor007a" not found
+Material not found!: METAL/METALFLOOR007A
+material "nature/snowfloor001a" not found
+Material not found!: NATURE/SNOWFLOOR001A
+material "nature/snowwall004a" not found
+Material not found!: NATURE/SNOWWALL004A
+Can't find surfaceprop wood for material CS_ITALY/BOXSIDES_T01, using default
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "concrete/concretefloor014a" not found
+Material not found!: CONCRETE/CONCRETEFLOOR014A
+material "nature/snowfloor002a" not found
+Material not found!: NATURE/SNOWFLOOR002A
+Can't find surfaceprop metal for material DE_NUKE/NUKE_CEILING_02, using default
+material "props/plasticexitsign001b" not found
+Material not found!: PROPS/PLASTICEXITSIGN001B
+material "props/plasticexitsign002a" not found
+Material not found!: PROPS/PLASTICEXITSIGN002A
+Can't find surfaceprop metal for material ENVIRONMENT MAPS/PIPEMETAL004B, using default
+material "decals/credits" not found
+Material not found!: DECALS/CREDITS
+material "metal/metalpipe001a" not found
+Material not found!: METAL/METALPIPE001A
+material "cable/red" not found
+Material not found!: CABLE/RED
+material "cable/blue" not found
+Material not found!: CABLE/BLUE
+Can't find surfaceprop wood for material CS_HAVANA/WOODM, using default
+material "sprites/hydraspinalcord" not found
+Material not found!: SPRITES/HYDRASPINALCORD
+material "sprites/plasma" not found
+Material not found!: SPRITES/PLASMA
+material "cable/green" not found
+Material not found!: CABLE/GREEN
+material "sprites/physbeam" not found
+Material not found!: SPRITES/PHYSBEAM
+material "sprites/xbeam2" not found
+Material not found!: SPRITES/XBEAM2
+material "sprites/strider_bluebeam" not found
+Material not found!: SPRITES/STRIDER_BLUEBEAM
+material "lights/white004" not found
+Material not found!: LIGHTS/WHITE004
+Can't find surfaceprop metal for material CS_ITALY/IRONMETAL01, using default
+Can't find surfaceprop concrete for material CONCRETE/OFFFLRASNOW, using default
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "glass/reflectiveglass002" not found
+Material not found!: GLASS/REFLECTIVEGLASS002
+material "dev/dev_glassfrosted01a" not found
+Material not found!: DEV/DEV_GLASSFROSTED01A
+material "glass/glasswindow017a" not found
+Material not found!: GLASS/GLASSWINDOW017A
+material "lights/white002" not found
+Material not found!: LIGHTS/WHITE002
+Can't find surfaceprop metal for material EFFECTS/OFFELEVDRSA, using default
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "brick/brickfloor001a" not found
+Material not found!: BRICK/BRICKFLOOR001A
+material "props/signdanger002a" not found
+Material not found!: PROPS/SIGNDANGER002A
+material "lights/white003" not found
+Material not found!: LIGHTS/WHITE003
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "nature/water_canals_city_murky_dx70" not found
+Material not found!: NATURE/WATER_CANALS_CITY_MURKY_DX70
+material "nature/water_movingplane" not found
+Material not found!: NATURE/WATER_MOVINGPLANE
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material LIQUIDS/AZTECWATER, using default
+material "metal/metaldoor003a" not found
+Material not found!: METAL/METALDOOR003A
+material "sprites/640hud7" not found
+Material not found!: SPRITES/640HUD7
+Can't find surfaceprop metal for material DE_NUKE/NUKE_METALFLOOR_01, using default
+material "props/doorbutton002a" not found
+Material not found!: PROPS/DOORBUTTON002A
+Can't find surfaceprop plastic for material GLASS/BLINDS_ILLUMINATED, using default
+Can't find surfaceprop rubber for material CUSTOM/KEYPAD_BUTTON_1, using default
+material "effects/combinedisplay002a" not found
+Material not found!: EFFECTS/COMBINEDISPLAY002A
+material "effects/combinedisplay001b" not found
+Material not found!: EFFECTS/COMBINEDISPLAY001B
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "" not found
+Material not found!: 
+material "metal/metalladder001a" not found
+Material not found!: METAL/METALLADDER001A
+material "sprites/combineball_glow_red_1" not found
+Material not found!: SPRITES/COMBINEBALL_GLOW_RED_1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_laser (6848.78 5564.00 394.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7705.1, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7435.2, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0, 4608.0, 653.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+material "dev/dev_waterbeneath2" not found
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_99, using default
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_20, using default
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+material "skybox/sky_day01_08rt" not found
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (415088 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1146 texinfos to 954
+Reduced 71 texdatas to 57 (1995 bytes to 1209)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.bsp
+13 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.vmf
+material "nature/snowfloor003a" not found
+Material not found!: NATURE/SNOWFLOOR003A
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLAB, using default
+material "metal/metalfloor007a" not found
+Material not found!: METAL/METALFLOOR007A
+material "nature/snowfloor001a" not found
+Material not found!: NATURE/SNOWFLOOR001A
+material "nature/snowwall004a" not found
+Material not found!: NATURE/SNOWWALL004A
+Can't find surfaceprop wood for material CS_ITALY/BOXSIDES_T01, using default
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "concrete/concretefloor014a" not found
+Material not found!: CONCRETE/CONCRETEFLOOR014A
+material "nature/snowfloor002a" not found
+Material not found!: NATURE/SNOWFLOOR002A
+Can't find surfaceprop metal for material DE_NUKE/NUKE_CEILING_02, using default
+material "props/plasticexitsign001b" not found
+Material not found!: PROPS/PLASTICEXITSIGN001B
+material "props/plasticexitsign002a" not found
+Material not found!: PROPS/PLASTICEXITSIGN002A
+Can't find surfaceprop metal for material ENVIRONMENT MAPS/PIPEMETAL004B, using default
+material "decals/credits" not found
+Material not found!: DECALS/CREDITS
+material "metal/metalpipe001a" not found
+Material not found!: METAL/METALPIPE001A
+material "cable/red" not found
+Material not found!: CABLE/RED
+material "cable/blue" not found
+Material not found!: CABLE/BLUE
+Can't find surfaceprop wood for material CS_HAVANA/WOODM, using default
+material "sprites/hydraspinalcord" not found
+Material not found!: SPRITES/HYDRASPINALCORD
+material "sprites/plasma" not found
+Material not found!: SPRITES/PLASMA
+material "cable/green" not found
+Material not found!: CABLE/GREEN
+material "sprites/physbeam" not found
+Material not found!: SPRITES/PHYSBEAM
+material "sprites/xbeam2" not found
+Material not found!: SPRITES/XBEAM2
+material "sprites/strider_bluebeam" not found
+Material not found!: SPRITES/STRIDER_BLUEBEAM
+material "lights/white004" not found
+Material not found!: LIGHTS/WHITE004
+Can't find surfaceprop metal for material CS_ITALY/IRONMETAL01, using default
+Can't find surfaceprop concrete for material CONCRETE/OFFFLRASNOW, using default
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+material "glass/reflectiveglass002" not found
+Material not found!: GLASS/REFLECTIVEGLASS002
+material "dev/dev_glassfrosted01a" not found
+Material not found!: DEV/DEV_GLASSFROSTED01A
+material "glass/glasswindow017a" not found
+Material not found!: GLASS/GLASSWINDOW017A
+material "lights/white002" not found
+Material not found!: LIGHTS/WHITE002
+Can't find surfaceprop metal for material EFFECTS/OFFELEVDRSA, using default
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "brick/brickfloor001a" not found
+Material not found!: BRICK/BRICKFLOOR001A
+material "props/signdanger002a" not found
+Material not found!: PROPS/SIGNDANGER002A
+material "lights/white003" not found
+Material not found!: LIGHTS/WHITE003
+material "dev/dev_hazzardstripe01a" not found
+Material not found!: DEV/DEV_HAZZARDSTRIPE01A
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "nature/water_canals_city_murky_dx70" not found
+Material not found!: NATURE/WATER_CANALS_CITY_MURKY_DX70
+material "nature/water_movingplane" not found
+Material not found!: NATURE/WATER_MOVINGPLANE
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material LIQUIDS/AZTECWATER, using default
+material "metal/metaldoor003a" not found
+Material not found!: METAL/METALDOOR003A
+material "sprites/640hud7" not found
+Material not found!: SPRITES/640HUD7
+Can't find surfaceprop metal for material DE_NUKE/NUKE_METALFLOOR_01, using default
+material "props/doorbutton002a" not found
+Material not found!: PROPS/DOORBUTTON002A
+Can't find surfaceprop plastic for material GLASS/BLINDS_ILLUMINATED, using default
+Can't find surfaceprop rubber for material CUSTOM/KEYPAD_BUTTON_1, using default
+material "effects/combinedisplay002a" not found
+Material not found!: EFFECTS/COMBINEDISPLAY002A
+material "effects/combinedisplay001b" not found
+Material not found!: EFFECTS/COMBINEDISPLAY001B
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "" not found
+Material not found!: 
+material "metal/metalladder001a" not found
+Material not found!: METAL/METALLADDER001A
+material "sprites/combineball_glow_red_1" not found
+Material not found!: SPRITES/COMBINEBALL_GLOW_RED_1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_laser (6848.78 5564.00 394.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, 2330.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7705.1, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7435.2, 5120.0, 680.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7950.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7438.0, 5120.0, -997.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0, 4608.0, 653.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material NATURE/WATER_CANALS_CITY_MURKY_DX70 doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+error: material NATURE/WATER_MOVINGPLANE doesn't have a $bottommaterial
+material "dev/dev_waterbeneath2" not found
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_99, using default
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+"materials/dev/water_normal.vtf": cached version doesn't exist
+Can't find surfaceprop water for material maps/surf_ski_engaged2/liquids/aztecwater_depth_20, using default
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material CS_ITALY/BLACK doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material NATURE/SNOWFLOOR001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+error: material GLASS/COMBINEGLASS001A doesn't have a $bottommaterial
+material "skybox/sky_day01_08rt" not found
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_08 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (414537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1146 texinfos to 954
+Reduced 71 texdatas to 57 (1995 bytes to 1209)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\surf_ski_engaged2.bsp
+14 seconds elapsed

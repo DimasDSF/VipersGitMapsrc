@@ -1,0 +1,704 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.vmf
+material "water/water_nordic01" not found.
+Material not found!: WATER/WATER_NORDIC01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "aztec/aztec030" not found.
+Material not found!: AZTEC/AZTEC030
+material "aztec/floortiles" not found.
+Material not found!: AZTEC/FLOORTILES
+material "aztec/aztec007" not found.
+Material not found!: AZTEC/AZTEC007
+material "aztec/altar" not found.
+Material not found!: AZTEC/ALTAR
+material "aztec/aztec013" not found.
+Material not found!: AZTEC/AZTEC013
+material "aztec/aztec001" not found.
+Material not found!: AZTEC/AZTEC001
+material "aztec/stairtop" not found.
+Material not found!: AZTEC/STAIRTOP
+material "aztec/aztec015" not found.
+Material not found!: AZTEC/AZTEC015
+material "someco/element_red" not found.
+Material not found!: SOMECO/ELEMENT_RED
+material "someco/element_white" not found.
+Material not found!: SOMECO/ELEMENT_WHITE
+material "someco/element_brown" not found.
+Material not found!: SOMECO/ELEMENT_BROWN
+material "someco/element_blue" not found.
+Material not found!: SOMECO/ELEMENT_BLUE
+material "someco/marsfloor" not found.
+Material not found!: SOMECO/MARSFLOOR
+material "someco/venusground" not found.
+Material not found!: SOMECO/VENUSGROUND
+material "someco/venusground2" not found.
+Material not found!: SOMECO/VENUSGROUND2
+material "someco/plutorock" not found.
+Material not found!: SOMECO/PLUTOROCK
+material "someco/uranusfloor" not found.
+Material not found!: SOMECO/URANUSFLOOR
+material "aztec/altarwall2" not found.
+Material not found!: AZTEC/ALTARWALL2
+material "aztec/stairside" not found.
+Material not found!: AZTEC/STAIRSIDE
+material "aztec/lava" not found.
+Material not found!: AZTEC/LAVA
+material "someco/energy" not found.
+Material not found!: SOMECO/ENERGY
+material "someco/eye" not found.
+Material not found!: SOMECO/EYE
+material "someco/button_admin" not found.
+Material not found!: SOMECO/BUTTON_ADMIN
+material "someco/nonpcsbutton" not found.
+Material not found!: SOMECO/NONPCSBUTTON
+material "someco/button_fog" not found.
+Material not found!: SOMECO/BUTTON_FOG
+material "someco/resetallbutton" not found.
+Material not found!: SOMECO/RESETALLBUTTON
+material "someco/button_nobh" not found.
+Material not found!: SOMECO/BUTTON_NOBH
+material "someco/button_gravity" not found.
+Material not found!: SOMECO/BUTTON_GRAVITY
+material "someco/button_skybox" not found.
+Material not found!: SOMECO/BUTTON_SKYBOX
+material "someco/infdoorc" not found.
+Material not found!: SOMECO/INFDOORC
+material "aztec/aztec029" not found.
+Material not found!: AZTEC/AZTEC029
+material "someco/title" not found.
+Material not found!: SOMECO/TITLE
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrocksgrass005a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendcliffdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1180 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.prt...Building visibility clusters...
+done (0)
+material "skybox/spaceomenrt" not found.
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Finding displacement neighbors...
+Warning: overflowed 4 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (61) (607474 bytes)
+Static prop models/props_c17/metalladder001.mdl outside the map (7435.52, 9615.27, -7064.43)
+Static prop models/props_c17/metalladder001.mdl outside the map (6470.22, 9860.29, -6782.46)
+Error loading studio model "models/someco/alienstone.mdl"!
+Error loading studio model "models/someco/alienstone2.mdl"!
+Error loading studio model "models/props/endofuniverse.mdl"!
+Error loading studio model "models/props/robot.mdl"!
+Error loading studio model "models/someco/alien.mdl"!
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturefridge001a.mdl"!
+Error! prop_static using model "models/props_interiors/furniture_chair03a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/furniture_chair03a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+9...10
+Compacting texture/material tables...
+Reduced 2940 texinfos to 1409
+Reduced 203 texdatas to 163 (7146 bytes to 5650)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.bsp
+1 minute, 20 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.vmf
+material "water/water_nordic01" not found.
+Material not found!: WATER/WATER_NORDIC01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "aztec/aztec030" not found.
+Material not found!: AZTEC/AZTEC030
+material "aztec/floortiles" not found.
+Material not found!: AZTEC/FLOORTILES
+material "aztec/aztec007" not found.
+Material not found!: AZTEC/AZTEC007
+material "aztec/altar" not found.
+Material not found!: AZTEC/ALTAR
+material "aztec/aztec013" not found.
+Material not found!: AZTEC/AZTEC013
+material "aztec/aztec001" not found.
+Material not found!: AZTEC/AZTEC001
+material "aztec/stairtop" not found.
+Material not found!: AZTEC/STAIRTOP
+material "aztec/aztec015" not found.
+Material not found!: AZTEC/AZTEC015
+material "someco/element_red" not found.
+Material not found!: SOMECO/ELEMENT_RED
+material "someco/element_white" not found.
+Material not found!: SOMECO/ELEMENT_WHITE
+material "someco/element_brown" not found.
+Material not found!: SOMECO/ELEMENT_BROWN
+material "someco/element_blue" not found.
+Material not found!: SOMECO/ELEMENT_BLUE
+material "someco/marsfloor" not found.
+Material not found!: SOMECO/MARSFLOOR
+material "someco/venusground" not found.
+Material not found!: SOMECO/VENUSGROUND
+material "someco/venusground2" not found.
+Material not found!: SOMECO/VENUSGROUND2
+material "someco/plutorock" not found.
+Material not found!: SOMECO/PLUTOROCK
+material "someco/uranusfloor" not found.
+Material not found!: SOMECO/URANUSFLOOR
+material "aztec/altarwall2" not found.
+Material not found!: AZTEC/ALTARWALL2
+material "aztec/stairside" not found.
+Material not found!: AZTEC/STAIRSIDE
+material "aztec/lava" not found.
+Material not found!: AZTEC/LAVA
+material "someco/energy" not found.
+Material not found!: SOMECO/ENERGY
+material "someco/eye" not found.
+Material not found!: SOMECO/EYE
+material "someco/button_admin" not found.
+Material not found!: SOMECO/BUTTON_ADMIN
+material "someco/nonpcsbutton" not found.
+Material not found!: SOMECO/NONPCSBUTTON
+material "someco/button_fog" not found.
+Material not found!: SOMECO/BUTTON_FOG
+material "someco/resetallbutton" not found.
+Material not found!: SOMECO/RESETALLBUTTON
+material "someco/button_nobh" not found.
+Material not found!: SOMECO/BUTTON_NOBH
+material "someco/button_gravity" not found.
+Material not found!: SOMECO/BUTTON_GRAVITY
+material "someco/button_skybox" not found.
+Material not found!: SOMECO/BUTTON_SKYBOX
+material "someco/infdoorc" not found.
+Material not found!: SOMECO/INFDOORC
+material "aztec/aztec029" not found.
+Material not found!: AZTEC/AZTEC029
+material "someco/title" not found.
+Material not found!: SOMECO/TITLE
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrocksgrass005a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendcliffdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.prt...Building visibility clusters...
+done (0)
+material "skybox/spaceomenrt" not found.
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Finding displacement neighbors...
+Warning: overflowed 4 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (60) (607474 bytes)
+Static prop models/props_c17/metalladder001.mdl outside the map (7435.52, 9615.27, -7064.43)
+Static prop models/props_c17/metalladder001.mdl outside the map (6470.22, 9860.29, -6782.46)
+Error loading studio model "models/someco/alienstone.mdl"!
+Error loading studio model "models/someco/alienstone2.mdl"!
+Error loading studio model "models/props/endofuniverse.mdl"!
+Error loading studio model "models/props/robot.mdl"!
+Error loading studio model "models/someco/alien.mdl"!
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/furniturefridge001a.mdl"!
+Error! prop_static using model "models/props_interiors/furniture_chair03a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/furniture_chair03a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+9...10
+Compacting texture/material tables...
+Reduced 2940 texinfos to 1409
+Reduced 203 texdatas to 163 (7146 bytes to 5650)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.bsp
+1 minute, 20 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.vmf
+material "water/water_nordic01" not found.
+Material not found!: WATER/WATER_NORDIC01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "aztec/aztec030" not found.
+Material not found!: AZTEC/AZTEC030
+material "aztec/floortiles" not found.
+Material not found!: AZTEC/FLOORTILES
+material "aztec/aztec007" not found.
+Material not found!: AZTEC/AZTEC007
+material "aztec/altar" not found.
+Material not found!: AZTEC/ALTAR
+material "aztec/aztec013" not found.
+Material not found!: AZTEC/AZTEC013
+material "aztec/aztec001" not found.
+Material not found!: AZTEC/AZTEC001
+material "aztec/stairtop" not found.
+Material not found!: AZTEC/STAIRTOP
+material "aztec/aztec015" not found.
+Material not found!: AZTEC/AZTEC015
+material "someco/element_red" not found.
+Material not found!: SOMECO/ELEMENT_RED
+material "someco/element_white" not found.
+Material not found!: SOMECO/ELEMENT_WHITE
+material "someco/element_brown" not found.
+Material not found!: SOMECO/ELEMENT_BROWN
+material "someco/element_blue" not found.
+Material not found!: SOMECO/ELEMENT_BLUE
+material "someco/marsfloor" not found.
+Material not found!: SOMECO/MARSFLOOR
+material "someco/venusground" not found.
+Material not found!: SOMECO/VENUSGROUND
+material "someco/venusground2" not found.
+Material not found!: SOMECO/VENUSGROUND2
+material "someco/plutorock" not found.
+Material not found!: SOMECO/PLUTOROCK
+material "someco/uranusfloor" not found.
+Material not found!: SOMECO/URANUSFLOOR
+material "aztec/altarwall2" not found.
+Material not found!: AZTEC/ALTARWALL2
+material "aztec/stairside" not found.
+Material not found!: AZTEC/STAIRSIDE
+material "aztec/lava" not found.
+Material not found!: AZTEC/LAVA
+material "someco/energy" not found.
+Material not found!: SOMECO/ENERGY
+material "someco/eye" not found.
+Material not found!: SOMECO/EYE
+material "someco/button_admin" not found.
+Material not found!: SOMECO/BUTTON_ADMIN
+material "someco/nonpcsbutton" not found.
+Material not found!: SOMECO/NONPCSBUTTON
+material "someco/button_fog" not found.
+Material not found!: SOMECO/BUTTON_FOG
+material "someco/resetallbutton" not found.
+Material not found!: SOMECO/RESETALLBUTTON
+material "someco/button_nobh" not found.
+Material not found!: SOMECO/BUTTON_NOBH
+material "someco/button_gravity" not found.
+Material not found!: SOMECO/BUTTON_GRAVITY
+material "someco/button_skybox" not found.
+Material not found!: SOMECO/BUTTON_SKYBOX
+material "someco/infdoorc" not found.
+Material not found!: SOMECO/INFDOORC
+material "aztec/aztec029" not found.
+Material not found!: AZTEC/AZTEC029
+material "someco/title" not found.
+Material not found!: SOMECO/TITLE
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrocksgrass005a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendcliffdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.prt...Building visibility clusters...
+done (1)
+material "skybox/spaceomenrt" not found.
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Finding displacement neighbors...
+Warning: overflowed 4 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (61) (607474 bytes)
+Static prop models/props_c17/metalladder001.mdl outside the map (7435.52, 9615.27, -7064.43)
+Static prop models/props_c17/metalladder001.mdl outside the map (6470.22, 9860.29, -6782.46)
+Error loading studio model "models/someco/alienstone.mdl"!
+Error loading studio model "models/someco/alienstone2.mdl"!
+Error loading studio model "models/props/endofuniverse.mdl"!
+Error loading studio model "models/props/robot.mdl"!
+Error loading studio model "models/someco/alien.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+9...10
+Compacting texture/material tables...
+Reduced 2940 texinfos to 1409
+Reduced 203 texdatas to 163 (7146 bytes to 5650)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.bsp
+1 minute, 20 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.vmf
+material "water/water_nordic01" not found.
+Material not found!: WATER/WATER_NORDIC01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "aztec/aztec030" not found.
+Material not found!: AZTEC/AZTEC030
+material "aztec/floortiles" not found.
+Material not found!: AZTEC/FLOORTILES
+material "aztec/aztec007" not found.
+Material not found!: AZTEC/AZTEC007
+material "aztec/altar" not found.
+Material not found!: AZTEC/ALTAR
+material "aztec/aztec013" not found.
+Material not found!: AZTEC/AZTEC013
+material "aztec/aztec001" not found.
+Material not found!: AZTEC/AZTEC001
+material "aztec/stairtop" not found.
+Material not found!: AZTEC/STAIRTOP
+material "aztec/aztec015" not found.
+Material not found!: AZTEC/AZTEC015
+material "someco/element_red" not found.
+Material not found!: SOMECO/ELEMENT_RED
+material "someco/element_white" not found.
+Material not found!: SOMECO/ELEMENT_WHITE
+material "someco/element_brown" not found.
+Material not found!: SOMECO/ELEMENT_BROWN
+material "someco/element_blue" not found.
+Material not found!: SOMECO/ELEMENT_BLUE
+material "someco/marsfloor" not found.
+Material not found!: SOMECO/MARSFLOOR
+material "someco/venusground" not found.
+Material not found!: SOMECO/VENUSGROUND
+material "someco/venusground2" not found.
+Material not found!: SOMECO/VENUSGROUND2
+material "someco/plutorock" not found.
+Material not found!: SOMECO/PLUTOROCK
+material "someco/uranusfloor" not found.
+Material not found!: SOMECO/URANUSFLOOR
+material "aztec/altarwall2" not found.
+Material not found!: AZTEC/ALTARWALL2
+material "aztec/stairside" not found.
+Material not found!: AZTEC/STAIRSIDE
+material "aztec/lava" not found.
+Material not found!: AZTEC/LAVA
+material "someco/energy" not found.
+Material not found!: SOMECO/ENERGY
+material "someco/eye" not found.
+Material not found!: SOMECO/EYE
+material "someco/button_admin" not found.
+Material not found!: SOMECO/BUTTON_ADMIN
+material "someco/nonpcsbutton" not found.
+Material not found!: SOMECO/NONPCSBUTTON
+material "someco/button_fog" not found.
+Material not found!: SOMECO/BUTTON_FOG
+material "someco/resetallbutton" not found.
+Material not found!: SOMECO/RESETALLBUTTON
+material "someco/button_nobh" not found.
+Material not found!: SOMECO/BUTTON_NOBH
+material "someco/button_gravity" not found.
+Material not found!: SOMECO/BUTTON_GRAVITY
+material "someco/button_skybox" not found.
+Material not found!: SOMECO/BUTTON_SKYBOX
+material "someco/infdoorc" not found.
+Material not found!: SOMECO/INFDOORC
+material "aztec/aztec029" not found.
+Material not found!: AZTEC/AZTEC029
+material "someco/title" not found.
+Material not found!: SOMECO/TITLE
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrocksgrass005a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendcliffdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (1)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.prt...Building visibility clusters...
+done (0)
+material "skybox/spaceomenrt" not found.
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Finding displacement neighbors...
+Warning: overflowed 4 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (61) (607474 bytes)
+Static prop models/props_c17/metalladder001.mdl outside the map (7435.52, 9615.27, -7064.43)
+Static prop models/props_c17/metalladder001.mdl outside the map (6470.22, 9860.29, -6782.46)
+Error loading studio model "models/someco/alienstone.mdl"!
+Error loading studio model "models/someco/alienstone2.mdl"!
+Error loading studio model "models/props/endofuniverse.mdl"!
+Error loading studio model "models/props/robot.mdl"!
+Error loading studio model "models/someco/alien.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+9...10
+Compacting texture/material tables...
+Reduced 2940 texinfos to 1409
+Reduced 203 texdatas to 163 (7146 bytes to 5650)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.bsp
+1 minute, 20 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.vmf
+material "water/water_nordic01" not found.
+Material not found!: WATER/WATER_NORDIC01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "aztec/aztec030" not found.
+Material not found!: AZTEC/AZTEC030
+material "aztec/floortiles" not found.
+Material not found!: AZTEC/FLOORTILES
+material "aztec/aztec007" not found.
+Material not found!: AZTEC/AZTEC007
+material "aztec/altar" not found.
+Material not found!: AZTEC/ALTAR
+material "aztec/aztec013" not found.
+Material not found!: AZTEC/AZTEC013
+material "aztec/aztec001" not found.
+Material not found!: AZTEC/AZTEC001
+material "aztec/stairtop" not found.
+Material not found!: AZTEC/STAIRTOP
+material "aztec/aztec015" not found.
+Material not found!: AZTEC/AZTEC015
+material "someco/element_red" not found.
+Material not found!: SOMECO/ELEMENT_RED
+material "someco/element_white" not found.
+Material not found!: SOMECO/ELEMENT_WHITE
+material "someco/element_brown" not found.
+Material not found!: SOMECO/ELEMENT_BROWN
+material "someco/element_blue" not found.
+Material not found!: SOMECO/ELEMENT_BLUE
+material "someco/marsfloor" not found.
+Material not found!: SOMECO/MARSFLOOR
+material "someco/venusground" not found.
+Material not found!: SOMECO/VENUSGROUND
+material "someco/venusground2" not found.
+Material not found!: SOMECO/VENUSGROUND2
+material "someco/plutorock" not found.
+Material not found!: SOMECO/PLUTOROCK
+material "someco/uranusfloor" not found.
+Material not found!: SOMECO/URANUSFLOOR
+material "aztec/altarwall2" not found.
+Material not found!: AZTEC/ALTARWALL2
+material "aztec/stairside" not found.
+Material not found!: AZTEC/STAIRSIDE
+material "aztec/lava" not found.
+Material not found!: AZTEC/LAVA
+material "someco/energy" not found.
+Material not found!: SOMECO/ENERGY
+material "someco/eye" not found.
+Material not found!: SOMECO/EYE
+material "someco/button_admin" not found.
+Material not found!: SOMECO/BUTTON_ADMIN
+material "someco/nonpcsbutton" not found.
+Material not found!: SOMECO/NONPCSBUTTON
+material "someco/button_fog" not found.
+Material not found!: SOMECO/BUTTON_FOG
+material "someco/resetallbutton" not found.
+Material not found!: SOMECO/RESETALLBUTTON
+material "someco/button_nobh" not found.
+Material not found!: SOMECO/BUTTON_NOBH
+material "someco/button_gravity" not found.
+Material not found!: SOMECO/BUTTON_GRAVITY
+material "someco/button_skybox" not found.
+Material not found!: SOMECO/BUTTON_SKYBOX
+material "someco/infdoorc" not found.
+Material not found!: SOMECO/INFDOORC
+material "aztec/aztec029" not found.
+Material not found!: AZTEC/AZTEC029
+material "someco/title" not found.
+Material not found!: SOMECO/TITLE
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrocksgrass005a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendcliffdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.prt...Building visibility clusters...
+done (0)
+material "skybox/spaceomenrt" not found.
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Finding displacement neighbors...
+Warning: overflowed 4 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (60) (607474 bytes)
+Static prop models/props_c17/metalladder001.mdl outside the map (7435.52, 9615.27, -7064.43)
+Static prop models/props_c17/metalladder001.mdl outside the map (6470.22, 9860.29, -6782.46)
+Error loading studio model "models/someco/alienstone.mdl"!
+Error loading studio model "models/someco/alienstone2.mdl"!
+Error loading studio model "models/props/endofuniverse.mdl"!
+Error loading studio model "models/props/robot.mdl"!
+Error loading studio model "models/someco/alien.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+9...10
+Compacting texture/material tables...
+Reduced 2940 texinfos to 1409
+Reduced 203 texdatas to 163 (7146 bytes to 5650)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.bsp
+1 minute, 19 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.vmf
+material "water/water_nordic01" not found.
+Material not found!: WATER/WATER_NORDIC01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "aztec/aztec030" not found.
+Material not found!: AZTEC/AZTEC030
+material "aztec/floortiles" not found.
+Material not found!: AZTEC/FLOORTILES
+material "aztec/aztec007" not found.
+Material not found!: AZTEC/AZTEC007
+material "aztec/altar" not found.
+Material not found!: AZTEC/ALTAR
+material "aztec/aztec013" not found.
+Material not found!: AZTEC/AZTEC013
+material "aztec/aztec001" not found.
+Material not found!: AZTEC/AZTEC001
+material "aztec/stairtop" not found.
+Material not found!: AZTEC/STAIRTOP
+material "aztec/aztec015" not found.
+Material not found!: AZTEC/AZTEC015
+material "someco/element_red" not found.
+Material not found!: SOMECO/ELEMENT_RED
+material "someco/element_white" not found.
+Material not found!: SOMECO/ELEMENT_WHITE
+material "someco/element_brown" not found.
+Material not found!: SOMECO/ELEMENT_BROWN
+material "someco/element_blue" not found.
+Material not found!: SOMECO/ELEMENT_BLUE
+material "someco/marsfloor" not found.
+Material not found!: SOMECO/MARSFLOOR
+material "someco/venusground" not found.
+Material not found!: SOMECO/VENUSGROUND
+material "someco/venusground2" not found.
+Material not found!: SOMECO/VENUSGROUND2
+material "someco/plutorock" not found.
+Material not found!: SOMECO/PLUTOROCK
+material "someco/uranusfloor" not found.
+Material not found!: SOMECO/URANUSFLOOR
+material "aztec/altarwall2" not found.
+Material not found!: AZTEC/ALTARWALL2
+material "aztec/stairside" not found.
+Material not found!: AZTEC/STAIRSIDE
+material "aztec/lava" not found.
+Material not found!: AZTEC/LAVA
+material "someco/energy" not found.
+Material not found!: SOMECO/ENERGY
+material "someco/eye" not found.
+Material not found!: SOMECO/EYE
+material "someco/button_admin" not found.
+Material not found!: SOMECO/BUTTON_ADMIN
+material "someco/nonpcsbutton" not found.
+Material not found!: SOMECO/NONPCSBUTTON
+material "someco/button_fog" not found.
+Material not found!: SOMECO/BUTTON_FOG
+material "someco/resetallbutton" not found.
+Material not found!: SOMECO/RESETALLBUTTON
+material "someco/button_nobh" not found.
+Material not found!: SOMECO/BUTTON_NOBH
+material "someco/button_gravity" not found.
+Material not found!: SOMECO/BUTTON_GRAVITY
+material "someco/button_skybox" not found.
+Material not found!: SOMECO/BUTTON_SKYBOX
+material "someco/infdoorc" not found.
+Material not found!: SOMECO/INFDOORC
+material "aztec/aztec029" not found.
+Material not found!: AZTEC/AZTEC029
+material "someco/title" not found.
+Material not found!: SOMECO/TITLE
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendrocksgrass005a_wvt_patch
+Patching WVT material: maps/sb_omen_v2_d/nature/blendcliffdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1180 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.prt...Building visibility clusters...
+done (0)
+material "skybox/spaceomenrt" not found.
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Can't load skybox file skybox/SpaceOmen to build the default cubemap!
+Finding displacement neighbors...
+Warning: overflowed 4 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (60) (607474 bytes)
+Static prop models/props_c17/metalladder001.mdl outside the map (7435.52, 9615.27, -7064.43)
+Static prop models/props_c17/metalladder001.mdl outside the map (6470.22, 9860.29, -6782.46)
+Error loading studio model "models/someco/alienstone.mdl"!
+Error loading studio model "models/someco/alienstone2.mdl"!
+Error loading studio model "models/props/endofuniverse.mdl"!
+Error loading studio model "models/props/robot.mdl"!
+Error loading studio model "models/someco/alien.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+9...10
+Compacting texture/material tables...
+Reduced 2940 texinfos to 1409
+Reduced 203 texdatas to 163 (7146 bytes to 5650)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\sb_omen_v2_d.bsp
+1 minute, 20 seconds elapsed

@@ -1,0 +1,354 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12757 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDDIRTGRASS005A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDDIRTGRASS005A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 48 texinfos to 31
+Reduced 11 texdatas to 9 (366 bytes to 318)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+2 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material LIQUIDS/LAMBDA_CORE_COOLANTWATER_MOVINGPLANE_BENEATH doesn't have a $bottommaterial
+error: material LIQUIDS/LAMBDA_CORE_COOLANTWATER_MOVINGPLANE_BENEATH doesn't have a $bottommaterial
+error: material LIQUIDS/LAMBDA_CORE_COOLANTWATER_MOVINGPLANE_BENEATH doesn't have a $bottommaterial
+error: material LIQUIDS/LAMBDA_CORE_COOLANTWATER_MOVINGPLANE_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (43966 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 108 texinfos to 61
+Reduced 22 texdatas to 15 (849 bytes to 581)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+4 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (43966 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 105 texinfos to 60
+Reduced 22 texdatas to 15 (761 bytes to 541)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41960 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 93 texinfos to 54
+Reduced 18 texdatas to 13 (610 bytes to 483)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41960 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 93 texinfos to 54
+Reduced 18 texdatas to 13 (610 bytes to 483)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (46057 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 95 texinfos to 54
+Reduced 18 texdatas to 13 (613 bytes to 486)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (47625 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 98 texinfos to 56
+Reduced 18 texdatas to 13 (613 bytes to 486)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (51209 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 127 texinfos to 71
+Reduced 21 texdatas to 16 (700 bytes to 573)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/outpost/nature/blenddirtgrass008b_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtmud02_wvt_patch
+Patching WVT material: maps/outpost/nature/blenddirtgrass005a_wvt_patch
+Patching WVT material: maps/outpost/nature/blendgrassdirt02_noprop_wvt_patch
+Patching WVT material: maps/outpost/nature/blendashdirt01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (47657 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 98 texinfos to 56
+Reduced 18 texdatas to 13 (613 bytes to 486)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\outpost.bsp
+3 seconds elapsed

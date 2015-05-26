@@ -1,0 +1,2176 @@
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/color/white.vtf": cached version doesn't exist
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt...Building visibility clusters...
+done (0)
+material "skybox/paintedrt" not found.
+Can't load skybox file skybox/painted to build the default cubemap!
+Can't load skybox file skybox/painted to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_2.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_2.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_2.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/gm_construct/overlay_5.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: LoadFromBuffer: missing { in file materials/gm_construct/overlay_5.vmt
+(*ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/gm_construct/overlay_5.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: LoadFromBuffer: missing { in file materials/gm_construct/overlay_5.vmt
+(*ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰*), 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_5.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/overlay_4.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/overlay_4.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_4.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3101532 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1873 texinfos to 993
+Reduced 246 texdatas to 199 (14642 bytes to 12279)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+9 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+ 683 portalclusters
+1510 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 7273 visible clusters (2.39%)
+Total clusters visible: 304306
+Average clusters visible: 445
+Building PAS...
+Average clusters audible: 636
+visdatasize:118908  compressed from 120208
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10486 faces
+2 degenerate faces
+22144626 square feet [3188826112.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10484 patches before subdivision
+10484 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+138 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3209447, max 2214
+transfer lists:  24.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19110, 22360, 21942)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5235, 5483, 4653)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1453, 1387, 1054)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(461, 406, 277)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(140, 114, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(47, 36, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 10, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1654 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes               2176/8192        26112/98304    (26.6%) 
+brushsides           14785/65536      118280/524288   (22.6%) 
+planes                4322/65536       86440/1310720  ( 6.6%) 
+vertexes             15590/65536      187080/786432   (23.8%) 
+nodes                 5188/65536      166016/2097152  ( 7.9%) 
+texinfos               993/12288       71496/884736   ( 8.1%) 
+texdata                199/2048         6368/65536    ( 9.7%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10486/65536      587216/3670016  (16.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5201/65536      291256/3670016  ( 7.9%) 
+leaves                5202/65536      166464/2097152  ( 7.9%) 
+leaffaces            11563/65536       23126/131072   (17.6%) 
+leafbrushes           6461/65536       12922/131072   ( 9.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            70672/512000     282688/2048000  (13.8%) 
+edges                42650/256000     170600/1024000  (16.7%) 
+LDR worldlights        138/8192        12144/720896   ( 1.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            808/32768        8080/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18162/65536       36324/131072   (27.7%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]    21597540/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      118908/16777216 ( 0.7%) 
+entdata               [variable]      188353/393216   (47.9%) 
+LDR ambient table     5202/65536       20808/262144   ( 7.9%) 
+HDR ambient table     5202/65536       20808/262144   ( 7.9%) 
+LDR leaf ambient     24312/65536      680736/1835008  (37.1%) 
+HDR leaf ambient      5202/65536      145656/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       70440/0        ( 0.0%) 
+physics               [variable]     3101532/4194304  (73.9%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28933
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+3 minutes, 40 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/color/white.vtf": cached version doesn't exist
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_2.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_2.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_2.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/gm_construct/overlay_5.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: LoadFromBuffer: missing { in file materials/gm_construct/overlay_5.vmt
+(*ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/gm_construct/overlay_5.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: LoadFromBuffer: missing { in file materials/gm_construct/overlay_5.vmt
+(*ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰*), 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_5.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/overlay_4.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/overlay_4.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_4.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3101532 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1873 texinfos to 993
+Reduced 246 texdatas to 199 (14642 bytes to 12279)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+8 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+ 683 portalclusters
+1510 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 7273 visible clusters (2.39%)
+Total clusters visible: 304306
+Average clusters visible: 445
+Building PAS...
+Average clusters audible: 636
+visdatasize:118908  compressed from 120208
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10486 faces
+2 degenerate faces
+22144626 square feet [3188826112.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10484 patches before subdivision
+10484 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+138 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3209447, max 2214
+transfer lists:  24.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19110, 22360, 21942)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5235, 5483, 4653)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1453, 1387, 1054)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(461, 406, 277)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(140, 114, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(47, 36, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 10, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1894 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes               2176/8192        26112/98304    (26.6%) 
+brushsides           14785/65536      118280/524288   (22.6%) 
+planes                4322/65536       86440/1310720  ( 6.6%) 
+vertexes             15590/65536      187080/786432   (23.8%) 
+nodes                 5188/65536      166016/2097152  ( 7.9%) 
+texinfos               993/12288       71496/884736   ( 8.1%) 
+texdata                199/2048         6368/65536    ( 9.7%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10486/65536      587216/3670016  (16.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5201/65536      291256/3670016  ( 7.9%) 
+leaves                5202/65536      166464/2097152  ( 7.9%) 
+leaffaces            11563/65536       23126/131072   (17.6%) 
+leafbrushes           6461/65536       12922/131072   ( 9.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            70672/512000     282688/2048000  (13.8%) 
+edges                42650/256000     170600/1024000  (16.7%) 
+LDR worldlights        138/8192        12144/720896   ( 1.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            808/32768        8080/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18162/65536       36324/131072   (27.7%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]    21597540/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      118908/16777216 ( 0.7%) 
+entdata               [variable]      188358/393216   (47.9%) 
+LDR ambient table     5202/65536       20808/262144   ( 7.9%) 
+HDR ambient table     5202/65536       20808/262144   ( 7.9%) 
+LDR leaf ambient     24312/65536      680736/1835008  (37.1%) 
+HDR leaf ambient      5202/65536      145656/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3134129/0        ( 0.0%) 
+physics               [variable]     3101532/4194304  (73.9%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28933
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+3 minutes, 33 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/color/white.vtf": cached version doesn't exist
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_2.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_2.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_2.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/gm_construct/overlay_5.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: LoadFromBuffer: missing { in file materials/gm_construct/overlay_5.vmt
+(*ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/gm_construct/overlay_5.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: LoadFromBuffer: missing { in file materials/gm_construct/overlay_5.vmt
+(*ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰*), 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_5.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/overlay_4.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/overlay_4.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_4.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3101532 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1873 texinfos to 993
+Reduced 246 texdatas to 199 (14642 bytes to 12279)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+7 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+ 683 portalclusters
+1510 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 7273 visible clusters (2.39%)
+Total clusters visible: 304306
+Average clusters visible: 445
+Building PAS...
+Average clusters audible: 636
+visdatasize:118908  compressed from 120208
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10486 faces
+2 degenerate faces
+22144626 square feet [3188826112.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10484 patches before subdivision
+10484 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+138 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3209447, max 2214
+transfer lists:  24.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(19110, 22360, 21942)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5235, 5483, 4653)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1453, 1387, 1054)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(461, 406, 277)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(140, 114, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(47, 36, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 10, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1797 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes               2176/8192        26112/98304    (26.6%) 
+brushsides           14785/65536      118280/524288   (22.6%) 
+planes                4322/65536       86440/1310720  ( 6.6%) 
+vertexes             15590/65536      187080/786432   (23.8%) 
+nodes                 5188/65536      166016/2097152  ( 7.9%) 
+texinfos               993/12288       71496/884736   ( 8.1%) 
+texdata                199/2048         6368/65536    ( 9.7%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10486/65536      587216/3670016  (16.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5201/65536      291256/3670016  ( 7.9%) 
+leaves                5202/65536      166464/2097152  ( 7.9%) 
+leaffaces            11563/65536       23126/131072   (17.6%) 
+leafbrushes           6461/65536       12922/131072   ( 9.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            70672/512000     282688/2048000  (13.8%) 
+edges                42650/256000     170600/1024000  (16.7%) 
+LDR worldlights        138/8192        12144/720896   ( 1.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            808/32768        8080/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18162/65536       36324/131072   (27.7%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                11/512          3872/180224   ( 2.1%) 
+LDR lightdata         [variable]    21597540/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      118908/16777216 ( 0.7%) 
+entdata               [variable]      188200/393216   (47.9%) 
+LDR ambient table     5202/65536       20808/262144   ( 7.9%) 
+HDR ambient table     5202/65536       20808/262144   ( 7.9%) 
+LDR leaf ambient     24312/65536      680736/1835008  (37.1%) 
+HDR leaf ambient      5202/65536      145656/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]     3134129/0        ( 0.0%) 
+physics               [variable]     3101532/4194304  (73.9%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28933
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+3 minutes, 32 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_construct_rfm/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-46.00 -3315.00 145.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 4663.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 12799.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 15367.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 15303.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3090165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1892 texinfos to 1026
+Reduced 242 texdatas to 196 (14597 bytes to 12294)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+8 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+12633 faces
+2 degenerate faces
+36435096 square feet [5246653952.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1913 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               2082/8192        24984/98304    (25.4%) 
+brushsides           14209/65536      113672/524288   (21.7%) 
+planes                4252/65536       85040/1310720  ( 6.5%) 
+vertexes             19058/65536      228696/786432   (29.1%) 
+nodes                 8624/65536      275968/2097152  (13.2%) 
+texinfos              1026/12288       73872/884736   ( 8.3%) 
+texdata                196/2048         6272/65536    ( 9.6%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                12633/65536      707448/3670016  (19.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5339/65536      298984/3670016  ( 8.1%) 
+leaves                8630/65536      276160/2097152  (13.2%) 
+leaffaces            14051/65536       28102/131072   (21.4%) 
+leafbrushes           5677/65536       11354/131072   ( 8.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            80150/512000     320600/2048000  (15.7%) 
+edges                47780/256000     191120/1024000  (18.7%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            892/32768        8920/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         19113/65536       38226/131072   (29.2%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]    14808960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      167258/393216   (42.5%) 
+LDR ambient table     8630/65536       34520/262144   (13.2%) 
+HDR ambient table     8630/65536       34520/262144   (13.2%) 
+LDR leaf ambient     53308/65536     1492624/1835008  (81.3%) VERY FULL!
+HDR leaf ambient      8630/65536      241640/1835008  (13.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1562     ( 0.1%) 
+pakfile               [variable]     3134891/0        ( 0.0%) 
+physics               [variable]     3090165/4194304  (73.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 33566
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+5 minutes, 45 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_construct_rfm/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-46.00 -3315.00 145.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 4663.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 12799.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 15367.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 15303.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3090165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1892 texinfos to 1026
+Reduced 242 texdatas to 196 (14597 bytes to 12294)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+7 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_construct_rfm/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-46.00 -3315.00 145.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 4663.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 12799.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 15367.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 15303.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3090165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1892 texinfos to 1026
+Reduced 242 texdatas to 196 (14597 bytes to 12294)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+7 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_construct_rfm/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (3090261 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1892 texinfos to 980
+Reduced 242 texdatas to 194 (14597 bytes to 12203)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+8 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+ 624 portalclusters
+1438 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3813 visible clusters (1.36%)
+Total clusters visible: 280757
+Average clusters visible: 449
+Building PAS...
+Average clusters audible: 592
+visdatasize:98784  compressed from 99840
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.vmf
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/gm_construct_rfm/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_construct_rfm/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3090261 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+10
+Compacting texture/material tables...
+Reduced 1892 texinfos to 980
+Reduced 242 texdatas to 194 (14597 bytes to 12203)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+11 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.prt
+ 624 portalclusters
+1438 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3813 visible clusters (1.36%)
+Total clusters visible: 280757
+Average clusters visible: 449
+Building PAS...
+Average clusters audible: 592
+visdatasize:98784  compressed from 99840
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10362 faces
+2 degenerate faces
+21883666 square feet [3151247872.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10360 patches before subdivision
+239210 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47856302, max 2225
+transfer lists: 365.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2226474, 1955181, 1309106)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(527833, 431366, 269992)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(132953, 100464, 55676)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(37937, 27629, 14796)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(10774, 7376, 3569)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3319, 2202, 1023)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1028, 643, 270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(337, 203, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(112, 63, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(38, 21, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<10.5815 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               2083/8192        24996/98304    (25.4%) 
+brushsides           14215/65536      113720/524288   (21.7%) 
+planes                4258/65536       85160/1310720  ( 6.5%) 
+vertexes             15379/65536      184548/786432   (23.5%) 
+nodes                 5027/65536      160864/2097152  ( 7.7%) 
+texinfos               980/12288       70560/884736   ( 8.0%) 
+texdata                194/2048         6208/65536    ( 9.5%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10362/65536      580272/3670016  (15.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5149/65536      288344/3670016  ( 7.9%) 
+leaves                5033/65536      161056/2097152  ( 7.7%) 
+leaffaces            11367/65536       22734/131072   (17.3%) 
+leafbrushes           6174/65536       12348/131072   ( 9.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            70106/512000     280424/2048000  (13.7%) 
+edges                42074/256000     168296/1024000  (16.4%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            820/32768        8200/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18615/65536       37230/131072   (28.4%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]    14380764/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       98784/16777216 ( 0.6%) 
+entdata               [variable]      166942/393216   (42.5%) 
+LDR ambient table     5033/65536       20132/262144   ( 7.7%) 
+HDR ambient table     5033/65536       20132/262144   ( 7.7%) 
+LDR leaf ambient     23601/65536      660828/1835008  (36.0%) 
+HDR leaf ambient      5033/65536      140924/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1262     ( 0.1%) 
+pakfile               [variable]     3134891/0        ( 0.0%) 
+physics               [variable]     3090261/4194304  (73.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28823
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\gm_construct_rfm.bsp
+9 minutes, 22 seconds elapsed

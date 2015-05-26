@@ -1,0 +1,181 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\to4ka_v2.vmf
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop brick for material BRICK/BRICKWALL027A, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL038A, using default
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop paper for material DE_CHATEAU/WALL02B, using default
+Can't find surfaceprop dirt for material CS_HAVANA/SWAMPDIRT01, using default
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR03, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR02, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "props/metalpanel015a" not found
+Material not found!: PROPS/METALPANEL015A
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "nature/toxicslime002a_dx70" not found
+Material not found!: NATURE/TOXICSLIME002A_DX70
+material "metal/metalcombinegrate001a" not found
+Material not found!: METAL/METALCOMBINEGRATE001A
+material "metal/metalgrate011a" not found
+Material not found!: METAL/METALGRATE011A
+material "metal/metalgrate011a_nopassbullets" not found
+Material not found!: METAL/METALGRATE011A_NOPASSBULLETS
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\to4ka_v2.prt...done (0)
+material "skybox/sky_day02_10rt" not found
+Can't load skybox file skybox/sky_day02_10 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day02_10 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (133222 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 301 texinfos to 238
+Reduced 45 texdatas to 44 (971 bytes to 953)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\to4ka_v2.bsp
+3 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\to4ka_v2.vmf
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop brick for material BRICK/BRICKWALL027A, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+Can't find surfaceprop brick for material BRICK/BRICKWALL038A, using default
+material "metal/metalcombine001" not found
+Material not found!: METAL/METALCOMBINE001
+material "metal/metalcombine002" not found
+Material not found!: METAL/METALCOMBINE002
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop paper for material DE_CHATEAU/WALL02B, using default
+Can't find surfaceprop dirt for material CS_HAVANA/SWAMPDIRT01, using default
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR03, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR02, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+material "glass/combineglass001a" not found
+Material not found!: GLASS/COMBINEGLASS001A
+material "props/metalpanel015a" not found
+Material not found!: PROPS/METALPANEL015A
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "nature/toxicslime002a_dx70" not found
+Material not found!: NATURE/TOXICSLIME002A_DX70
+material "metal/metalcombinegrate001a" not found
+Material not found!: METAL/METALCOMBINEGRATE001A
+material "metal/metalgrate011a" not found
+Material not found!: METAL/METALGRATE011A
+material "metal/metalgrate011a_nopassbullets" not found
+Material not found!: METAL/METALGRATE011A_NOPASSBULLETS
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+material "props/doorbutton002a" not found
+Material not found!: PROPS/DOORBUTTON002A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\to4ka_v2.prt...done (0)
+material "skybox/sky_day02_10rt" not found
+Can't load skybox file skybox/sky_day02_10 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day02_10 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (135810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 316 texinfos to 247
+Reduced 45 texdatas to 44 (961 bytes to 943)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\to4ka_v2.bsp
+4 seconds elapsed

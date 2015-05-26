@@ -1,0 +1,2176 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_dustrt" not found.
+Can't load skybox file skybox/sky_dust to build the default cubemap!
+Can't load skybox file skybox/sky_dust to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires04" not found.
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (596348 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2452 texinfos to 2252
+Reduced 50 texdatas to 46 (1199 bytes to 1119)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+material "skybox/sky_dustrt" not found.
+Can't load skybox file skybox/sky_dust to build the default cubemap!
+Can't load skybox file skybox/sky_dust to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires04" not found.
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (597100 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2454 texinfos to 2248
+Reduced 51 texdatas to 46 (1218 bytes to 1119)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (597100 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2453 texinfos to 2247
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (596820 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2454 texinfos to 2243
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (596820 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2454 texinfos to 2243
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (596820 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2454 texinfos to 2243
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (596820 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2458 texinfos to 2245
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (598388 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2468 texinfos to 2254
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (598388 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2468 texinfos to 2254
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (598388 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2468 texinfos to 2254
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (598388 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2468 texinfos to 2254
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (598388 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2468 texinfos to 2254
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/door10" not found.
+Material not found!: DE_DUST/DOOR10
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (598388 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2468 texinfos to 2254
+Reduced 50 texdatas to 45 (1203 bytes to 1104)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2555 texinfos to 2274
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2555 texinfos to 2274
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2555 texinfos to 2274
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2555 texinfos to 2274
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2555 texinfos to 2274
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600044 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2555 texinfos to 2274
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2277
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2277
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (0) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2277
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+8 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2277
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2277
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2277
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+No vis information, direct lighting only.
+6014 faces
+1 degenerate faces
+615996 square feet [88703552.00 square inches]
+58 Displacements
+74403 Square Feet [10714112.00 Square Inches]
+66 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0357 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 30 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               1736/8192        20832/98304    (21.2%) 
+brushsides           12353/65536       98824/524288   (18.8%) 
+planes                6036/65536      120720/1310720  ( 9.2%) 
+vertexes              9912/65536      118944/786432   (15.1%) 
+nodes                 2603/65536       83296/2097152  ( 4.0%) 
+texinfos              2277/12288      163944/884736   (18.5%) 
+texdata                 61/2048         1952/65536    ( 3.0%) 
+dispinfos               58/0           10208/0        ( 0.0%) 
+disp_verts            4250/0           85000/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples      203176/0          203176/0        ( 0.0%) 
+faces                 6014/65536      336784/3670016  ( 9.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4311/65536      241416/3670016  ( 6.6%) 
+leaves                2611/65536       83552/2097152  ( 4.0%) 
+leaffaces             6949/65536       13898/131072   (10.6%) 
+leafbrushes           3759/65536        7518/131072   ( 5.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46079/512000     184316/2048000  ( 9.0%) 
+edges                27155/256000     108620/1024000  (10.6%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            571/32768        5710/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10275/65536       20550/131072   (15.7%) 
+cubemapsamples          37/1024          592/16384    ( 3.6%) 
+overlays                17/512          5984/180224   ( 3.3%) 
+LDR lightdata         [variable]     1498968/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      170595/393216   (43.4%) 
+LDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+HDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+LDR leaf ambient     11074/65536      310072/1835008  (16.9%) 
+HDR leaf ambient      2611/65536       73108/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2102     ( 0.0%) 
+pakfile               [variable]     4023771/0        ( 0.0%) 
+physics               [variable]      600599/4194304  (14.3%) 
+physics terrain       [variable]       17426/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 16956
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+56 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/stonestep03" not found.
+Material not found!: DE_DUST/STONESTEP03
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2277
+Reduced 75 texdatas to 61 (2335 bytes to 1847)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+No vis information, direct lighting only.
+6014 faces
+1 degenerate faces
+615996 square feet [88703552.00 square inches]
+58 Displacements
+74403 Square Feet [10714112.00 Square Inches]
+66 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0284 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 30 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               1736/8192        20832/98304    (21.2%) 
+brushsides           12353/65536       98824/524288   (18.8%) 
+planes                6036/65536      120720/1310720  ( 9.2%) 
+vertexes              9912/65536      118944/786432   (15.1%) 
+nodes                 2603/65536       83296/2097152  ( 4.0%) 
+texinfos              2277/12288      163944/884736   (18.5%) 
+texdata                 61/2048         1952/65536    ( 3.0%) 
+dispinfos               58/0           10208/0        ( 0.0%) 
+disp_verts            4250/0           85000/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples      203176/0          203176/0        ( 0.0%) 
+faces                 6014/65536      336784/3670016  ( 9.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4311/65536      241416/3670016  ( 6.6%) 
+leaves                2611/65536       83552/2097152  ( 4.0%) 
+leaffaces             6949/65536       13898/131072   (10.6%) 
+leafbrushes           3759/65536        7518/131072   ( 5.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46079/512000     184316/2048000  ( 9.0%) 
+edges                27155/256000     108620/1024000  (10.6%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            571/32768        5710/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10275/65536       20550/131072   (15.7%) 
+cubemapsamples          37/1024          592/16384    ( 3.6%) 
+overlays                17/512          5984/180224   ( 3.3%) 
+LDR lightdata         [variable]     1498968/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      171261/393216   (43.6%) 
+LDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+HDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+LDR leaf ambient     11074/65536      310072/1835008  (16.9%) 
+HDR leaf ambient      2611/65536       73108/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2102     ( 0.0%) 
+pakfile               [variable]     4023771/0        ( 0.0%) 
+physics               [variable]      600599/4194304  (14.3%) 
+physics terrain       [variable]       17426/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 16956
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+56 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2276
+Reduced 74 texdatas to 60 (2315 bytes to 1827)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+No vis information, direct lighting only.
+6014 faces
+1 degenerate faces
+615996 square feet [88703552.00 square inches]
+58 Displacements
+74403 Square Feet [10714112.00 Square Inches]
+66 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0278 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 30 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               1736/8192        20832/98304    (21.2%) 
+brushsides           12353/65536       98824/524288   (18.8%) 
+planes                6036/65536      120720/1310720  ( 9.2%) 
+vertexes              9912/65536      118944/786432   (15.1%) 
+nodes                 2603/65536       83296/2097152  ( 4.0%) 
+texinfos              2276/12288      163872/884736   (18.5%) 
+texdata                 60/2048         1920/65536    ( 2.9%) 
+dispinfos               58/0           10208/0        ( 0.0%) 
+disp_verts            4250/0           85000/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples      203176/0          203176/0        ( 0.0%) 
+faces                 6014/65536      336784/3670016  ( 9.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4311/65536      241416/3670016  ( 6.6%) 
+leaves                2611/65536       83552/2097152  ( 4.0%) 
+leaffaces             6949/65536       13898/131072   (10.6%) 
+leafbrushes           3759/65536        7518/131072   ( 5.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46079/512000     184316/2048000  ( 9.0%) 
+edges                27155/256000     108620/1024000  (10.6%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            571/32768        5710/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10275/65536       20550/131072   (15.7%) 
+cubemapsamples          37/1024          592/16384    ( 3.6%) 
+overlays                17/512          5984/180224   ( 3.3%) 
+LDR lightdata         [variable]     1499084/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      171802/393216   (43.7%) 
+LDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+HDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+LDR leaf ambient     11074/65536      310072/1835008  (16.9%) 
+HDR leaf ambient      2611/65536       73108/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2102     ( 0.0%) 
+pakfile               [variable]     4023771/0        ( 0.0%) 
+physics               [variable]      600599/4194304  (14.3%) 
+physics terrain       [variable]       17426/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 16956
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+56 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2276
+Reduced 74 texdatas to 60 (2315 bytes to 1827)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (600599 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2558 texinfos to 2276
+Reduced 74 texdatas to 60 (2315 bytes to 1827)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+No vis information, direct lighting only.
+6014 faces
+1 degenerate faces
+615996 square feet [88703552.00 square inches]
+58 Displacements
+74403 Square Feet [10714112.00 Square Inches]
+66 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0294 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 30 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               1736/8192        20832/98304    (21.2%) 
+brushsides           12353/65536       98824/524288   (18.8%) 
+planes                6036/65536      120720/1310720  ( 9.2%) 
+vertexes              9912/65536      118944/786432   (15.1%) 
+nodes                 2603/65536       83296/2097152  ( 4.0%) 
+texinfos              2276/12288      163872/884736   (18.5%) 
+texdata                 60/2048         1920/65536    ( 2.9%) 
+dispinfos               58/0           10208/0        ( 0.0%) 
+disp_verts            4250/0           85000/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples      203176/0          203176/0        ( 0.0%) 
+faces                 6014/65536      336784/3670016  ( 9.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4311/65536      241416/3670016  ( 6.6%) 
+leaves                2611/65536       83552/2097152  ( 4.0%) 
+leaffaces             6949/65536       13898/131072   (10.6%) 
+leafbrushes           3759/65536        7518/131072   ( 5.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46079/512000     184316/2048000  ( 9.0%) 
+edges                27155/256000     108620/1024000  (10.6%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            571/32768        5710/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10275/65536       20550/131072   (15.7%) 
+cubemapsamples          37/1024          592/16384    ( 3.6%) 
+overlays                17/512          5984/180224   ( 3.3%) 
+LDR lightdata         [variable]     1499084/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      171165/393216   (43.5%) 
+LDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+HDR ambient table     2611/65536       10444/262144   ( 4.0%) 
+LDR leaf ambient     11074/65536      310072/1835008  (16.9%) 
+HDR leaf ambient      2611/65536       73108/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2102     ( 0.0%) 
+pakfile               [variable]     4023771/0        ( 0.0%) 
+physics               [variable]      600599/4194304  (14.3%) 
+physics terrain       [variable]       17426/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 16956
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+56 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (616786 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2605 texinfos to 2300
+Reduced 85 texdatas to 68 (2808 bytes to 2216)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+No vis information, direct lighting only.
+6173 faces
+1 degenerate faces
+616202 square feet [88733152.00 square inches]
+58 Displacements
+74403 Square Feet [10714112.00 Square Inches]
+66 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0300 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 30 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes               1783/8192        21396/98304    (21.8%) 
+brushsides           12651/65536      101208/524288   (19.3%) 
+planes                6182/65536      123640/1310720  ( 9.4%) 
+vertexes             10221/65536      122652/786432   (15.6%) 
+nodes                 2714/65536       86848/2097152  ( 4.1%) 
+texinfos              2300/12288      165600/884736   (18.7%) 
+texdata                 68/2048         2176/65536    ( 3.3%) 
+dispinfos               58/0           10208/0        ( 0.0%) 
+disp_verts            4250/0           85000/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples      203176/0          203176/0        ( 0.0%) 
+faces                 6173/65536      345688/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4410/65536      246960/3670016  ( 6.7%) 
+leaves                2725/65536       87200/2097152  ( 4.2%) 
+leaffaces             7123/65536       14246/131072   (10.9%) 
+leafbrushes           3883/65536        7766/131072   ( 5.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            47212/512000     188848/2048000  ( 9.2%) 
+edges                27861/256000     111444/1024000  (10.9%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            581/32768        5810/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10410/65536       20820/131072   (15.9%) 
+cubemapsamples          37/1024          592/16384    ( 3.6%) 
+overlays                17/512          5984/180224   ( 3.3%) 
+LDR lightdata         [variable]     1505736/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      173679/393216   (44.2%) 
+LDR ambient table     2725/65536       10900/262144   ( 4.2%) 
+HDR ambient table     2725/65536       10900/262144   ( 4.2%) 
+LDR leaf ambient     11208/65536      313824/1835008  (17.1%) 
+HDR leaf ambient      2725/65536       76300/1835008  ( 4.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2102     ( 0.0%) 
+pakfile               [variable]     4026486/0        ( 0.0%) 
+physics               [variable]      616786/4194304  (14.7%) 
+physics terrain       [variable]       17426/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 17375
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+57 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (616570 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2609 texinfos to 2301
+Reduced 88 texdatas to 70 (2928 bytes to 2314)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+No vis information, direct lighting only.
+6188 faces
+4 degenerate faces
+616192 square feet [88731648.00 square inches]
+58 Displacements
+74403 Square Feet [10714112.00 Square Inches]
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0312 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 30 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes               1783/8192        21396/98304    (21.8%) 
+brushsides           12652/65536      101216/524288   (19.3%) 
+planes                6182/65536      123640/1310720  ( 9.4%) 
+vertexes             10222/65536      122664/786432   (15.6%) 
+nodes                 2727/65536       87264/2097152  ( 4.2%) 
+texinfos              2301/12288      165672/884736   (18.7%) 
+texdata                 70/2048         2240/65536    ( 3.4%) 
+dispinfos               58/0           10208/0        ( 0.0%) 
+disp_verts            4250/0           85000/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples      203176/0          203176/0        ( 0.0%) 
+faces                 6188/65536      346528/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4409/65536      246904/3670016  ( 6.7%) 
+leaves                2738/65536       87616/2097152  ( 4.2%) 
+leaffaces             7131/65536       14262/131072   (10.9%) 
+leafbrushes           3892/65536        7784/131072   ( 5.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            47267/512000     189068/2048000  ( 9.2%) 
+edges                27888/256000     111552/1024000  (10.9%) 
+LDR worldlights         61/8192         5368/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            582/32768        5820/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10431/65536       20862/131072   (15.9%) 
+cubemapsamples          37/1024          592/16384    ( 3.6%) 
+overlays                17/512          5984/180224   ( 3.3%) 
+LDR lightdata         [variable]     1505876/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      174456/393216   (44.4%) 
+LDR ambient table     2738/65536       10952/262144   ( 4.2%) 
+HDR ambient table     2738/65536       10952/262144   ( 4.2%) 
+LDR leaf ambient     11213/65536      313964/1835008  (17.1%) 
+HDR leaf ambient      2738/65536       76664/1835008  ( 4.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2102     ( 0.0%) 
+pakfile               [variable]     4027146/0        ( 0.0%) 
+physics               [variable]      616570/4194304  (14.7%) 
+physics terrain       [variable]       17426/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 17404
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+57 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.vmf
+material "de_dust/dusandcrete" not found.
+Material not found!: DE_DUST/DUSANDCRETE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/rockwall009b" not found.
+Material not found!: NATURE/ROCKWALL009B
+material "de_dust/dutile1" not found.
+Material not found!: DE_DUST/DUTILE1
+material "de_dust/residwall05b" not found.
+Material not found!: DE_DUST/RESIDWALL05B
+material "cs_italy/marketwall04a" not found.
+Material not found!: CS_ITALY/MARKETWALL04A
+material "dev/value60" not found.
+Material not found!: DEV/VALUE60
+material "dev/value30" not found.
+Material not found!: DEV/VALUE30
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/wires02" not found.
+Building Physics collision data...
+done (1) (616570 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2609 texinfos to 2301
+Reduced 88 texdatas to 70 (2928 bytes to 2314)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\de_dust2.bsp
+7 seconds elapsed

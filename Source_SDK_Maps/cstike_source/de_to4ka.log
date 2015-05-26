@@ -1,0 +1,2633 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+material "tools/toolsplayerclip" not found
+Material not found!: TOOLS/TOOLSPLAYERCLIP
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (-2945.00 2868.00 805.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (90501 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 121 texinfos to 110
+Reduced 27 texdatas to 27 (591 bytes to 591)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3010 faces
+1877292 square feet [270330176.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0760 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                248/8192         2976/98304    ( 3.0%) 
+brushsides            1571/65536       12568/524288   ( 2.4%) 
+planes                1144/65536       22880/1310720  ( 1.7%) 
+vertexes              4280/65536       51360/786432   ( 6.5%) 
+nodes                 1819/65536       58208/2097152  ( 2.8%) 
+texinfos               110/12288        7920/884736   ( 0.9%) 
+texdata                 27/2048          864/65536    ( 1.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3010/65536      168560/3670016  ( 4.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              763/65536       42728/3670016  ( 1.2%) 
+leaves                1837/65536       58784/2097152  ( 2.8%) 
+leaffaces             3318/65536        6636/131072   ( 5.1%) 
+leafbrushes           1000/65536        2000/131072   ( 1.5%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            16792/512000      67168/2048000  ( 3.3%) 
+edges                 8963/256000      35852/1024000  ( 3.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            161/32768        1610/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2316/65536        4632/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2434468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13668/393216   ( 3.5%) 
+LDR leaf ambient      1837/65536       44088/1572864  ( 2.8%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       90501/4194304  ( 2.2%) 
+==== Total Win32 BSP file data space used: 3128515 bytes ====
+
+Total triangle count: 7718
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 23 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+material "nature/tree_card_clump" not found
+Material not found!: NATURE/TREE_CARD_CLUMP
+material "nature/treeline001a" not found
+Material not found!: NATURE/TREELINE001A
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (104413 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 208 texinfos to 158
+Reduced 37 texdatas to 37 (790 bytes to 790)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3368 faces
+1 degenerate faces
+1860069 square feet [267850048.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0909 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/1024         1104/49152    ( 2.2%) 
+brushes                282/8192         3384/98304    ( 3.4%) 
+brushsides            1797/65536       14376/524288   ( 2.7%) 
+planes                1444/65536       28880/1310720  ( 2.2%) 
+vertexes              4701/65536       56412/786432   ( 7.2%) 
+nodes                 1979/65536       63328/2097152  ( 3.0%) 
+texinfos               158/12288       11376/884736   ( 1.3%) 
+texdata                 37/2048         1184/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3368/65536      188608/3670016  ( 5.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              898/65536       50288/3670016  ( 1.4%) 
+leaves                2003/65536       64096/2097152  ( 3.1%) 
+leaffaces             3763/65536        7526/131072   ( 5.7%) 
+leafbrushes           1072/65536        2144/131072   ( 1.6%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19034/512000      76136/2048000  ( 3.7%) 
+edges                10267/256000      41068/1024000  ( 4.0%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            202/32768        2020/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2850/65536        5700/131072   ( 4.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2937692/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       20882/393216   ( 5.3%) 
+LDR leaf ambient      2003/65536       48072/1572864  ( 3.1%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      104413/4194304  ( 2.5%) 
+==== Total Win32 BSP file data space used: 3729357 bytes ====
+
+Total triangle count: 8706
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 28 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+material "nature/tree_card_clump" not found
+Material not found!: NATURE/TREE_CARD_CLUMP
+material "nature/treeline001a" not found
+Material not found!: NATURE/TREELINE001A
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (105509 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 214 texinfos to 161
+Reduced 38 texdatas to 38 (816 bytes to 816)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3380 faces
+1 degenerate faces
+1860289 square feet [267881664.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0766 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  25/1024         1200/49152    ( 2.4%) 
+brushes                284/8192         3408/98304    ( 3.5%) 
+brushsides            1813/65536       14504/524288   ( 2.8%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              4718/65536       56616/786432   ( 7.2%) 
+nodes                 1992/65536       63744/2097152  ( 3.0%) 
+texinfos               161/12288       11592/884736   ( 1.3%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3380/65536      189280/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+leaves                2018/65536       64576/2097152  ( 3.1%) 
+leaffaces             3772/65536        7544/131072   ( 5.8%) 
+leafbrushes           1077/65536        2154/131072   ( 1.6%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19132/512000      76528/2048000  ( 3.7%) 
+edges                10316/256000      41264/1024000  ( 4.0%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            203/32768        2030/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2865/65536        5730/131072   ( 4.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2937804/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       22989/393216   ( 5.8%) 
+LDR leaf ambient      2018/65536       48432/1572864  ( 3.1%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      105509/4194304  ( 2.5%) 
+==== Total Win32 BSP file data space used: 3737508 bytes ====
+
+Total triangle count: 8732
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 26 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+material "nature/tree_card_clump" not found
+Material not found!: NATURE/TREE_CARD_CLUMP
+material "nature/treeline001a" not found
+Material not found!: NATURE/TREELINE001A
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (106279 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 225 texinfos to 167
+Reduced 39 texdatas to 39 (834 bytes to 834)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3387 faces
+1 degenerate faces
+1858336 square feet [267600416.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0728 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/1024         1296/49152    ( 2.6%) 
+brushes                285/8192         3420/98304    ( 3.5%) 
+brushsides            1849/65536       14792/524288   ( 2.8%) 
+planes                1648/65536       32960/1310720  ( 2.5%) 
+vertexes              4727/65536       56724/786432   ( 7.2%) 
+nodes                 2000/65536       64000/2097152  ( 3.1%) 
+texinfos               167/12288       12024/884736   ( 1.4%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3387/65536      189672/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              919/65536       51464/3670016  ( 1.4%) 
+leaves                2028/65536       64896/2097152  ( 3.1%) 
+leaffaces             3773/65536        7546/131072   ( 5.8%) 
+leafbrushes           1077/65536        2154/131072   ( 1.6%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19188/512000      76752/2048000  ( 3.7%) 
+edges                10338/256000      41352/1024000  ( 4.0%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            201/32768        2010/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2847/65536        5694/131072   ( 4.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2937872/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25122/393216   ( 6.4%) 
+LDR leaf ambient      2028/65536       48672/1572864  ( 3.1%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      106279/4194304  ( 2.5%) 
+==== Total Win32 BSP file data space used: 3746617 bytes ====
+
+Total triangle count: 8738
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 26 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+material "nature/tree_card_clump" not found
+Material not found!: NATURE/TREE_CARD_CLUMP
+material "nature/treeline001a" not found
+Material not found!: NATURE/TREELINE001A
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (106687 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 228 texinfos to 170
+Reduced 39 texdatas to 39 (834 bytes to 834)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3447 faces
+1 degenerate faces
+1852030 square feet [266692320.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0789 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/1024         1248/49152    ( 2.5%) 
+brushes                286/8192         3432/98304    ( 3.5%) 
+brushsides            1860/65536       14880/524288   ( 2.8%) 
+planes                1664/65536       33280/1310720  ( 2.5%) 
+vertexes              4784/65536       57408/786432   ( 7.3%) 
+nodes                 2035/65536       65120/2097152  ( 3.1%) 
+texinfos               170/12288       12240/884736   ( 1.4%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3447/65536      193032/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              920/65536       51520/3670016  ( 1.4%) 
+leaves                2062/65536       65984/2097152  ( 3.1%) 
+leaffaces             3843/65536        7686/131072   ( 5.9%) 
+leafbrushes           1110/65536        2220/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19460/512000      77840/2048000  ( 3.8%) 
+edges                10507/256000      42028/1024000  ( 4.1%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            210/32768        2100/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2952/65536        5904/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2933768/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25121/393216   ( 6.4%) 
+LDR leaf ambient      2062/65536       49488/1572864  ( 3.1%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      106687/4194304  ( 2.5%) 
+==== Total Win32 BSP file data space used: 3752902 bytes ====
+
+Total triangle count: 8886
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 36 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+material "nature/tree_card_clump" not found
+Material not found!: NATURE/TREE_CARD_CLUMP
+material "nature/treeline001a" not found
+Material not found!: NATURE/TREELINE001A
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (107241 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 241 texinfos to 177
+Reduced 39 texdatas to 39 (834 bytes to 834)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+3 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3452 faces
+1 degenerate faces
+1852350 square feet [266738464.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0775 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                286/8192         3432/98304    ( 3.5%) 
+brushsides            1858/65536       14864/524288   ( 2.8%) 
+planes                1678/65536       33560/1310720  ( 2.6%) 
+vertexes              4782/65536       57384/786432   ( 7.3%) 
+nodes                 2040/65536       65280/2097152  ( 3.1%) 
+texinfos               177/12288       12744/884736   ( 1.4%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3452/65536      193312/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              932/65536       52192/3670016  ( 1.4%) 
+leaves                2069/65536       66208/2097152  ( 3.2%) 
+leaffaces             3841/65536        7682/131072   ( 5.9%) 
+leafbrushes           1104/65536        2208/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19524/512000      78096/2048000  ( 3.8%) 
+edges                10531/256000      42124/1024000  ( 4.1%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            210/32768        2100/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2955/65536        5910/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2936688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25956/393216   ( 6.6%) 
+LDR leaf ambient      2069/65536       49656/1572864  ( 3.2%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      107241/4194304  ( 2.6%) 
+==== Total Win32 BSP file data space used: 3759897 bytes ====
+
+Total triangle count: 8892
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 36 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+material "nature/tree_card_clump" not found
+Material not found!: NATURE/TREE_CARD_CLUMP
+material "nature/treeline001a" not found
+Material not found!: NATURE/TREELINE001A
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (107241 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 241 texinfos to 177
+Reduced 39 texdatas to 39 (834 bytes to 834)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3452 faces
+1 degenerate faces
+1852350 square feet [266738464.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0765 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                286/8192         3432/98304    ( 3.5%) 
+brushsides            1858/65536       14864/524288   ( 2.8%) 
+planes                1678/65536       33560/1310720  ( 2.6%) 
+vertexes              4782/65536       57384/786432   ( 7.3%) 
+nodes                 2040/65536       65280/2097152  ( 3.1%) 
+texinfos               177/12288       12744/884736   ( 1.4%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3452/65536      193312/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              932/65536       52192/3670016  ( 1.4%) 
+leaves                2069/65536       66208/2097152  ( 3.2%) 
+leaffaces             3841/65536        7682/131072   ( 5.9%) 
+leafbrushes           1104/65536        2208/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19524/512000      78096/2048000  ( 3.8%) 
+edges                10531/256000      42124/1024000  ( 4.1%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            210/32768        2100/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2955/65536        5910/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2936688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25653/393216   ( 6.5%) 
+LDR leaf ambient      2069/65536       49656/1572864  ( 3.2%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      107241/4194304  ( 2.6%) 
+==== Total Win32 BSP file data space used: 3759594 bytes ====
+
+Total triangle count: 8892
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 36 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+material "nature/tree_card_clump" not found
+Material not found!: NATURE/TREE_CARD_CLUMP
+material "nature/treeline001a" not found
+Material not found!: NATURE/TREELINE001A
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (107446 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 247 texinfos to 183
+Reduced 39 texdatas to 39 (834 bytes to 834)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3453 faces
+1 degenerate faces
+1855279 square feet [267160272.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0774 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                286/8192         3432/98304    ( 3.5%) 
+brushsides            1858/65536       14864/524288   ( 2.8%) 
+planes                1698/65536       33960/1310720  ( 2.6%) 
+vertexes              4782/65536       57384/786432   ( 7.3%) 
+nodes                 2039/65536       65248/2097152  ( 3.1%) 
+texinfos               183/12288       13176/884736   ( 1.5%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3453/65536      193368/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              941/65536       52696/3670016  ( 1.4%) 
+leaves                2070/65536       66240/2097152  ( 3.2%) 
+leaffaces             3839/65536        7678/131072   ( 5.9%) 
+leafbrushes           1093/65536        2186/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19555/512000      78220/2048000  ( 3.8%) 
+edges                10537/256000      42148/1024000  ( 4.1%) 
+LDR worldlights          7/8192          616/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            209/32768        2090/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2958/65536        5916/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2981816/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       26767/393216   ( 6.8%) 
+LDR leaf ambient      2070/65536       49680/1572864  ( 3.2%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      107446/4194304  ( 2.6%) 
+==== Total Win32 BSP file data space used: 3807671 bytes ====
+
+Total triangle count: 8882
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 36 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "skybox/sky_borealis01bk" not found
+Material not found!: SKYBOX/SKY_BOREALIS01BK
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (100879 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 190 texinfos to 157
+Reduced 37 texdatas to 36 (791 bytes to 773)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3381 faces
+1 degenerate faces
+1835939 square feet [264375344.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0761 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/1024         1296/49152    ( 2.6%) 
+brushes                274/8192         3288/98304    ( 3.3%) 
+brushsides            1766/65536       14128/524288   ( 2.7%) 
+planes                1508/65536       30160/1310720  ( 2.3%) 
+vertexes              4696/65536       56352/786432   ( 7.2%) 
+nodes                 1993/65536       63776/2097152  ( 3.0%) 
+texinfos               157/12288       11304/884736   ( 1.3%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3381/65536      189336/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              881/65536       49336/3670016  ( 1.3%) 
+leaves                2021/65536       64672/2097152  ( 3.1%) 
+leaffaces             3767/65536        7534/131072   ( 5.7%) 
+leafbrushes           1077/65536        2154/131072   ( 1.6%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            18999/512000      75996/2048000  ( 3.7%) 
+edges                10235/256000      40940/1024000  ( 4.0%) 
+LDR worldlights          8/8192          704/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            209/32768        2090/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2958/65536        5916/131072   ( 4.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2954888/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       28399/393216   ( 7.2%) 
+LDR leaf ambient      2021/65536       48504/1572864  ( 3.1%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      100879/4194304  ( 2.4%) 
+==== Total Win32 BSP file data space used: 3752856 bytes ====
+
+Total triangle count: 8710
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 36 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE005, using default
+material "tools/toolsskybox" not found
+Material not found!: TOOLS/TOOLSSKYBOX
+Can't find surfaceprop dirt for material DE_TRAIN/TRAIN_DIRT_FLOOR_01, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+material "plaster/plasterwall036d" not found
+Material not found!: PLASTER/PLASTERWALL036D
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 3584.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 2560.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 1536.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10240.0, 512.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0, 4096.0, 952.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (101468 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 193 texinfos to 160
+Reduced 37 texdatas to 36 (785 bytes to 767)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3404 faces
+1 degenerate faces
+1835949 square feet [264376656.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0767 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                274/8192         3288/98304    ( 3.3%) 
+brushsides            1766/65536       14128/524288   ( 2.7%) 
+planes                1530/65536       30600/1310720  ( 2.3%) 
+vertexes              4717/65536       56604/786432   ( 7.2%) 
+nodes                 2028/65536       64896/2097152  ( 3.1%) 
+texinfos               160/12288       11520/884736   ( 1.3%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3404/65536      190624/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              891/65536       49896/3670016  ( 1.4%) 
+leaves                2057/65536       65824/2097152  ( 3.1%) 
+leaffaces             3778/65536        7556/131072   ( 5.8%) 
+leafbrushes           1101/65536        2202/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19145/512000      76580/2048000  ( 3.7%) 
+edges                10309/256000      41236/1024000  ( 4.0%) 
+LDR worldlights          8/8192          704/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            220/32768        2200/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3123/65536        6246/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2954976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       28901/393216   ( 7.3%) 
+LDR leaf ambient      2057/65536       49368/1572864  ( 3.1%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      101468/4194304  ( 2.4%) 
+==== Total Win32 BSP file data space used: 3761365 bytes ====
+
+Total triangle count: 8770
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 36 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3119.4, -700.9, 778.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 14091: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3119.2, -601.6, 672.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 14091: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3123.0, -635.4, 725.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 14091: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96692 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 179 texinfos to 147
+Reduced 33 texdatas to 32 (696 bytes to 678)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3045 faces
+1 degenerate faces
+1531906 square feet [220594480.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0766 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                261/8192         3132/98304    ( 3.2%) 
+brushsides            1688/65536       13504/524288   ( 2.6%) 
+planes                1454/65536       29080/1310720  ( 2.2%) 
+vertexes              4274/65536       51288/786432   ( 6.5%) 
+nodes                 1798/65536       57536/2097152  ( 2.7%) 
+texinfos               147/12288       10584/884736   ( 1.2%) 
+texdata                 32/2048         1024/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3045/65536      170520/3670016  ( 4.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              835/65536       46760/3670016  ( 1.3%) 
+leaves                1827/65536       58464/2097152  ( 2.8%) 
+leaffaces             3390/65536        6780/131072   ( 5.2%) 
+leafbrushes           1029/65536        2058/131072   ( 1.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            17277/512000      69108/2048000  ( 3.4%) 
+edges                 9301/256000      37204/1024000  ( 3.6%) 
+LDR worldlights          8/8192          704/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            179/32768        1790/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2583/65536        5166/131072   ( 3.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2679644/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       28711/393216   ( 7.3%) 
+LDR leaf ambient      1827/65536       43848/1572864  ( 2.8%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       96692/4194304  ( 2.3%) 
+==== Total Win32 BSP file data space used: 3414985 bytes ====
+
+Total triangle count: 7844
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\counter-strike source\cstrike\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.vmf
+Can't find surfaceprop dirt for material CS_HAVANA/GROUND01GRASS, using default
+Can't find surfaceprop metal for material DE_NUKE/NUKMETWALLG, using default
+Can't find surfaceprop rock for material DE_PIRANESI/PI_ROAD, using default
+Can't find surfaceprop tile for material CS_ITALY/TILEROOF01, using default
+material "wood/woodwall045c" not found
+Material not found!: WOOD/WOODWALL045C
+material "glass/glasswindow037c" not found
+Material not found!: GLASS/GLASSWINDOW037C
+Can't find surfaceprop wood_plank for material WOOD/MILWALL012, using default
+Can't find surfaceprop wood for material CS_HAVANA/WOODF01, using default
+material "concrete/concretewall004a_c17" not found
+Material not found!: CONCRETE/CONCRETEWALL004A_C17
+Can't find surfaceprop wood for material NIPPERTEXTURES/SPOOKS/DUH_WOOD, using default
+Can't find surfaceprop dirt for material DE_TIDES/TIDES_FLOOR_WOOD, using default
+material "metal/metalfence003a" not found
+Material not found!: METAL/METALFENCE003A
+Can't find surfaceprop chainlink for material EFFECTS/METALFENCE007A, using default
+material "metal/metalfence004a" not found
+Material not found!: METAL/METALFENCE004A
+Can't find surfaceprop tile for material DE_CBBLE/ROOFTILE02, using default
+Can't find surfaceprop no_decal for material NATURE/MILTREE003, using default
+Can't find surfaceprop wood for material DE_CHATEAU/FLOOR02, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR01, using default
+Can't find surfaceprop wood for material DE_PIRANESI/WOODFLOOR03, using default
+Can't find surfaceprop wood_plank for material WOOD/MILSTEPS001, using default
+material "metal/metalwall091a" not found
+Material not found!: METAL/METALWALL091A
+Can't find surfaceprop wood for material DE_DUST/DOOR04, using default
+material "tools/toolstrigger" not found
+Material not found!: TOOLS/TOOLSTRIGGER
+Can't find surfaceprop wood for material CS_HAVANA/DOOR04, using default
+material "props/sign_trainstation01" not found
+Material not found!: PROPS/SIGN_TRAINSTATION01
+material "halflife/{ladder2" not found
+Material not found!: HALFLIFE/{LADDER2
+material "glass/glasswindow018a" not found
+Material not found!: GLASS/GLASSWINDOW018A
+Can't find surfaceprop metalvent for material DE_TRAIN/TRAINYARD_METALWALL01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (-2970.50 2882.00 802.36) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3119.4, -700.9, 778.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 14091: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3119.2, -601.6, 672.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 14091: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3123.0, -635.4, 725.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 14091: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+No such variable "$hdrbasetexture" for material "___error"
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96692 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 179 texinfos to 147
+Reduced 33 texdatas to 32 (696 bytes to 678)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[1 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+No vis information, direct lighting only.
+3045 faces
+1 degenerate faces
+1531906 square feet [220594480.00 square inches]
+0 displacements
+0 square feet [0.00 square inches]
+can't solve quadratic for light 25.000000 25.000000
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0697 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                261/8192         3132/98304    ( 3.2%) 
+brushsides            1688/65536       13504/524288   ( 2.6%) 
+planes                1454/65536       29080/1310720  ( 2.2%) 
+vertexes              4274/65536       51288/786432   ( 6.5%) 
+nodes                 1798/65536       57536/2097152  ( 2.7%) 
+texinfos               147/12288       10584/884736   ( 1.2%) 
+texdata                 32/2048         1024/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3045/65536      170520/3670016  ( 4.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              835/65536       46760/3670016  ( 1.3%) 
+leaves                1827/65536       58464/2097152  ( 2.8%) 
+leaffaces             3390/65536        6780/131072   ( 5.2%) 
+leafbrushes           1029/65536        2058/131072   ( 1.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            17277/512000      69108/2048000  ( 3.4%) 
+edges                 9301/256000      37204/1024000  ( 3.6%) 
+LDR worldlights          8/8192          704/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            179/32768        1790/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2583/65536        5166/131072   ( 3.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2679644/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       28442/393216   ( 7.2%) 
+LDR leaf ambient      1827/65536       43848/1572864  ( 2.8%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          26/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]       96692/4194304  ( 2.3%) 
+==== Total Win32 BSP file data space used: 3414716 bytes ====
+
+Total triangle count: 7844
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\cstike_source\de_to4ka.bsp
+1 minute, 16 seconds elapsed

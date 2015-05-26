@@ -1,0 +1,3209 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-1251.34 -1040.87 65.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17069 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 85
+Reduced 6 texdatas to 5 (140 bytes to 119)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-1251.34 -1040.87 65.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17069 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 85
+Reduced 6 texdatas to 5 (140 bytes to 119)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-1251.34 -1040.87 65.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17069 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 85
+Reduced 6 texdatas to 5 (140 bytes to 119)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_wind (-1382.77 -1084.00 277.44) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17069 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 85
+Reduced 6 texdatas to 5 (140 bytes to 119)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1Brush 4789: WARNING, microbrush
+...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_wind (-1382.77 -1084.00 277.44) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25973 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 182 texinfos to 97
+Reduced 7 texdatas to 6 (162 bytes to 141)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1Brush 4789: WARNING, microbrush
+...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_wind (-1382.77 -1084.00 277.44) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25973 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 182 texinfos to 97
+Reduced 7 texdatas to 6 (162 bytes to 141)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1Brush 4789: WARNING, microbrush
+...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_wind (-1382.77 -1084.00 277.44) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25973 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 182 texinfos to 97
+Reduced 7 texdatas to 6 (162 bytes to 141)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+882 faces
+1 degenerate faces
+691261 square feet [99541704.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0207 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 69/8192          828/98304    ( 0.8%) 
+brushsides             498/65536        3984/524288   ( 0.8%) 
+planes                 624/65536       12480/1310720  ( 1.0%) 
+vertexes              1418/65536       17016/786432   ( 2.2%) 
+nodes                  540/65536       17280/2097152  ( 0.8%) 
+texinfos                97/12288        6984/884736   ( 0.8%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  882/65536       49392/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              244/65536       13664/3670016  ( 0.4%) 
+leaves                 543/65536       17376/2097152  ( 0.8%) 
+leaffaces             1015/65536        2030/131072   ( 1.5%) 
+leafbrushes            210/65536         420/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5085/512000      20340/2048000  ( 1.0%) 
+edges                 2754/256000      11016/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             63/32768         630/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           876/65536        1752/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      994144/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78075/393216   (19.9%) 
+LDR ambient table      543/65536        2172/262144   ( 0.8%) 
+HDR ambient table      543/65536        2172/262144   ( 0.8%) 
+LDR leaf ambient      3023/65536       84644/1835008  ( 4.6%) 
+HDR leaf ambient       543/65536       15204/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       25973/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2344
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1Brush 4789: WARNING, microbrush
+...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity path_corner (-1143.00 -969.00 264.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27114 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 185 texinfos to 100
+Reduced 7 texdatas to 6 (162 bytes to 141)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+907 faces
+1 degenerate faces
+691190 square feet [99531440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0205 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             517/65536        4136/524288   ( 0.8%) 
+planes                 648/65536       12960/1310720  ( 1.0%) 
+vertexes              1466/65536       17592/786432   ( 2.2%) 
+nodes                  575/65536       18400/2097152  ( 0.9%) 
+texinfos               100/12288        7200/884736   ( 0.8%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  907/65536       50792/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              254/65536       14224/3670016  ( 0.4%) 
+leaves                 579/65536       18528/2097152  ( 0.9%) 
+leaffaces             1042/65536        2084/131072   ( 1.6%) 
+leafbrushes            229/65536         458/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5241/512000      20964/2048000  ( 1.0%) 
+edges                 2831/256000      11324/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           924/65536        1848/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1026556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       82141/393216   (20.9%) 
+LDR ambient table      579/65536        2316/262144   ( 0.9%) 
+HDR ambient table      579/65536        2316/262144   ( 0.9%) 
+LDR leaf ambient      3178/65536       88984/1835008  ( 4.8%) 
+HDR leaf ambient       579/65536       16212/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       27114/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2411
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27907 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 194 texinfos to 105
+Reduced 8 texdatas to 7 (177 bytes to 156)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+940 faces
+691735 square feet [99609968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0222 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 74/8192          888/98304    ( 0.9%) 
+brushsides             531/65536        4248/524288   ( 0.8%) 
+planes                 684/65536       13680/1310720  ( 1.0%) 
+vertexes              1518/65536       18216/786432   ( 2.3%) 
+nodes                  605/65536       19360/2097152  ( 0.9%) 
+texinfos               105/12288        7560/884736   ( 0.9%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  940/65536       52640/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              269/65536       15064/3670016  ( 0.4%) 
+leaves                 610/65536       19520/2097152  ( 0.9%) 
+leaffaces             1063/65536        2126/131072   ( 1.6%) 
+leafbrushes            244/65536         488/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5445/512000      21780/2048000  ( 1.1%) 
+edges                 2933/256000      11732/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             66/32768         660/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           900/65536        1800/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031348/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       82633/393216   (21.0%) 
+LDR ambient table      610/65536        2440/262144   ( 0.9%) 
+HDR ambient table      610/65536        2440/262144   ( 0.9%) 
+LDR leaf ambient      3316/65536       92848/1835008  ( 5.1%) 
+HDR leaf ambient       610/65536       17080/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       27907/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2487
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+955 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0215 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             572/65536        4576/524288   ( 0.9%) 
+planes                 768/65536       15360/1310720  ( 1.2%) 
+vertexes              1549/65536       18588/786432   ( 2.4%) 
+nodes                  622/65536       19904/2097152  ( 0.9%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  955/65536       53480/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 629/65536       20128/2097152  ( 1.0%) 
+leaffaces             1081/65536        2162/131072   ( 1.6%) 
+leafbrushes            249/65536         498/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             66/32768         660/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           900/65536        1800/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031880/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       85577/393216   (21.8%) 
+LDR ambient table      629/65536        2516/262144   ( 1.0%) 
+HDR ambient table      629/65536        2516/262144   ( 1.0%) 
+LDR leaf ambient      3350/65536       93800/1835008  ( 5.1%) 
+HDR leaf ambient       629/65536       17612/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/210      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2531
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+955 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0212 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             572/65536        4576/524288   ( 0.9%) 
+planes                 768/65536       15360/1310720  ( 1.2%) 
+vertexes              1549/65536       18588/786432   ( 2.4%) 
+nodes                  622/65536       19904/2097152  ( 0.9%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  955/65536       53480/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 629/65536       20128/2097152  ( 1.0%) 
+leaffaces             1081/65536        2162/131072   ( 1.6%) 
+leafbrushes            249/65536         498/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             66/32768         660/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           900/65536        1800/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031880/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       85577/393216   (21.8%) 
+LDR ambient table      629/65536        2516/262144   ( 1.0%) 
+HDR ambient table      629/65536        2516/262144   ( 1.0%) 
+LDR leaf ambient      3350/65536       93800/1835008  ( 5.1%) 
+HDR leaf ambient       629/65536       17612/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/210      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2531
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0221 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             579/65536        4632/524288   ( 0.9%) 
+planes                 794/65536       15880/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031592/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       86478/393216   (22.0%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3416/65536       95648/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/210      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0226 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031592/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       87980/393216   (22.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0213 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031592/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       87980/393216   (22.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0225 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031592/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       87980/393216   (22.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0219 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031592/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       88013/393216   (22.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0215 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1031592/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       88013/393216   (22.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0242 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       99484/393216   (25.3%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0272 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       99735/393216   (25.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0239 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       99736/393216   (25.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0322 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       99786/393216   (25.4%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0250 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      100277/393216   (25.5%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0251 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      100283/393216   (25.5%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+953 faces
+691729 square feet [99609056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0215 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             576/65536        4608/524288   ( 0.9%) 
+planes                 788/65536       15760/1310720  ( 1.2%) 
+vertexes              1551/65536       18612/786432   ( 2.4%) 
+nodes                  624/65536       19968/2097152  ( 1.0%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  953/65536       53368/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              286/65536       16016/3670016  ( 0.4%) 
+leaves                 631/65536       20192/2097152  ( 1.0%) 
+leaffaces             1075/65536        2150/131072   ( 1.6%) 
+leafbrushes            250/65536         500/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5587/512000      22348/2048000  ( 1.1%) 
+edges                 3015/256000      12060/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      100277/393216   (25.5%) 
+LDR ambient table      631/65536        2524/262144   ( 1.0%) 
+HDR ambient table      631/65536        2524/262144   ( 1.0%) 
+LDR leaf ambient      3399/65536       95172/1835008  ( 5.2%) 
+HDR leaf ambient       631/65536       17668/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       30041/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2535
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31141 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 117
+Reduced 11 texdatas to 10 (238 bytes to 217)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+No vis information, direct lighting only.
+965 faces
+691736 square feet [99610016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 111.000000 111.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0201 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             588/65536        4704/524288   ( 0.9%) 
+planes                 818/65536       16360/1310720  ( 1.2%) 
+vertexes              1567/65536       18804/786432   ( 2.4%) 
+nodes                  636/65536       20352/2097152  ( 1.0%) 
+texinfos               117/12288        8424/884736   ( 1.0%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  965/65536       54040/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              298/65536       16688/3670016  ( 0.5%) 
+leaves                 645/65536       20640/2097152  ( 1.0%) 
+leaffaces             1087/65536        2174/131072   ( 1.7%) 
+leafbrushes            252/65536         504/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5683/512000      22732/2048000  ( 1.1%) 
+edges                 3063/256000      12252/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           930/65536        1860/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1428792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      101520/393216   (25.8%) 
+LDR ambient table      645/65536        2580/262144   ( 1.0%) 
+HDR ambient table      645/65536        2580/262144   ( 1.0%) 
+LDR leaf ambient      3411/65536       95508/1835008  ( 5.2%) 
+HDR leaf ambient       645/65536       18060/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]      105996/0        ( 0.0%) 
+physics               [variable]       31141/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2559
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30042 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30042 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30042 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 109
+Reduced 10 texdatas to 9 (217 bytes to 196)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (37855 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 122
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+3 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (-4574.00 278.34 -298.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37855 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 122
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_target (1238.51 5770.00 1216.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1536.0 -266.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1536.0 893.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1536.0 1607.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 2048.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 512.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 2048.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4096.0 512.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4576.0 1024.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38247 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 122
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity path_corner (-1143.00 -969.00 264.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 6144.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 6144.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 2048.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 2560.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 2048.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40343 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 122
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity npc_fastzombie (1361.00 -1623.26 12.77) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 6144.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 6144.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 2048.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 2560.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 2048.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40439 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 122
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (1536.00 -1537.00 -298.34) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 6144.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 6144.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 2048.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 2560.0 448.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 2048.0 448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40471 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 122
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42239 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 226 texinfos to 122
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+ 237 portalclusters
+ 681 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2636 visible clusters (5.98%)
+Total clusters visible: 44087
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 226
+visdatasize:15675  compressed from 15168
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42631 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 125
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+ 243 portalclusters
+ 685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3035 visible clusters (6.65%)
+Total clusters visible: 45638
+Average clusters visible: 187
+Building PAS...
+Average clusters audible: 230
+visdatasize:16499  compressed from 15552
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49047 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 125
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+ 265 portalclusters
+ 741 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2896 visible clusters (5.16%)
+Total clusters visible: 56075
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 254
+visdatasize:19432  compressed from 21200
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49047 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 125
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+ 265 portalclusters
+ 740 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2896 visible clusters (5.16%)
+Total clusters visible: 56075
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 254
+visdatasize:19432  compressed from 21200
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49047 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 125
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+ 265 portalclusters
+ 740 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2896 visible clusters (5.16%)
+Total clusters visible: 56075
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 254
+visdatasize:19432  compressed from 21200
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49047 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 125
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+ 265 portalclusters
+ 740 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2896 visible clusters (5.16%)
+Total clusters visible: 56075
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 254
+visdatasize:19432  compressed from 21200
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+Patching WVT material: maps/standoff/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_ep01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49047 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 125
+Reduced 13 texdatas to 12 (286 bytes to 265)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.prt
+ 265 portalclusters
+ 740 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2896 visible clusters (5.16%)
+Total clusters visible: 56075
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 254
+visdatasize:19432  compressed from 21200
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\standoff.bsp
+0 seconds elapsed

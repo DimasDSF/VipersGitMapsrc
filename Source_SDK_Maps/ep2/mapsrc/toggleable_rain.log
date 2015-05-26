@@ -1,0 +1,1575 @@
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (10877 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 29 texinfos to 14
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+113 faces
+59734 square feet [8601740.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 27/8192          324/98304    ( 0.3%) 
+brushsides             162/65536        1296/524288   ( 0.2%) 
+planes                  88/65536        1760/1310720  ( 0.1%) 
+vertexes               201/65536        2412/786432   ( 0.3%) 
+nodes                   93/65536        2976/2097152  ( 0.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  113/65536        6328/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               77/65536        4312/3670016  ( 0.1%) 
+leaves                  97/65536        3104/2097152  ( 0.1%) 
+leaffaces              133/65536         266/131072   ( 0.2%) 
+leafbrushes             44/65536          88/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              832/512000       3328/2048000  ( 0.2%) 
+edges                  493/256000       1972/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11237/393216   ( 2.9%) 
+LDR ambient table       97/65536         388/262144   ( 0.1%) 
+HDR ambient table       97/65536         388/262144   ( 0.1%) 
+LDR leaf ambient       304/65536        8512/1835008  ( 0.5%) 
+HDR leaf ambient        97/65536        2716/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       10877/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 298
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10877 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 29 texinfos to 14
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+113 faces
+59734 square feet [8601740.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 27/8192          324/98304    ( 0.3%) 
+brushsides             162/65536        1296/524288   ( 0.2%) 
+planes                  88/65536        1760/1310720  ( 0.1%) 
+vertexes               201/65536        2412/786432   ( 0.3%) 
+nodes                   93/65536        2976/2097152  ( 0.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  113/65536        6328/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               77/65536        4312/3670016  ( 0.1%) 
+leaves                  97/65536        3104/2097152  ( 0.1%) 
+leaffaces              133/65536         266/131072   ( 0.2%) 
+leafbrushes             44/65536          88/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              832/512000       3328/2048000  ( 0.2%) 
+edges                  493/256000       1972/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11242/393216   ( 2.9%) 
+LDR ambient table       97/65536         388/262144   ( 0.1%) 
+HDR ambient table       97/65536         388/262144   ( 0.1%) 
+LDR leaf ambient       304/65536        8512/1835008  ( 0.5%) 
+HDR leaf ambient        97/65536        2716/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       10877/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 298
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10877 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 29 texinfos to 14
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+113 faces
+59734 square feet [8601740.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 27/8192          324/98304    ( 0.3%) 
+brushsides             162/65536        1296/524288   ( 0.2%) 
+planes                  88/65536        1760/1310720  ( 0.1%) 
+vertexes               201/65536        2412/786432   ( 0.3%) 
+nodes                   93/65536        2976/2097152  ( 0.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  113/65536        6328/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               77/65536        4312/3670016  ( 0.1%) 
+leaves                  97/65536        3104/2097152  ( 0.1%) 
+leaffaces              133/65536         266/131072   ( 0.2%) 
+leafbrushes             44/65536          88/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              832/512000       3328/2048000  ( 0.2%) 
+edges                  493/256000       1972/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11242/393216   ( 2.9%) 
+LDR ambient table       97/65536         388/262144   ( 0.1%) 
+HDR ambient table       97/65536         388/262144   ( 0.1%) 
+LDR leaf ambient       304/65536        8512/1835008  ( 0.5%) 
+HDR leaf ambient        97/65536        2716/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       10877/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 298
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13612/393216   ( 3.5%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       382/65536       10696/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 41 texinfos to 20
+Reduced 10 texdatas to 8 (284 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 33/8192          396/98304    ( 0.4%) 
+brushsides             198/65536        1584/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               241/65536        2892/786432   ( 0.4%) 
+nodes                  117/65536        3744/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 124/65536        3968/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             50/65536         100/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13951/393216   ( 3.5%) 
+LDR ambient table      124/65536         496/262144   ( 0.2%) 
+HDR ambient table      124/65536         496/262144   ( 0.2%) 
+LDR leaf ambient       389/65536       10892/1835008  ( 0.6%) 
+HDR leaf ambient       124/65536        3472/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13487/393216   ( 3.4%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       182/65536        5096/1835008  ( 0.3%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13487/393216   ( 3.4%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0010 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13557/393216   ( 3.4%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0007 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13556/393216   ( 3.4%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       14717/393216   ( 3.7%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       14240/393216   ( 3.6%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       14240/393216   ( 3.6%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13790/393216   ( 3.5%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13812/393216   ( 3.5%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Half-Life 2\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\common\half-life 2\ep2\gameinfo.txt
+Patching WVT material: maps/toggleable_rain/nature/blenddirtgravel01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13372 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 20
+Reduced 9 texdatas to 8 (262 bytes to 237)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+No vis information, direct lighting only.
+137 faces
+71660 square feet [10319048.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0007 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 32/8192          384/98304    ( 0.4%) 
+brushsides             192/65536        1536/524288   ( 0.3%) 
+planes                 144/65536        2880/1310720  ( 0.2%) 
+vertexes               233/65536        2796/786432   ( 0.4%) 
+nodes                  111/65536        3552/2097152  ( 0.2%) 
+texinfos                20/12288        1440/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  137/65536        7672/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              101/65536        5656/3670016  ( 0.2%) 
+leaves                 117/65536        3744/2097152  ( 0.2%) 
+leaffaces              157/65536         314/131072   ( 0.2%) 
+leafbrushes             49/65536          98/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1036/512000       4144/2048000  ( 0.2%) 
+edges                  607/256000       2428/1024000  ( 0.2%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            51/65536         102/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      127456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       13556/393216   ( 3.4%) 
+LDR ambient table      117/65536         468/262144   ( 0.2%) 
+HDR ambient table      117/65536         468/262144   ( 0.2%) 
+LDR leaf ambient       365/65536       10220/1835008  ( 0.6%) 
+HDR leaf ambient       117/65536        3276/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106035/0        ( 0.0%) 
+physics               [variable]       13372/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 358
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\ep2\mapsrc\toggleable_rain.bsp
+0 seconds elapsed

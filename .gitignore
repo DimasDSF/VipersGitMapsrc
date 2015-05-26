@@ -41,3 +41,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# ===============
+# Directories Not to be backuped
+# ===============
+prefabs
+portal
+dod
+generic
+tf
+sdk
+**/modelsrc/
+**/materialsrc/
+**/particles
+
+# ===============
+# Files Not to be backuped
+# ===============
+rappel_heights.txt

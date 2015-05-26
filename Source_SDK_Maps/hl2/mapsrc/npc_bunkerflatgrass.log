@@ -1,0 +1,1477 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/concretewall_bunker03b" not found.
+Material not found!: CONCRETE/CONCRETEWALL_BUNKER03B
+material "metal/forest_metal_07" not found.
+Material not found!: METAL/FOREST_METAL_07
+material "metal/metal_liftbase01" not found.
+Material not found!: METAL/METAL_LIFTBASE01
+material "nature/blendashdirt01" not found.
+Material not found!: NATURE/BLENDASHDIRT01
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (536150 bytes)
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2117 texinfos to 1541
+Reduced 92 texdatas to 82 (2595 bytes to 2177)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/concretewall_bunker03b" not found.
+Material not found!: CONCRETE/CONCRETEWALL_BUNKER03B
+material "metal/forest_metal_07" not found.
+Material not found!: METAL/FOREST_METAL_07
+material "metal/metal_liftbase01" not found.
+Material not found!: METAL/METAL_LIFTBASE01
+material "nature/blendashdirt01" not found.
+Material not found!: NATURE/BLENDASHDIRT01
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (536150 bytes)
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2117 texinfos to 1541
+Reduced 92 texdatas to 82 (2595 bytes to 2177)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+No vis information, direct lighting only.
+19836 faces
+21 degenerate faces
+48450908 square feet [6976930816.00 square inches]
+25 Displacements
+6197 Square Feet [892439.00 Square Inches]
+48 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.8419 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  48/1024         2304/49152    ( 4.7%) 
+brushes               1427/8192        17124/98304    (17.4%) 
+brushsides           12624/65536      100992/524288   (19.3%) 
+planes               10462/65536      209240/1310720  (16.0%) 
+vertexes             25446/65536      305352/786432   (38.8%) 
+nodes                10821/65536      346272/2097152  (16.5%) 
+texinfos              1541/12288      110952/884736   (12.5%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos               25/0            4400/0        ( 0.0%) 
+disp_verts            1225/0           24500/0        ( 0.0%) 
+disp_tris             1856/0            3712/0        ( 0.0%) 
+disp_lmsamples       19277/0           19277/0        ( 0.0%) 
+faces                19836/65536     1110816/3670016  (30.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4443/65536      248808/3670016  ( 6.8%) 
+leaves               10870/65536      347840/2097152  (16.6%) 
+leaffaces            21291/65536       42582/131072   (32.5%) 
+leafbrushes           6727/65536       13454/131072   (10.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           106135/512000     424540/2048000  (20.7%) 
+edges                57609/256000     230436/1024000  (22.5%) 
+LDR worldlights         48/8192         4224/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1101/32768       11010/327680   ( 3.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17547/65536       35094/131072   (26.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/512           352/180224   ( 0.2%) 
+LDR lightdata         [variable]    22789564/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      242636/393216   (61.7%) 
+LDR ambient table    10870/65536       43480/262144   (16.6%) 
+HDR ambient table    10870/65536       43480/262144   (16.6%) 
+LDR leaf ambient     37583/65536     1052324/1835008  (57.3%) 
+HDR leaf ambient     10870/65536      304360/1835008  (16.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12612    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/10226    ( 0.0%) 
+pakfile               [variable]      214872/0        ( 0.0%) 
+physics               [variable]      536150/4194304  (12.8%) 
+physics terrain       [variable]        4398/1048576  ( 0.4%) 
+
+Level flags = 0
+
+Total triangle count: 48761
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+5 minutes, 34 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (536135 bytes)
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2111 texinfos to 1538
+Reduced 88 texdatas to 78 (2496 bytes to 2078)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+No vis information, direct lighting only.
+19836 faces
+21 degenerate faces
+48450908 square feet [6976930816.00 square inches]
+25 Displacements
+6197 Square Feet [892439.00 Square Inches]
+48 direct lights
+0...1...2...3...4...5...6...7..
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (536135 bytes)
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2111 texinfos to 1538
+Reduced 88 texdatas to 78 (2496 bytes to 2078)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (536135 bytes)
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2111 texinfos to 1538
+Reduced 88 texdatas to 78 (2496 bytes to 2078)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+17 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (536135 bytes)
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2111 texinfos to 1538
+Reduced 88 texdatas to 78 (2496 bytes to 2078)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (536135 bytes)
+Error loading studio model "models/props_wasteland/exterior_fence_notbarbed002c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2111 texinfos to 1538
+Reduced 88 texdatas to 78 (2496 bytes to 2078)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (528252 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2031 texinfos to 1514
+Reduced 88 texdatas to 78 (2496 bytes to 2078)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+17 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (529593 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2046 texinfos to 1519
+Reduced 90 texdatas to 80 (2549 bytes to 2131)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+17 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (530154 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2051 texinfos to 1522
+Reduced 90 texdatas to 80 (2549 bytes to 2131)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+18 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (531259 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2060 texinfos to 1528
+Reduced 90 texdatas to 80 (2549 bytes to 2131)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+18 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgrass001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blendgrassgravel001a_wvt_patch
+Patching WVT material: maps/npc_bunkerflatgrass/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-68.00 9286.00 -9121.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6469.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4877.8 8989.5 -6472.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4876.3 8988.7 -6472.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.3 8988.1 -6468.2)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.9 8988.4 -6465.3)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4878.7 8990.1 -6466.7)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4875.4 8988.1 -6465.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4881.1 8991.5 -6477.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 486: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (531259 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2060 texinfos to 1528
+Reduced 90 texdatas to 80 (2549 bytes to 2131)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\npc_bunkerflatgrass.bsp
+18 seconds elapsed

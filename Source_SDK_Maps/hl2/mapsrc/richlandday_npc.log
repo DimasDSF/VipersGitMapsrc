@@ -1,0 +1,158 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\richlandday_npc.vmf
+material "cobweb1" not found.
+Material not found!: COBWEB1
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+material "sign_nodiving" not found.
+Material not found!: SIGN_NODIVING
+material "sign_fallout" not found.
+Material not found!: SIGN_FALLOUT
+material "sign_slowchildren" not found.
+Material not found!: SIGN_SLOWCHILDREN
+material "sign_playground" not found.
+Material not found!: SIGN_PLAYGROUND
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+Patching WVT material: maps/richlandday_npc/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/richlandday_npc/concrete/blendconcreterock001a_wvt_patch
+Patching WVT material: maps/richlandday_npc/nature/blendrocksgrass006a_wvt_patch
+Patching WVT material: maps/richlandday_npc/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/richlandday_npc/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\richlandday_npc.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decal_hot" not found.
+material "decal_cold" not found.
+material "rug_towelyellow" not found.
+material "art_sonnychiba" not found.
+material "rug_towelwhite" not found.
+material "art_busstop" not found.
+material "art_magiceye" not found.
+Building Physics collision data...
+done (3) (1595758 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8481 texinfos to 4917
+Reduced 485 texdatas to 433 (22508 bytes to 20405)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\richlandday_npc.bsp
+21 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\richlandday_npc.vmf
+material "cobweb1" not found.
+Material not found!: COBWEB1
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+material "sign_nodiving" not found.
+Material not found!: SIGN_NODIVING
+material "sign_fallout" not found.
+Material not found!: SIGN_FALLOUT
+material "sign_slowchildren" not found.
+Material not found!: SIGN_SLOWCHILDREN
+material "sign_playground" not found.
+Material not found!: SIGN_PLAYGROUND
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+Patching WVT material: maps/richlandday_npc/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/richlandday_npc/concrete/blendconcreterock001a_wvt_patch
+Patching WVT material: maps/richlandday_npc/nature/blendrocksgrass006a_wvt_patch
+Patching WVT material: maps/richlandday_npc/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/richlandday_npc/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1988 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\richlandday_npc.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decal_hot" not found.
+material "decal_cold" not found.
+material "rug_towelyellow" not found.
+material "art_sonnychiba" not found.
+material "rug_towelwhite" not found.
+material "art_busstop" not found.
+material "art_magiceye" not found.
+Building Physics collision data...
+done (3) (1595758 bytes)
+Placing detail props : 0...1...2...3...4...Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+5...6...7...8..Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/DIRTFLOOR001A uses unknown detail object type citygrass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+Material NATURE/BLENDSANDGRASS008A uses unknown detail object type coastline_grass01!
+.9...10
+Compacting texture/material tables...
+Reduced 8481 texinfos to 4917
+Reduced 485 texdatas to 433 (22508 bytes to 20405)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\richlandday_npc.bsp
+25 seconds elapsed

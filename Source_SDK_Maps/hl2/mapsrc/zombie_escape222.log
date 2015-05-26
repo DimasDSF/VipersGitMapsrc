@@ -1,0 +1,2962 @@
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Brush 5011: FloatPlane: bad normal
+Side 0
+Texture: METAL/CITADEL_METALWALL078A
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+Error opening c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+Error opening c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (32150 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 116
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+2 threads
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+reading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt
+ 490 portalclusters
+1427 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (32150 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 116
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2323 faces
+4222224 square feet [608000384.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0891 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  15/1024          720/49152    ( 1.5%) 
+brushes                 76/8192          912/98304    ( 0.9%) 
+brushsides             714/65536        5712/524288   ( 1.1%) 
+planes                1190/65536       23800/1310720  ( 1.8%) 
+vertexes              2729/65536       32748/786432   ( 4.2%) 
+nodes                 1079/65536       34528/2097152  ( 1.6%) 
+texinfos               116/12288        8352/884736   ( 0.9%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2323/65536      130088/3670016  ( 3.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              314/65536       17584/3670016  ( 0.5%) 
+leaves                1095/65536       35040/2097152  ( 1.7%) 
+leaffaces             2542/65536        5084/131072   ( 3.9%) 
+leafbrushes            618/65536        1236/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11300/512000      45200/2048000  ( 2.2%) 
+edges                 5865/256000      23460/1024000  ( 2.3%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            128/32768        1280/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1752/65536        3504/131072   ( 2.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3273108/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       43757/393216   (11.1%) 
+LDR ambient table     1095/65536        4380/262144   ( 1.7%) 
+HDR ambient table     1095/65536        4380/262144   ( 1.7%) 
+LDR leaf ambient       855/65536       23940/1835008  ( 1.3%) 
+HDR leaf ambient      1095/65536       30660/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       32150/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5396
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (33935 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 164 texinfos to 120
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2345 faces
+4222056 square feet [607976064.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0865 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes                 78/8192          936/98304    ( 1.0%) 
+brushsides             740/65536        5920/524288   ( 1.1%) 
+planes                1242/65536       24840/1310720  ( 1.9%) 
+vertexes              2761/65536       33132/786432   ( 4.2%) 
+nodes                 1097/65536       35104/2097152  ( 1.7%) 
+texinfos               120/12288        8640/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2345/65536      131320/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              328/65536       18368/3670016  ( 0.5%) 
+leaves                1114/65536       35648/2097152  ( 1.7%) 
+leaffaces             2564/65536        5128/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11468/512000      45872/2048000  ( 2.2%) 
+edges                 5953/256000      23812/1024000  ( 2.3%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            128/32768        1280/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1752/65536        3504/131072   ( 2.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3273260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       47142/393216   (12.0%) 
+LDR ambient table     1114/65536        4456/262144   ( 1.7%) 
+HDR ambient table     1114/65536        4456/262144   ( 1.7%) 
+LDR leaf ambient       869/65536       24332/1835008  ( 1.3%) 
+HDR leaf ambient      1114/65536       31192/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       33935/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (35031 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 125
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2346 faces
+4222187 square feet [607995008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0876 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  18/1024          864/49152    ( 1.8%) 
+brushes                 80/8192          960/98304    ( 1.0%) 
+brushsides             752/65536        6016/524288   ( 1.1%) 
+planes                1266/65536       25320/1310720  ( 1.9%) 
+vertexes              2761/65536       33132/786432   ( 4.2%) 
+nodes                 1102/65536       35264/2097152  ( 1.7%) 
+texinfos               125/12288        9000/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2346/65536      131376/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              340/65536       19040/3670016  ( 0.5%) 
+leaves                1121/65536       35872/2097152  ( 1.7%) 
+leaffaces             2562/65536        5124/131072   ( 3.9%) 
+leafbrushes            623/65536        1246/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11506/512000      46024/2048000  ( 2.2%) 
+edges                 5972/256000      23888/1024000  ( 2.3%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3276156/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       48112/393216   (12.2%) 
+LDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+HDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+LDR leaf ambient       877/65536       24556/1835008  ( 1.3%) 
+HDR leaf ambient      1121/65536       31388/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35031/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5444
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35031 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 125
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2346 faces
+4222187 square feet [607995008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0847 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  18/1024          864/49152    ( 1.8%) 
+brushes                 80/8192          960/98304    ( 1.0%) 
+brushsides             752/65536        6016/524288   ( 1.1%) 
+planes                1266/65536       25320/1310720  ( 1.9%) 
+vertexes              2761/65536       33132/786432   ( 4.2%) 
+nodes                 1102/65536       35264/2097152  ( 1.7%) 
+texinfos               125/12288        9000/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2346/65536      131376/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              340/65536       19040/3670016  ( 0.5%) 
+leaves                1121/65536       35872/2097152  ( 1.7%) 
+leaffaces             2562/65536        5124/131072   ( 3.9%) 
+leafbrushes            623/65536        1246/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11506/512000      46024/2048000  ( 2.2%) 
+edges                 5972/256000      23888/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       50167/393216   (12.8%) 
+LDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+HDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+LDR leaf ambient       877/65536       24556/1835008  ( 1.3%) 
+HDR leaf ambient      1121/65536       31388/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35031/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5444
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+18 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35031 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 125
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2346 faces
+4222187 square feet [607995008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0880 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  18/1024          864/49152    ( 1.8%) 
+brushes                 80/8192          960/98304    ( 1.0%) 
+brushsides             752/65536        6016/524288   ( 1.1%) 
+planes                1266/65536       25320/1310720  ( 1.9%) 
+vertexes              2761/65536       33132/786432   ( 4.2%) 
+nodes                 1102/65536       35264/2097152  ( 1.7%) 
+texinfos               125/12288        9000/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2346/65536      131376/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              340/65536       19040/3670016  ( 0.5%) 
+leaves                1121/65536       35872/2097152  ( 1.7%) 
+leaffaces             2562/65536        5124/131072   ( 3.9%) 
+leafbrushes            623/65536        1246/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11506/512000      46024/2048000  ( 2.2%) 
+edges                 5972/256000      23888/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       50171/393216   (12.8%) 
+LDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+HDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+LDR leaf ambient       877/65536       24556/1835008  ( 1.3%) 
+HDR leaf ambient      1121/65536       31388/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35031/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5444
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+18 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (35031 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 125
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2346 faces
+4222179 square feet [607993856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0880 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  18/1024          864/49152    ( 1.8%) 
+brushes                 80/8192          960/98304    ( 1.0%) 
+brushsides             752/65536        6016/524288   ( 1.1%) 
+planes                1258/65536       25160/1310720  ( 1.9%) 
+vertexes              2761/65536       33132/786432   ( 4.2%) 
+nodes                 1102/65536       35264/2097152  ( 1.7%) 
+texinfos               125/12288        9000/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2346/65536      131376/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              340/65536       19040/3670016  ( 0.5%) 
+leaves                1121/65536       35872/2097152  ( 1.7%) 
+leaffaces             2562/65536        5124/131072   ( 3.9%) 
+leafbrushes            623/65536        1246/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11506/512000      46024/2048000  ( 2.2%) 
+edges                 5972/256000      23888/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       50346/393216   (12.8%) 
+LDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+HDR ambient table     1121/65536        4484/262144   ( 1.7%) 
+LDR leaf ambient       877/65536       24556/1835008  ( 1.3%) 
+HDR leaf ambient      1121/65536       31388/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35031/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5444
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+17 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (35587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 172 texinfos to 128
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2352 faces
+4224826 square feet [608375040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0814 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             758/65536        6064/524288   ( 1.2%) 
+planes                1282/65536       25640/1310720  ( 2.0%) 
+vertexes              2769/65536       33228/786432   ( 4.2%) 
+nodes                 1108/65536       35456/2097152  ( 1.7%) 
+texinfos               128/12288        9216/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2352/65536      131712/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                1128/65536       36096/2097152  ( 1.7%) 
+leaffaces             2568/65536        5136/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11554/512000      46216/2048000  ( 2.3%) 
+edges                 5996/256000      23984/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       51383/393216   (13.1%) 
+LDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+HDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+LDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+HDR leaf ambient      1128/65536       31584/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35587/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 172 texinfos to 128
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2352 faces
+4224824 square feet [608374784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0819 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             758/65536        6064/524288   ( 1.2%) 
+planes                1286/65536       25720/1310720  ( 2.0%) 
+vertexes              2769/65536       33228/786432   ( 4.2%) 
+nodes                 1108/65536       35456/2097152  ( 1.7%) 
+texinfos               128/12288        9216/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2352/65536      131712/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                1128/65536       36096/2097152  ( 1.7%) 
+leaffaces             2568/65536        5136/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11554/512000      46216/2048000  ( 2.3%) 
+edges                 5996/256000      23984/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       51895/393216   (13.2%) 
+LDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+HDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+LDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+HDR leaf ambient      1128/65536       31584/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35587/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 172 texinfos to 128
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2352 faces
+4224824 square feet [608374784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0813 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             758/65536        6064/524288   ( 1.2%) 
+planes                1286/65536       25720/1310720  ( 2.0%) 
+vertexes              2769/65536       33228/786432   ( 4.2%) 
+nodes                 1108/65536       35456/2097152  ( 1.7%) 
+texinfos               128/12288        9216/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2352/65536      131712/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                1128/65536       36096/2097152  ( 1.7%) 
+leaffaces             2568/65536        5136/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11554/512000      46216/2048000  ( 2.3%) 
+edges                 5996/256000      23984/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       51930/393216   (13.2%) 
+LDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+HDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+LDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+HDR leaf ambient      1128/65536       31584/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35587/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (35587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 172 texinfos to 128
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2352 faces
+4224824 square feet [608374784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0819 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             758/65536        6064/524288   ( 1.2%) 
+planes                1286/65536       25720/1310720  ( 2.0%) 
+vertexes              2769/65536       33228/786432   ( 4.2%) 
+nodes                 1108/65536       35456/2097152  ( 1.7%) 
+texinfos               128/12288        9216/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2352/65536      131712/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                1128/65536       36096/2097152  ( 1.7%) 
+leaffaces             2568/65536        5136/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11554/512000      46216/2048000  ( 2.3%) 
+edges                 5996/256000      23984/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       52659/393216   (13.4%) 
+LDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+HDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+LDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+HDR leaf ambient      1128/65536       31584/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35587/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 172 texinfos to 128
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2352 faces
+4224824 square feet [608374784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0819 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             758/65536        6064/524288   ( 1.2%) 
+planes                1286/65536       25720/1310720  ( 2.0%) 
+vertexes              2769/65536       33228/786432   ( 4.2%) 
+nodes                 1108/65536       35456/2097152  ( 1.7%) 
+texinfos               128/12288        9216/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2352/65536      131712/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                1128/65536       36096/2097152  ( 1.7%) 
+leaffaces             2568/65536        5136/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11554/512000      46216/2048000  ( 2.3%) 
+edges                 5996/256000      23984/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       52659/393216   (13.4%) 
+LDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+HDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+LDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+HDR leaf ambient      1128/65536       31584/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35587/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 172 texinfos to 128
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2352 faces
+4224824 square feet [608374784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0835 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             758/65536        6064/524288   ( 1.2%) 
+planes                1286/65536       25720/1310720  ( 2.0%) 
+vertexes              2769/65536       33228/786432   ( 4.2%) 
+nodes                 1108/65536       35456/2097152  ( 1.7%) 
+texinfos               128/12288        9216/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2352/65536      131712/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                1128/65536       36096/2097152  ( 1.7%) 
+leaffaces             2568/65536        5136/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11554/512000      46216/2048000  ( 2.3%) 
+edges                 5996/256000      23984/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       52659/393216   (13.4%) 
+LDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+HDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+LDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+HDR leaf ambient      1128/65536       31584/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35587/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 172 texinfos to 128
+Reduced 22 texdatas to 19 (546 bytes to 423)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2352 faces
+4224824 square feet [608374784.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0895 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             758/65536        6064/524288   ( 1.2%) 
+planes                1286/65536       25720/1310720  ( 2.0%) 
+vertexes              2769/65536       33228/786432   ( 4.2%) 
+nodes                 1108/65536       35456/2097152  ( 1.7%) 
+texinfos               128/12288        9216/884736   ( 1.0%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2352/65536      131712/3670016  ( 3.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                1128/65536       36096/2097152  ( 1.7%) 
+leaffaces             2568/65536        5136/131072   ( 3.9%) 
+leafbrushes            624/65536        1248/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            11554/512000      46216/2048000  ( 2.3%) 
+edges                 5996/256000      23984/1024000  ( 2.3%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            126/32768        1260/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1725/65536        3450/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4573192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       52659/393216   (13.4%) 
+LDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+HDR ambient table     1128/65536        4512/262144   ( 1.7%) 
+LDR leaf ambient       883/65536       24724/1835008  ( 1.3%) 
+HDR leaf ambient      1128/65536       31584/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211985/0        ( 0.0%) 
+physics               [variable]       35587/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5456
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+16 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (66809 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 399 texinfos to 290
+Reduced 30 texdatas to 26 (768 bytes to 595)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2707 faces
+4287248 square feet [617363840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0899 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  40/1024         1920/49152    ( 3.9%) 
+brushes                159/8192         1908/98304    ( 1.9%) 
+brushsides            1784/65536       14272/524288   ( 2.7%) 
+planes                2816/65536       56320/1310720  ( 4.3%) 
+vertexes              3325/65536       39900/786432   ( 5.1%) 
+nodes                 1304/65536       41728/2097152  ( 2.0%) 
+texinfos               290/12288       20880/884736   ( 2.4%) 
+texdata                 26/2048          832/65536    ( 1.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2707/65536      151592/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              668/65536       37408/3670016  ( 1.0%) 
+leaves                1345/65536       43040/2097152  ( 2.1%) 
+leaffaces             2911/65536        5822/131072   ( 4.4%) 
+leafbrushes            748/65536        1496/131072   ( 1.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            14519/512000      58076/2048000  ( 2.8%) 
+edges                 7630/256000      30520/1024000  ( 3.0%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            149/32768        1490/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2274/65536        4548/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5292328/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       74778/393216   (19.0%) 
+LDR ambient table     1345/65536        5380/262144   ( 2.1%) 
+HDR ambient table     1345/65536        5380/262144   ( 2.1%) 
+LDR leaf ambient      1082/65536       30296/1835008  ( 1.7%) 
+HDR leaf ambient      1345/65536       37660/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       66809/4194304  ( 1.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6423
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+21 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (66809 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 399 texinfos to 290
+Reduced 30 texdatas to 26 (768 bytes to 595)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2707 faces
+4287248 square feet [617363840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 36.000000 36.000000
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0906 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  40/1024         1920/49152    ( 3.9%) 
+brushes                159/8192         1908/98304    ( 1.9%) 
+brushsides            1784/65536       14272/524288   ( 2.7%) 
+planes                2816/65536       56320/1310720  ( 4.3%) 
+vertexes              3325/65536       39900/786432   ( 5.1%) 
+nodes                 1304/65536       41728/2097152  ( 2.0%) 
+texinfos               290/12288       20880/884736   ( 2.4%) 
+texdata                 26/2048          832/65536    ( 1.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2707/65536      151592/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              668/65536       37408/3670016  ( 1.0%) 
+leaves                1345/65536       43040/2097152  ( 2.1%) 
+leaffaces             2911/65536        5822/131072   ( 4.4%) 
+leafbrushes            748/65536        1496/131072   ( 1.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            14519/512000      58076/2048000  ( 2.8%) 
+edges                 7630/256000      30520/1024000  ( 3.0%) 
+LDR worldlights         11/8192          968/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            149/32768        1490/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2274/65536        4548/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5292328/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       74968/393216   (19.1%) 
+LDR ambient table     1345/65536        5380/262144   ( 2.1%) 
+HDR ambient table     1345/65536        5380/262144   ( 2.1%) 
+LDR leaf ambient      1097/65536       30716/1835008  ( 1.7%) 
+HDR leaf ambient      1345/65536       37660/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       66809/4194304  ( 1.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6423
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+21 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73807 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 303
+Reduced 33 texdatas to 29 (827 bytes to 654)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2766 faces
+4302880 square feet [619614720.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 36.000000 36.000000
+31 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0934 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                178/8192         2136/98304    ( 2.2%) 
+brushsides            1898/65536       15184/524288   ( 2.9%) 
+planes                2898/65536       57960/1310720  ( 4.4%) 
+vertexes              3416/65536       40992/786432   ( 5.2%) 
+nodes                 1352/65536       43264/2097152  ( 2.1%) 
+texinfos               303/12288       21816/884736   ( 2.5%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2766/65536      154896/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              722/65536       40432/3670016  ( 1.1%) 
+leaves                1394/65536       44608/2097152  ( 2.1%) 
+leaffaces             2977/65536        5954/131072   ( 4.5%) 
+leafbrushes            774/65536        1548/131072   ( 1.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            15009/512000      60036/2048000  ( 2.9%) 
+edges                 7912/256000      31648/1024000  ( 3.1%) 
+LDR worldlights         31/8192         2728/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5303076/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78112/393216   (19.9%) 
+LDR ambient table     1394/65536        5576/262144   ( 2.1%) 
+HDR ambient table     1394/65536        5576/262144   ( 2.1%) 
+LDR leaf ambient      1849/65536       51772/1835008  ( 2.8%) 
+HDR leaf ambient      1394/65536       39032/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       73807/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6579
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+25 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (71708 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 297
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2736 faces
+4298242 square feet [618946944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0940 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                172/8192         2064/98304    ( 2.1%) 
+brushsides            1862/65536       14896/524288   ( 2.8%) 
+planes                2880/65536       57600/1310720  ( 4.4%) 
+vertexes              3384/65536       40608/786432   ( 5.2%) 
+nodes                 1328/65536       42496/2097152  ( 2.0%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2736/65536      153216/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             2942/65536        5884/131072   ( 4.5%) 
+leafbrushes            768/65536        1536/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14761/512000      59044/2048000  ( 2.9%) 
+edges                 7772/256000      31088/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78246/393216   (19.9%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      1669/65536       46732/1835008  ( 2.5%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       71708/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6511
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+24 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (71708 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 297
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2736 faces
+4298242 square feet [618946944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0917 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                172/8192         2064/98304    ( 2.1%) 
+brushsides            1887/65536       15096/524288   ( 2.9%) 
+planes                2978/65536       59560/1310720  ( 4.5%) 
+vertexes              3384/65536       40608/786432   ( 5.2%) 
+nodes                 1328/65536       42496/2097152  ( 2.0%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2736/65536      153216/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             2942/65536        5884/131072   ( 4.5%) 
+leafbrushes            768/65536        1536/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14761/512000      59044/2048000  ( 2.9%) 
+edges                 7772/256000      31088/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78246/393216   (19.9%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      1669/65536       46732/1835008  ( 2.5%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       71708/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6511
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+24 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (71708 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 297
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2736 faces
+4298242 square feet [618946944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0956 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                172/8192         2064/98304    ( 2.1%) 
+brushsides            1887/65536       15096/524288   ( 2.9%) 
+planes                2978/65536       59560/1310720  ( 4.5%) 
+vertexes              3384/65536       40608/786432   ( 5.2%) 
+nodes                 1328/65536       42496/2097152  ( 2.0%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2736/65536      153216/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             2942/65536        5884/131072   ( 4.5%) 
+leafbrushes            768/65536        1536/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14761/512000      59044/2048000  ( 2.9%) 
+edges                 7772/256000      31088/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78251/393216   (19.9%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      1669/65536       46732/1835008  ( 2.5%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       71708/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6511
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+24 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (71708 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 297
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2736 faces
+4298242 square feet [618946944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0919 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                172/8192         2064/98304    ( 2.1%) 
+brushsides            1887/65536       15096/524288   ( 2.9%) 
+planes                2978/65536       59560/1310720  ( 4.5%) 
+vertexes              3384/65536       40608/786432   ( 5.2%) 
+nodes                 1328/65536       42496/2097152  ( 2.0%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2736/65536      153216/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             2942/65536        5884/131072   ( 4.5%) 
+leafbrushes            768/65536        1536/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14761/512000      59044/2048000  ( 2.9%) 
+edges                 7772/256000      31088/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78545/393216   (20.0%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      1669/65536       46732/1835008  ( 2.5%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       71708/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6511
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+24 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (71708 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 297
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2736 faces
+4298242 square feet [618946944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0874 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                172/8192         2064/98304    ( 2.1%) 
+brushsides            1887/65536       15096/524288   ( 2.9%) 
+planes                2978/65536       59560/1310720  ( 4.5%) 
+vertexes              3384/65536       40608/786432   ( 5.2%) 
+nodes                 1328/65536       42496/2097152  ( 2.0%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2736/65536      153216/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             2942/65536        5884/131072   ( 4.5%) 
+leafbrushes            768/65536        1536/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14761/512000      59044/2048000  ( 2.9%) 
+edges                 7772/256000      31088/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78622/393216   (20.0%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      1669/65536       46732/1835008  ( 2.5%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       71708/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6511
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+22 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (71708 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 297
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2736 faces
+4298242 square feet [618946944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0855 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                172/8192         2064/98304    ( 2.1%) 
+brushsides            1887/65536       15096/524288   ( 2.9%) 
+planes                2978/65536       59560/1310720  ( 4.5%) 
+vertexes              3384/65536       40608/786432   ( 5.2%) 
+nodes                 1328/65536       42496/2097152  ( 2.0%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2736/65536      153216/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             2942/65536        5884/131072   ( 4.5%) 
+leafbrushes            768/65536        1536/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14761/512000      59044/2048000  ( 2.9%) 
+edges                 7772/256000      31088/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78631/393216   (20.0%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      1669/65536       46732/1835008  ( 2.5%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       71708/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6511
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+22 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode one\episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (71708 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 415 texinfos to 297
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2736 faces
+4298242 square feet [618946944.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0976 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/1024         1968/49152    ( 4.0%) 
+brushes                172/8192         2064/98304    ( 2.1%) 
+brushsides            1887/65536       15096/524288   ( 2.9%) 
+planes                2978/65536       59560/1310720  ( 4.5%) 
+vertexes              3384/65536       40608/786432   ( 5.2%) 
+nodes                 1328/65536       42496/2097152  ( 2.0%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2736/65536      153216/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             2955/65536        5910/131072   ( 4.5%) 
+leafbrushes            768/65536        1536/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14761/512000      59044/2048000  ( 2.9%) 
+edges                 7772/256000      31088/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       78726/393216   (20.0%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      1689/65536       47292/1835008  ( 2.6%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       71708/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6511
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+28 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (73923 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 436 texinfos to 300
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2742 faces
+4298305 square feet [618956032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0891 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  45/1024         2160/49152    ( 4.4%) 
+brushes                176/8192         2112/98304    ( 2.1%) 
+brushsides            1920/65536       15360/524288   ( 2.9%) 
+planes                3066/65536       61320/1310720  ( 4.7%) 
+vertexes              3392/65536       40704/786432   ( 5.2%) 
+nodes                 1352/65536       43264/2097152  ( 2.1%) 
+texinfos               300/12288       21600/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2742/65536      153552/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              698/65536       39088/3670016  ( 1.1%) 
+leaves                1398/65536       44736/2097152  ( 2.1%) 
+leaffaces             2961/65536        5922/131072   ( 4.5%) 
+leafbrushes            772/65536        1544/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14809/512000      59236/2048000  ( 2.9%) 
+edges                 7796/256000      31184/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       79948/393216   (20.3%) 
+LDR ambient table     1398/65536        5592/262144   ( 2.1%) 
+HDR ambient table     1398/65536        5592/262144   ( 2.1%) 
+LDR leaf ambient      1716/65536       48048/1835008  ( 2.6%) 
+HDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       73923/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6523
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+22 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\materials
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files\steam\steamapps\dimas_dsf\half-life 2 episode two\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73923 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 436 texinfos to 300
+Reduced 34 texdatas to 30 (854 bytes to 681)
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+No vis information, direct lighting only.
+2742 faces
+4298305 square feet [618956032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+can't solve quadratic for light 200.000000 200.000000
+can't solve quadratic for light 80.000000 80.000000
+can't solve quadratic for light 30.000000 30.000000
+can't solve quadratic for light 90.000000 90.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+can't solve quadratic for light 86.000000 86.000000
+30 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0885 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+3 of 20 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  45/1024         2160/49152    ( 4.4%) 
+brushes                176/8192         2112/98304    ( 2.1%) 
+brushsides            1920/65536       15360/524288   ( 2.9%) 
+planes                3066/65536       61320/1310720  ( 4.7%) 
+vertexes              3392/65536       40704/786432   ( 5.2%) 
+nodes                 1352/65536       43264/2097152  ( 2.1%) 
+texinfos               300/12288       21600/884736   ( 2.4%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2742/65536      153552/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              698/65536       39088/3670016  ( 1.1%) 
+leaves                1398/65536       44736/2097152  ( 2.1%) 
+leaffaces             2961/65536        5922/131072   ( 4.5%) 
+leafbrushes            772/65536        1544/131072   ( 1.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14809/512000      59236/2048000  ( 2.9%) 
+edges                 7796/256000      31184/1024000  ( 3.0%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            152/32768        1520/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2310/65536        4620/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5299476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       79948/393216   (20.3%) 
+LDR ambient table     1398/65536        5592/262144   ( 2.1%) 
+HDR ambient table     1398/65536        5592/262144   ( 2.1%) 
+LDR leaf ambient      1716/65536       48048/1835008  ( 2.6%) 
+HDR leaf ambient      1398/65536       39144/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/484      ( 0.2%) 
+pakfile               [variable]      212318/0        ( 0.0%) 
+physics               [variable]       73923/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6523
+Writing c:\program files\steam\steamapps\dimas_dsf\sourcesdk_content\hl2\mapsrc\zombie_escape222.bsp
+23 seconds elapsed
