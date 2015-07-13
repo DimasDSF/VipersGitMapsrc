@@ -1,0 +1,885 @@
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Brush 11072: MAX_MAP_BRUSHSIDES
+Side 4
+Texture: MODELS/PROPS_COMBINE/METAL_COMBINEBRIDGE001
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+Error opening c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Brush 11072: MAX_MAP_BRUSHSIDES
+Side 4
+Texture: MODELS/PROPS_COMBINE/METAL_COMBINEBRIDGE001
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+Error opening c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Brush 11588: MAX_MAP_BRUSHSIDES
+Side 2
+Texture: TOOLS/TOOLSNODRAW
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+Error opening c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Brush 11588: MAX_MAP_BRUSHSIDES
+Side 2
+Texture: TOOLS/TOOLSNODRAW
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+Error opening c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/npc_cscdesert/nature/blendrocksand008c_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockgravel001a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_steam (-2524.00 5344.00 -278.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 15872.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 14848.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 13824.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 1400.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 2952.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 -608.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 444 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (4771083 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5533 texinfos to 2856
+Reduced 602 texdatas to 538 (27488 bytes to 25163)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+8 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Brush 11588: MAX_MAP_BRUSHSIDES
+Side 2
+Texture: TOOLS/TOOLSNODRAW
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Brush 11588: MAX_MAP_BRUSHSIDES
+Side 2
+Texture: TOOLS/TOOLSNODRAW
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+Error opening c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/npc_cscdesert/nature/blendrocksand008c_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockgravel001a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_steam (-2524.00 5344.00 -278.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 15872.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 14848.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 13824.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 1400.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 2952.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 -608.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 434 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4740263 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5331 texinfos to 2758
+Reduced 578 texdatas to 520 (26346 bytes to 24246)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/npc_cscdesert/nature/blendrocksand008c_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockgravel001a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_steam (-2524.00 5344.00 -278.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 15872.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 14848.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 13824.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 1400.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 2952.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 -608.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 434 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4740263 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5331 texinfos to 2758
+Reduced 578 texdatas to 520 (26346 bytes to 24246)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/npc_cscdesert/nature/blendrocksand008c_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockgravel001a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (2235.00 2968.00 -672.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 15872.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 14848.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 13824.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 1400.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 2952.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 -608.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 434 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4740639 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5333 texinfos to 2758
+Reduced 578 texdatas to 520 (26346 bytes to 24246)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/npc_cscdesert/nature/blendrocksand008c_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockgravel001a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (2683.00 2968.00 -672.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 15872.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 16384.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 14848.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 13824.0 944.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 1400.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 2952.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 13312.0 -608.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 434 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4737559 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5334 texinfos to 2758
+Reduced 578 texdatas to 520 (26346 bytes to 24246)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/npc_cscdesert/nature/blendrocksand008c_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockgravel001a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 434 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (4727139 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5329 texinfos to 2659
+Reduced 577 texdatas to 482 (26263 bytes to 21937)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+4319 portalclusters
+11988 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 523184 visible clusters (6.38%)
+Total clusters visible: 8202126
+Average clusters visible: 1899
+Building PAS...
+Average clusters audible: 3140
+visdatasize:3419817  compressed from 4699072
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Error! Variable "$surfaceprop" is multiply defined in material "nature/blendrockgravel001a"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/npc_cscdesert/nature/blendrocksand008c_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockgravel001a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/npc_cscdesert/nature/blendgrassgravel002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 434 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (4727139 bytes)
+Error! prop_static using model "models/props_c17/chair02a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair02a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5329 texinfos to 2659
+Reduced 577 texdatas to 482 (26263 bytes to 21937)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.prt
+4319 portalclusters
+11988 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 523184 visible clusters (6.38%)
+Total clusters visible: 8202126
+Average clusters visible: 1899
+Building PAS...
+Average clusters audible: 3140
+visdatasize:3419817  compressed from 4699072
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\npc_cscdesert.bsp
+4 seconds elapsed

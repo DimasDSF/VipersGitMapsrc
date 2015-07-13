@@ -1,0 +1,2364 @@
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/gm_construct/construct_credits.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/construct_credits.vtf"
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file materials/GM_CONSTRUCT/CONSTRUCT_CREDITS.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_1.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_1.vtf"
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/gm_construct/overlay_3.vmt
+ièë‰-x|]∫'ÖVO‚w∑ƒDHS≠Ià7Ñ‡≥\µ§ª¯*π¢‰, 
+*** Tried to load a non-VTF file as a VTF file!
+Error reading material "materials/gm_construct/overlay_3.vtf"
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3090254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1892 texinfos to 980
+Reduced 242 texdatas to 194 (16195 bytes to 13596)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 624 portalclusters
+1438 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3813 visible clusters (1.36%)
+Total clusters visible: 280757
+Average clusters visible: 449
+Building PAS...
+Average clusters audible: 592
+visdatasize:98784  compressed from 99840
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3087638 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1874 texinfos to 970
+Reduced 238 texdatas to 192 (16043 bytes to 13594)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 624 portalclusters
+1438 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3813 visible clusters (1.36%)
+Total clusters visible: 280757
+Average clusters visible: 449
+Building PAS...
+Average clusters audible: 592
+visdatasize:98784  compressed from 99840
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3087638 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1874 texinfos to 970
+Reduced 238 texdatas to 192 (16043 bytes to 13594)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 624 portalclusters
+1438 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3813 visible clusters (1.36%)
+Total clusters visible: 280757
+Average clusters visible: 449
+Building PAS...
+Average clusters audible: 592
+visdatasize:98784  compressed from 99840
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10338 faces
+2 degenerate faces
+21883566 square feet [3151233536.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10336 patches before subdivision
+238936 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47844288, max 2225
+transfer lists: 365.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2226327, 1955054, 1309025)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(527799, 431340, 269978)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(132952, 100462, 55675)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(37937, 27630, 14796)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(10775, 7376, 3569)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3320, 2202, 1023)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1028, 643, 270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(337, 203, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(112, 63, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(39, 21, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0717 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               2076/8192        24912/98304    (25.3%) 
+brushsides           14150/65536      113200/524288   (21.6%) 
+planes                4192/65536       83840/1310720  ( 6.4%) 
+vertexes             15351/65536      184212/786432   (23.4%) 
+nodes                 5027/65536      160864/2097152  ( 7.7%) 
+texinfos               970/12288       69840/884736   ( 7.9%) 
+texdata                192/2048         6144/65536    ( 9.4%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10338/65536      578928/3670016  (15.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5125/65536      287000/3670016  ( 7.8%) 
+leaves                5033/65536      161056/2097152  ( 7.7%) 
+leaffaces            11342/65536       22684/131072   (17.3%) 
+leafbrushes           6167/65536       12334/131072   ( 9.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            69906/512000     279624/2048000  (13.7%) 
+edges                41963/256000     167852/1024000  (16.4%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            820/32768        8200/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18615/65536       37230/131072   (28.4%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14375184/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       98784/16777216 ( 0.6%) 
+entdata               [variable]      173078/393216   (44.0%) 
+LDR ambient table     5033/65536       20132/262144   ( 7.7%) 
+HDR ambient table     5033/65536       20132/262144   ( 7.7%) 
+LDR leaf ambient     23601/65536      660828/1835008  (36.0%) 
+HDR leaf ambient      5033/65536      140924/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1262     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3087638/4194304  (73.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28767
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 50 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10338 faces
+2 degenerate faces
+21883566 square feet [3151233536.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10336 patches before subdivision
+238936 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47844288, max 2225
+transfer lists: 365.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1877816, 1699417, 1181094)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(448731, 378808, 246580)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(113397, 88664, 51329)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(32631, 24588, 13716)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(9329, 6616, 3341)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2904, 1992, 962)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(907, 587, 255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(301, 187, 76)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 59, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(35, 19, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(12, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0999 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               2076/8192        24912/98304    (25.3%) 
+brushsides           14150/65536      113200/524288   (21.6%) 
+planes                4192/65536       83840/1310720  ( 6.4%) 
+vertexes             15351/65536      184212/786432   (23.4%) 
+nodes                 5027/65536      160864/2097152  ( 7.7%) 
+texinfos               970/12288       69840/884736   ( 7.9%) 
+texdata                192/2048         6144/65536    ( 9.4%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10338/65536      578928/3670016  (15.8%) 
+hdr faces            10338/65536      578928/3670016  (15.8%) 
+origfaces             5125/65536      287000/3670016  ( 7.8%) 
+leaves                5033/65536      161056/2097152  ( 7.7%) 
+leaffaces            11342/65536       22684/131072   (17.3%) 
+leafbrushes           6167/65536       12334/131072   ( 9.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            69906/512000     279624/2048000  (13.7%) 
+edges                41963/256000     167852/1024000  (16.4%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights        108/8192         9504/720896   ( 1.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            820/32768        8200/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18615/65536       37230/131072   (28.4%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14375184/0        ( 0.0%) 
+HDR lightdata         [variable]    14375184/0        ( 0.0%) 
+visdata               [variable]       98784/16777216 ( 0.6%) 
+entdata               [variable]      173078/393216   (44.0%) 
+LDR ambient table     5033/65536       20132/262144   ( 7.7%) 
+HDR ambient table     5033/65536       20132/262144   ( 7.7%) 
+LDR leaf ambient     23601/65536      660828/1835008  (36.0%) 
+HDR leaf ambient     23965/65536      671020/1835008  (36.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1262     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3087638/4194304  (73.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28767
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 50 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_multiple (1985.00 -969.50 -77.50) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 4663.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 12799.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 15367.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 15303.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3088752 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1886 texinfos to 1022
+Reduced 238 texdatas to 194 (16043 bytes to 13694)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+12601 faces
+2 degenerate faces
+36517844 square feet [5258569216.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0637 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               2078/8192        24936/98304    (25.4%) 
+brushsides           14162/65536      113296/524288   (21.6%) 
+planes                4236/65536       84720/1310720  ( 6.5%) 
+vertexes             19075/65536      228900/786432   (29.1%) 
+nodes                 8654/65536      276928/2097152  (13.2%) 
+texinfos              1022/12288       73584/884736   ( 8.3%) 
+texdata                194/2048         6208/65536    ( 9.5%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                12601/65536      705656/3670016  (19.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5326/65536      298256/3670016  ( 8.1%) 
+leaves                8662/65536      277184/2097152  (13.2%) 
+leaffaces            14014/65536       28028/131072   (21.4%) 
+leafbrushes           5714/65536       11428/131072   ( 8.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            79944/512000     319776/2048000  (15.6%) 
+edges                47664/256000     190656/1024000  (18.6%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         19257/65536       38514/131072   (29.4%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14782336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      177186/393216   (45.1%) 
+LDR ambient table     8662/65536       34648/262144   (13.2%) 
+HDR ambient table     8662/65536       34648/262144   (13.2%) 
+LDR leaf ambient     53384/65536     1494752/1835008  (81.5%) VERY FULL!
+HDR leaf ambient      8662/65536      242536/1835008  (13.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1296     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3088752/4194304  (73.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 33476
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+12601 faces
+2 degenerate faces
+36517844 square feet [5258569216.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0645 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               2078/8192        24936/98304    (25.4%) 
+brushsides           14162/65536      113296/524288   (21.6%) 
+planes                4236/65536       84720/1310720  ( 6.5%) 
+vertexes             19075/65536      228900/786432   (29.1%) 
+nodes                 8654/65536      276928/2097152  (13.2%) 
+texinfos              1022/12288       73584/884736   ( 8.3%) 
+texdata                194/2048         6208/65536    ( 9.5%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                12601/65536      705656/3670016  (19.2%) 
+hdr faces            12601/65536      705656/3670016  (19.2%) 
+origfaces             5326/65536      298256/3670016  ( 8.1%) 
+leaves                8662/65536      277184/2097152  (13.2%) 
+leaffaces            14014/65536       28028/131072   (21.4%) 
+leafbrushes           5714/65536       11428/131072   ( 8.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            79944/512000     319776/2048000  (15.6%) 
+edges                47664/256000     190656/1024000  (18.6%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights        108/8192         9504/720896   ( 1.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         19257/65536       38514/131072   (29.4%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14782336/0        ( 0.0%) 
+HDR lightdata         [variable]    14782336/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      177186/393216   (45.1%) 
+LDR ambient table     8662/65536       34648/262144   (13.2%) 
+HDR ambient table     8662/65536       34648/262144   (13.2%) 
+LDR leaf ambient     53384/65536     1494752/1835008  (81.5%) VERY FULL!
+HDR leaf ambient     53727/65536     1504356/1835008  (82.0%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1296     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3088752/4194304  (73.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 33476
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 32 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_multiple (1985.00 -969.50 -77.50) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 4663.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 12799.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 15367.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 15303.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (3092984 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1886 texinfos to 1022
+Reduced 238 texdatas to 194 (16043 bytes to 13694)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+12625 faces
+2 degenerate faces
+36516644 square feet [5258396672.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0701 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               2089/8192        25068/98304    (25.5%) 
+brushsides           14230/65536      113840/524288   (21.7%) 
+planes                4310/65536       86200/1310720  ( 6.6%) 
+vertexes             19412/65536      232944/786432   (29.6%) 
+nodes                 8867/65536      283744/2097152  (13.5%) 
+texinfos              1022/12288       73584/884736   ( 8.3%) 
+texdata                194/2048         6208/65536    ( 9.5%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                12625/65536      707000/3670016  (19.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5325/65536      298200/3670016  ( 8.1%) 
+leaves                8875/65536      284000/2097152  (13.5%) 
+leaffaces            14020/65536       28040/131072   (21.4%) 
+leafbrushes           5876/65536       11752/131072   ( 9.0%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            80082/512000     320328/2048000  (15.6%) 
+edges                47748/256000     190992/1024000  (18.7%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         19236/65536       38472/131072   (29.4%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14765304/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      177186/393216   (45.1%) 
+LDR ambient table     8875/65536       35500/262144   (13.5%) 
+HDR ambient table     8875/65536       35500/262144   (13.5%) 
+LDR leaf ambient     54000/65536     1512000/1835008  (82.4%) VERY FULL!
+HDR leaf ambient      8875/65536      248500/1835008  (13.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1296     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3092984/4194304  (73.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 33570
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 37 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+12625 faces
+2 degenerate faces
+36516644 square feet [5258396672.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0665 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               2089/8192        25068/98304    (25.5%) 
+brushsides           14230/65536      113840/524288   (21.7%) 
+planes                4310/65536       86200/1310720  ( 6.6%) 
+vertexes             19412/65536      232944/786432   (29.6%) 
+nodes                 8867/65536      283744/2097152  (13.5%) 
+texinfos              1022/12288       73584/884736   ( 8.3%) 
+texdata                194/2048         6208/65536    ( 9.5%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                12625/65536      707000/3670016  (19.3%) 
+hdr faces            12625/65536      707000/3670016  (19.3%) 
+origfaces             5325/65536      298200/3670016  ( 8.1%) 
+leaves                8875/65536      284000/2097152  (13.5%) 
+leaffaces            14020/65536       28040/131072   (21.4%) 
+leafbrushes           5876/65536       11752/131072   ( 9.0%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            80082/512000     320328/2048000  (15.6%) 
+edges                47748/256000     190992/1024000  (18.7%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights        108/8192         9504/720896   ( 1.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         19236/65536       38472/131072   (29.4%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14765304/0        ( 0.0%) 
+HDR lightdata         [variable]    14765304/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      177186/393216   (45.1%) 
+LDR ambient table     8875/65536       35500/262144   (13.5%) 
+HDR ambient table     8875/65536       35500/262144   (13.5%) 
+LDR leaf ambient     54000/65536     1512000/1835008  (82.4%) VERY FULL!
+HDR leaf ambient     54336/65536     1521408/1835008  (82.9%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1296     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3092984/4194304  (73.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 33570
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 35 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_multiple (1985.00 -969.50 -77.50) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 4663.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 12799.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 15367.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 15303.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (3092984 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1886 texinfos to 1022
+Reduced 238 texdatas to 194 (16043 bytes to 13694)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_multiple (1985.00 -969.50 -77.50) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 4663.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 12799.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15616.0 15360.0 15367.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16128.0 15360.0 15303.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 16384.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 15872.0 7167.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 15360.0 4599.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (3093016 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1886 texinfos to 1022
+Reduced 238 texdatas to 194 (16043 bytes to 13694)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3093424 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1886 texinfos to 982
+Reduced 238 texdatas to 192 (16043 bytes to 13594)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 682 portalclusters
+1567 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4413 visible clusters (1.53%)
+Total clusters visible: 288309
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 557
+visdatasize:112540  compressed from 120032
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (3093424 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1886 texinfos to 982
+Reduced 238 texdatas to 192 (16043 bytes to 13594)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 682 portalclusters
+1567 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4413 visible clusters (1.53%)
+Total clusters visible: 288309
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 557
+visdatasize:112540  compressed from 120032
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10430 faces
+2 degenerate faces
+21974042 square feet [3164261888.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10428 patches before subdivision
+239358 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47840170, max 2236
+transfer lists: 365.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2225530, 1954008, 1308009)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(527332, 430880, 269638)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(132814, 100348, 55604)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(37905, 27604, 14781)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(10767, 7371, 3566)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3318, 2201, 1023)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1028, 643, 270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(337, 203, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(112, 63, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(39, 21, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0727 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               2090/8192        25080/98304    (25.5%) 
+brushsides           14236/65536      113888/524288   (21.7%) 
+planes                4314/65536       86280/1310720  ( 6.6%) 
+vertexes             15670/65536      188040/786432   (23.9%) 
+nodes                 5200/65536      166400/2097152  ( 7.9%) 
+texinfos               982/12288       70704/884736   ( 8.0%) 
+texdata                192/2048         6144/65536    ( 9.4%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10430/65536      584080/3670016  (15.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5156/65536      288736/3670016  ( 7.9%) 
+leaves                5208/65536      166656/2097152  ( 7.9%) 
+leaffaces            11428/65536       22856/131072   (17.4%) 
+leafbrushes           6328/65536       12656/131072   ( 9.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            70468/512000     281872/2048000  (13.8%) 
+edges                42318/256000     169272/1024000  (16.5%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            840/32768        8400/327680   ( 2.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18999/65536       37998/131072   (29.0%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14408372/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      112540/16777216 ( 0.7%) 
+entdata               [variable]      177186/393216   (45.1%) 
+LDR ambient table     5208/65536       20832/262144   ( 7.9%) 
+HDR ambient table     5208/65536       20832/262144   ( 7.9%) 
+LDR leaf ambient     24200/65536      677600/1835008  (36.9%) 
+HDR leaf ambient      5208/65536      145824/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1262     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3093424/4194304  (73.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 29021
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 51 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10430 faces
+2 degenerate faces
+21974042 square feet [3164261888.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10428 patches before subdivision
+239358 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47840170, max 2236
+transfer lists: 365.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1877027, 1698361, 1180049)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(448273, 378341, 246235)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(113261, 88549, 51259)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(32594, 24559, 13701)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(9319, 6609, 3338)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2901, 1991, 961)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(906, 587, 255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(301, 187, 76)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 59, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(35, 19, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(12, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0933 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes               2090/8192        25080/98304    (25.5%) 
+brushsides           14236/65536      113888/524288   (21.7%) 
+planes                4314/65536       86280/1310720  ( 6.6%) 
+vertexes             15670/65536      188040/786432   (23.9%) 
+nodes                 5200/65536      166400/2097152  ( 7.9%) 
+texinfos               982/12288       70704/884736   ( 8.0%) 
+texdata                192/2048         6144/65536    ( 9.4%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10430/65536      584080/3670016  (15.9%) 
+hdr faces            10430/65536      584080/3670016  (15.9%) 
+origfaces             5156/65536      288736/3670016  ( 7.9%) 
+leaves                5208/65536      166656/2097152  ( 7.9%) 
+leaffaces            11428/65536       22856/131072   (17.4%) 
+leafbrushes           6328/65536       12656/131072   ( 9.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            70468/512000     281872/2048000  (13.8%) 
+edges                42318/256000     169272/1024000  (16.5%) 
+LDR worldlights        108/8192         9504/720896   ( 1.3%) 
+HDR worldlights        108/8192         9504/720896   ( 1.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            840/32768        8400/327680   ( 2.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18999/65536       37998/131072   (29.0%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]    14408372/0        ( 0.0%) 
+HDR lightdata         [variable]    14408372/0        ( 0.0%) 
+visdata               [variable]      112540/16777216 ( 0.7%) 
+entdata               [variable]      177186/393216   (45.1%) 
+LDR ambient table     5208/65536       20832/262144   ( 7.9%) 
+HDR ambient table     5208/65536       20832/262144   ( 7.9%) 
+LDR leaf ambient     24200/65536      677600/1835008  (36.9%) 
+HDR leaf ambient     24576/65536      688128/1835008  (37.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1262     ( 0.1%) 
+pakfile               [variable]     3140262/0        ( 0.0%) 
+physics               [variable]     3093424/4194304  (73.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 29021
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 52 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3093980 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1892 texinfos to 985
+Reduced 238 texdatas to 192 (16043 bytes to 13594)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 682 portalclusters
+1567 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4413 visible clusters (1.53%)
+Total clusters visible: 288309
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 557
+visdatasize:112540  compressed from 120032
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3093841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1876 texinfos to 965
+Reduced 233 texdatas to 185 (15826 bytes to 13275)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 676 portalclusters
+1557 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4204 visible clusters (1.47%)
+Total clusters visible: 285428
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 552
+visdatasize:110398  compressed from 118976
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3093841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1876 texinfos to 965
+Reduced 233 texdatas to 185 (15826 bytes to 13275)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 676 portalclusters
+1557 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4204 visible clusters (1.47%)
+Total clusters visible: 285428
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 552
+visdatasize:110398  compressed from 118976
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10397 faces
+2 degenerate faces
+22049854 square feet [3175179008.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10395 patches before subdivision
+238657 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+107 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47762911, max 2237
+transfer lists: 364.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2225059, 1953638, 1307782)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(526941, 430597, 269504)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(132692, 100271, 55577)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(37857, 27577, 14773)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(10751, 7363, 3565)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3312, 2199, 1022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1026, 642, 269)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(337, 203, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(111, 63, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(38, 21, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0702 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes               2094/8192        25128/98304    (25.6%) 
+brushsides           14260/65536      114080/524288   (21.8%) 
+planes                4370/65536       87400/1310720  ( 6.7%) 
+vertexes             15626/65536      187512/786432   (23.8%) 
+nodes                 5189/65536      166048/2097152  ( 7.9%) 
+texinfos               965/12288       69480/884736   ( 7.9%) 
+texdata                185/2048         5920/65536    ( 9.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10397/65536      582232/3670016  (15.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5135/65536      287560/3670016  ( 7.8%) 
+leaves                5198/65536      166336/2097152  ( 7.9%) 
+leaffaces            11388/65536       22776/131072   (17.4%) 
+leafbrushes           6333/65536       12666/131072   ( 9.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            70232/512000     280928/2048000  (13.7%) 
+edges                42174/256000     168696/1024000  (16.5%) 
+LDR worldlights        107/8192         9416/720896   ( 1.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            840/32768        8400/327680   ( 2.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18969/65536       37938/131072   (28.9%) 
+cubemapsamples          27/1024          432/16384    ( 2.6%) 
+overlays                 1/512           352/180224   ( 0.2%) 
+LDR lightdata         [variable]    14376336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      110398/16777216 ( 0.7%) 
+entdata               [variable]      185967/393216   (47.3%) 
+LDR ambient table     5198/65536       20792/262144   ( 7.9%) 
+HDR ambient table     5198/65536       20792/262144   ( 7.9%) 
+LDR leaf ambient     24307/65536      680596/1835008  (37.1%) 
+HDR leaf ambient      5198/65536      145544/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1262     ( 0.1%) 
+pakfile               [variable]     3033776/0        ( 0.0%) 
+physics               [variable]     3093841/4194304  (73.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28935
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 49 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10397 faces
+2 degenerate faces
+22049854 square feet [3175179008.00 square inches]
+110 Displacements
+6651780 Square Feet [957856384.00 Square Inches]
+10395 patches before subdivision
+238657 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+107 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 47762911, max 2237
+transfer lists: 364.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1876486, 1697948, 1179820)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(447899, 378073, 246110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(113145, 88476, 51234)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(32549, 24534, 13693)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(9303, 6601, 3337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2895, 1988, 961)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(904, 586, 255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(300, 187, 76)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(100, 59, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(35, 19, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(12, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0965 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes               2094/8192        25128/98304    (25.6%) 
+brushsides           14260/65536      114080/524288   (21.8%) 
+planes                4370/65536       87400/1310720  ( 6.7%) 
+vertexes             15626/65536      187512/786432   (23.8%) 
+nodes                 5189/65536      166048/2097152  ( 7.9%) 
+texinfos               965/12288       69480/884736   ( 7.9%) 
+texdata                185/2048         5920/65536    ( 9.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts           12638/0          252760/0        ( 0.0%) 
+disp_tris            20992/0           41984/0        ( 0.0%) 
+disp_lmsamples      732427/0          732427/0        ( 0.0%) 
+faces                10397/65536      582232/3670016  (15.9%) 
+hdr faces            10397/65536      582232/3670016  (15.9%) 
+origfaces             5135/65536      287560/3670016  ( 7.8%) 
+leaves                5198/65536      166336/2097152  ( 7.9%) 
+leaffaces            11388/65536       22776/131072   (17.4%) 
+leafbrushes           6333/65536       12666/131072   ( 9.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            70232/512000     280928/2048000  (13.7%) 
+edges                42174/256000     168696/1024000  (16.5%) 
+LDR worldlights        107/8192         9416/720896   ( 1.3%) 
+HDR worldlights        107/8192         9416/720896   ( 1.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            840/32768        8400/327680   ( 2.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18969/65536       37938/131072   (28.9%) 
+cubemapsamples          27/1024          432/16384    ( 2.6%) 
+overlays                 1/512           352/180224   ( 0.2%) 
+LDR lightdata         [variable]    14376336/0        ( 0.0%) 
+HDR lightdata         [variable]    14376336/0        ( 0.0%) 
+visdata               [variable]      110398/16777216 ( 0.7%) 
+entdata               [variable]      185967/393216   (47.3%) 
+LDR ambient table     5198/65536       20792/262144   ( 7.9%) 
+HDR ambient table     5198/65536       20792/262144   ( 7.9%) 
+LDR leaf ambient     24307/65536      680596/1835008  (37.1%) 
+HDR leaf ambient     24683/65536      691124/1835008  (37.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/95820    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/1262     ( 0.1%) 
+pakfile               [variable]     3033776/0        ( 0.0%) 
+physics               [variable]     3093841/4194304  (73.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 28935
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+1 minute, 58 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3093841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1876 texinfos to 965
+Reduced 233 texdatas to 185 (15826 bytes to 13275)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 676 portalclusters
+1557 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4204 visible clusters (1.47%)
+Total clusters visible: 285428
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 552
+visdatasize:110398  compressed from 118976
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3093841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1876 texinfos to 965
+Reduced 233 texdatas to 185 (15826 bytes to 13275)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 676 portalclusters
+1557 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4204 visible clusters (1.47%)
+Total clusters visible: 285428
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 552
+visdatasize:110398  compressed from 118976
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (3093841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1876 texinfos to 965
+Reduced 233 texdatas to 185 (15826 bytes to 13275)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 676 portalclusters
+1557 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4204 visible clusters (1.47%)
+Total clusters visible: 285428
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 552
+visdatasize:110398  compressed from 118976
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Error! Variable "$surfaceprop" is multiply defined in material "gm_construct/grass-sand"!
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+Patching WVT material: maps/gm_construct_chopper_hunt/gm_construct/grass-sand_wvt_patch
+Patching WVT material: maps/gm_construct_chopper_hunt/concrete/blendconcreterock001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1009.5 3135.6 11313.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 838371: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 362 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_04*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3093841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1876 texinfos to 965
+Reduced 233 texdatas to 185 (15826 bytes to 13275)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.prt
+ 676 portalclusters
+1557 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4204 visible clusters (1.47%)
+Total clusters visible: 285428
+Average clusters visible: 422
+Building PAS...
+Average clusters audible: 552
+visdatasize:110398  compressed from 118976
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\ep2\mapsrc\gm_construct_chopper_hunt.bsp
+0 seconds elapsed

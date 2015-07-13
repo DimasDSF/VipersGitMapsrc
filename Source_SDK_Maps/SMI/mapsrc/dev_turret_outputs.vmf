@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "5"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "5"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -876,11 +876,12 @@ entity
 	"id" "78"
 	"classname" "npc_turret_floor"
 	"angles" "0 0 0"
+	"spawnflags" "256"
 	"targetname" "turret_1"
 	"TurnSpeed" "200.0"
 	connections
 	{
-		"OnShotFired" "ammo_counter,Add,1,0,-1"
+		"OnShotFired" "ammo_counter,Subtract,1,0,-1"
 	}
 	"origin" "-256 192 33"
 	editor
@@ -910,7 +911,7 @@ entity
 	"material" "2"
 	"nodamageforces" "0"
 	"notsolid" "0"
-	"origin" "-435.5 243.5 92.5"
+	"origin" "-443 234.5 94.5"
 	"PerformanceMode" "0"
 	"preferredcarryangles" "0 0 0"
 	"pressuredelay" "0"
@@ -928,7 +929,7 @@ entity
 		side
 		{
 			"id" "114"
-			"plane" "(-448 256 97) (-423 256 97) (-423 231 97)"
+			"plane" "(-448 231 97) (-448 238 97) (-438 238 97)"
 			"material" "METAL/CITADEL_METALWALL078A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -939,7 +940,7 @@ entity
 		side
 		{
 			"id" "113"
-			"plane" "(-448 231 88) (-423 231 88) (-423 256 88)"
+			"plane" "(-448 238 92) (-448 231 92) (-438 231 92)"
 			"material" "METAL/CITADEL_METALWALL078A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -950,7 +951,7 @@ entity
 		side
 		{
 			"id" "112"
-			"plane" "(-448 256 97) (-448 231 97) (-448 231 88)"
+			"plane" "(-448 231 92) (-448 238 92) (-448 238 97)"
 			"material" "METAL/CITADEL_METALWALL078A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -961,7 +962,7 @@ entity
 		side
 		{
 			"id" "111"
-			"plane" "(-423 256 88) (-423 231 88) (-423 231 97)"
+			"plane" "(-438 238 92) (-438 231 92) (-438 231 97)"
 			"material" "METAL/CITADEL_METALWALL078A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -972,7 +973,7 @@ entity
 		side
 		{
 			"id" "110"
-			"plane" "(-423 256 97) (-448 256 97) (-448 256 88)"
+			"plane" "(-448 238 92) (-438 238 92) (-438 238 97)"
 			"material" "METAL/CITADEL_METALWALL078A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -983,7 +984,7 @@ entity
 		side
 		{
 			"id" "109"
-			"plane" "(-423 231 88) (-448 231 88) (-448 231 97)"
+			"plane" "(-438 231 92) (-448 231 92) (-448 231 97)"
 			"material" "METAL/CITADEL_METALWALL078A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -1037,8 +1038,8 @@ entity
 	connections
 	{
 		"OnTrigger" "turret_1,RestoreAmmo,,0,-1"
-		"OnTrigger" "ammo_counter,SetValueNoFire,0,0,-1"
 		"OnTrigger" "!activator,Break,,0,-1"
+		"OnTrigger" "ammo_counter,Add,120,0,-1"
 	}
 	solid
 	{
@@ -1144,11 +1145,11 @@ entity
 {
 	"id" "138"
 	"classname" "math_counter"
-	"max" "120"
+	"max" "9999"
 	"targetname" "ammo_counter"
 	connections
 	{
-		"OnHitMax" "turret_1,DepleteAmmo,,0,-1"
+		"OnHitMin" "turret_1,DepleteAmmo,,0,-1"
 	}
 	"origin" "-287 164 89"
 	editor

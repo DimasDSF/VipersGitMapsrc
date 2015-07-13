@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "106"
+	"mapversion" "107"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "106"
+	"mapversion" "107"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -19636,6 +19636,10 @@ entity
 		"OnPass" "helicopter,startbombexplodeoncontact,,0,-1"
 		"OnPass" "helicopter,StartBreakableMovement,,0,-1"
 		"OnPass" "helicopter,StopBreakableMovement,,119,-1"
+		"OnPass" "helicopter,MissileOn,,0,-1"
+		"OnPass" "helicopter,SetRocketDownward,0,0,-1"
+		"OnPass" "helicopter,SetRocketDownward,1,55,-1"
+		"OnPass" "helicopter,MissileOff,,120,-1"
 	}
 	"origin" "284 1221 939"
 	editor
@@ -28657,6 +28661,8 @@ entity
 	"physdamagescale" "1.0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
+	"RocketDelay" "1.5"
+	"RocketSalvoSize" "5"
 	"spawnflags" "1313284"
 	"target" "helicopter_track_1_1"
 	"targetname" "helicopter"
