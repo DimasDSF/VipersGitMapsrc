@@ -194,3 +194,493 @@ Average clusters audible: 26
 visdatasize:421  compressed from 416
 writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
 0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 32
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 32
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 32
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 32
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14752 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 33
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14752 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 33
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14752 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 33
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14752 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 33
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14752 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 33
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14752 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 33
+Reduced 10 texdatas to 10 (218 bytes to 218)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.prt
+  34 portalclusters
+  94 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1046
+Average clusters visible: 30
+Building PAS...
+Average clusters audible: 34
+visdatasize:621  compressed from 544
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_counter_pay.bsp
+0 seconds elapsed
