@@ -1,0 +1,1810 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5457 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+60 faces
+25978 square feet [3740860.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+60 patches before subdivision
+1324 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 69905, max 141
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 14/8192          168/98304    ( 0.2%) 
+brushsides              84/65536         672/524288   ( 0.1%) 
+planes                  96/65536        1920/1310720  ( 0.1%) 
+vertexes                95/65536        1140/786432   ( 0.1%) 
+nodes                   55/65536        1760/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   60/65536        3360/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               32/65536        1792/3670016  ( 0.0%) 
+leaves                  59/65536        1888/2097152  ( 0.1%) 
+leaffaces               80/65536         160/131072   ( 0.1%) 
+leafbrushes             34/65536          68/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              384/512000       1536/2048000  ( 0.1%) 
+edges                  213/256000        852/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       33412/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         196/16777216 ( 0.0%) 
+entdata               [variable]        3765/393216   ( 1.0%) 
+LDR ambient table       59/65536         236/262144   ( 0.1%) 
+HDR ambient table       59/65536         236/262144   ( 0.1%) 
+LDR leaf ambient        28/65536         784/1835008  ( 0.0%) 
+HDR leaf ambient        59/65536        1652/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105699/0        ( 0.0%) 
+physics               [variable]        5457/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 136
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+60 faces
+25978 square feet [3740860.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+60 patches before subdivision
+1324 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 69905, max 141
+transfer lists:   0.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 14/8192          168/98304    ( 0.2%) 
+brushsides              84/65536         672/524288   ( 0.1%) 
+planes                  96/65536        1920/1310720  ( 0.1%) 
+vertexes                95/65536        1140/786432   ( 0.1%) 
+nodes                   55/65536        1760/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   60/65536        3360/3670016  ( 0.1%) 
+hdr faces               60/65536        3360/3670016  ( 0.1%) 
+origfaces               32/65536        1792/3670016  ( 0.0%) 
+leaves                  59/65536        1888/2097152  ( 0.1%) 
+leaffaces               80/65536         160/131072   ( 0.1%) 
+leafbrushes             34/65536          68/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              384/512000       1536/2048000  ( 0.1%) 
+edges                  213/256000        852/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       33412/0        ( 0.0%) 
+HDR lightdata         [variable]       33412/0        ( 0.0%) 
+visdata               [variable]         196/16777216 ( 0.0%) 
+entdata               [variable]        3765/393216   ( 1.0%) 
+LDR ambient table       59/65536         236/262144   ( 0.1%) 
+HDR ambient table       59/65536         236/262144   ( 0.1%) 
+LDR leaf ambient        28/65536         784/1835008  ( 0.0%) 
+HDR leaf ambient        28/65536         784/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105699/0        ( 0.0%) 
+physics               [variable]        5457/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 136
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5457 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5457 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5457 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5457 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5455 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5455 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4349 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 11
+Reduced 4 texdatas to 4 (87 bytes to 87)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4349 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 11
+Reduced 4 texdatas to 4 (87 bytes to 87)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4349 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 11
+Reduced 4 texdatas to 4 (87 bytes to 87)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4349 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 11
+Reduced 4 texdatas to 4 (87 bytes to 87)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4349 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 11
+Reduced 4 texdatas to 4 (87 bytes to 87)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5451 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5451 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5451 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5451 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 27 texinfos to 17
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  16 portalclusters
+  32 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 256
+Average clusters visible: 16
+Building PAS...
+Average clusters audible: 16
+visdatasize:196  compressed from 256
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6235 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  28 portalclusters
+  76 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 756
+Average clusters visible: 27
+Building PAS...
+Average clusters audible: 28
+visdatasize:452  compressed from 448
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6227 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  28 portalclusters
+  76 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 756
+Average clusters visible: 27
+Building PAS...
+Average clusters audible: 28
+visdatasize:452  compressed from 448
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6227 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  28 portalclusters
+  76 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 756
+Average clusters visible: 27
+Building PAS...
+Average clusters audible: 28
+visdatasize:452  compressed from 448
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8857 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1690
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 42
+visdatasize:845  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8857 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1690
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 42
+visdatasize:845  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8857 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1690
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 42
+visdatasize:845  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8857 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1690
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 42
+visdatasize:845  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8857 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1690
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 42
+visdatasize:845  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8857 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1690
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 42
+visdatasize:845  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8857 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 135 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1698
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 42
+visdatasize:844  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8105 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 34
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  36 portalclusters
+ 114 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1216
+Average clusters visible: 33
+Building PAS...
+Average clusters audible: 36
+visdatasize:652  compressed from 576
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8889 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 39
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 140 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1656
+Average clusters visible: 39
+Building PAS...
+Average clusters audible: 42
+visdatasize:846  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8889 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 39
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 140 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1656
+Average clusters visible: 39
+Building PAS...
+Average clusters audible: 42
+visdatasize:846  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8889 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 39
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  42 portalclusters
+ 140 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1660
+Average clusters visible: 39
+Building PAS...
+Average clusters audible: 42
+visdatasize:846  compressed from 672
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  38 portalclusters
+ 110 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1398
+Average clusters visible: 36
+Building PAS...
+Average clusters audible: 38
+visdatasize:688  compressed from 608
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  38 portalclusters
+ 118 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1424
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 38
+visdatasize:688  compressed from 608
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  39 portalclusters
+ 122 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1497
+Average clusters visible: 38
+Building PAS...
+Average clusters audible: 39
+visdatasize:706  compressed from 624
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  39 portalclusters
+ 122 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1497
+Average clusters visible: 38
+Building PAS...
+Average clusters audible: 39
+visdatasize:706  compressed from 624
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\mod_episodic\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 37
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.prt
+  39 portalclusters
+ 122 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1497
+Average clusters visible: 38
+Building PAS...
+Average clusters audible: 39
+visdatasize:706  compressed from 624
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\smi\mapsrc\dev_teleport_node.bsp
+0 seconds elapsed

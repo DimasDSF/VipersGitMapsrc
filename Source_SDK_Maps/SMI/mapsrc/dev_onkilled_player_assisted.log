@@ -1,0 +1,96 @@
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11413 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 23 texinfos to 15
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.prt
+  50 portalclusters
+ 114 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 36 visible clusters (1.57%)
+Total clusters visible: 2288
+Average clusters visible: 45
+Building PAS...
+Average clusters audible: 50
+visdatasize:1108  compressed from 800
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Users\Viper\Documents\GitHub\SMI\sp\game\mod_episodic\materials
+Loading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.vmf
+Could not locate 'GameData' key in c:\users\viper\documents\github\smi\sp\game\mod_episodic\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11413 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 23 texinfos to 15
+Reduced 6 texdatas to 6 (132 bytes to 132)
+Writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.bsp
+reading c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.prt
+  50 portalclusters
+ 116 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (2.43%)
+Total clusters visible: 2226
+Average clusters visible: 44
+Building PAS...
+Average clusters audible: 50
+visdatasize:1108  compressed from 800
+writing c:\program files (x86)\steam\steamapps\common\source_sdk_maps\smi\mapsrc\dev_onkilled_player_assisted.bsp
+0 seconds elapsed

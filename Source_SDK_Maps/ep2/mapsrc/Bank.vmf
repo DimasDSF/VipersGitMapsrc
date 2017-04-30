@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "23"
+	"mapversion" "25"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "23"
+	"mapversion" "25"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -15428,6 +15428,158 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "21294"
+		side
+		{
+			"id" "3333"
+			"plane" "(-48 546 276) (-48 512 276) (279 512 276)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3332"
+			"plane" "(-48 512 276) (-48 546 276) (-48 546 277.991)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3331"
+			"plane" "(279 546 276) (279 512 276) (279 512 549)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3330"
+			"plane" "(-48 546 276) (279 546 276) (279 546 549)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3329"
+			"plane" "(279 512 276) (-48 512 276) (-48 512 277.991)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3328"
+			"plane" "(-48 512 277.991) (-48 546 277.991) (279 546 548.998)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 236 165"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "21298"
+		side
+		{
+			"id" "3334"
+			"plane" "(279 546 549) (449 546 549) (449 512 549)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3335"
+			"plane" "(279 512 276) (449 512 276) (449 546 276)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3336"
+			"plane" "(279 546 549) (279 512 549) (279 512 276)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3337"
+			"plane" "(449 546 276) (449 512 276) (449 512 549)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3338"
+			"plane" "(449 546 549) (279 546 549) (279 546 276)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3339"
+			"plane" "(449 512 276) (279 512 276) (279 512 549)"
+			"material" "CONCRETE/CONCRETEFLOOR016A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 122 151"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "15219"
@@ -16116,7 +16268,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-297 323.5 545.84"
+	"origin" "-297 323.5 545"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -16133,7 +16285,7 @@ entity
 		side
 		{
 			"id" "2032"
-			"plane" "(-444 422 549) (-150 422 549) (-150 225 549)"
+			"plane" "(-444 422 546) (-150 422 546) (-150 225 546)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 261.224] 0.574219"
 			"vaxis" "[0 -1 0 72.7716] 0.384766"
@@ -16144,7 +16296,7 @@ entity
 		side
 		{
 			"id" "2031"
-			"plane" "(-150 422 542.685) (-444 422 542.685) (-444 225 542.685)"
+			"plane" "(-150 422 544) (-444 422 544) (-444 225 544)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 261.224] 0.574219"
 			"vaxis" "[0 -1 0 72.7716] 0.384766"
@@ -16155,7 +16307,7 @@ entity
 		side
 		{
 			"id" "2030"
-			"plane" "(-150 422 549) (-444 422 549) (-444 422 542.685)"
+			"plane" "(-444 422 544) (-150 422 544) (-150 422 546)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 261.224] 0.574219"
 			"vaxis" "[0 0 -1 478.715] 0.0123341"
@@ -16166,7 +16318,7 @@ entity
 		side
 		{
 			"id" "2029"
-			"plane" "(-150 422 542.685) (-150 225 542.685) (-150 225 549)"
+			"plane" "(-150 422 544) (-150 225 544) (-150 225 546)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 -72.7715] 0.384766"
 			"vaxis" "[0 0 -1 478.715] 0.0123341"
@@ -16177,7 +16329,7 @@ entity
 		side
 		{
 			"id" "2028"
-			"plane" "(-150 225 542.685) (-444 225 542.685) (-444 225 549)"
+			"plane" "(-150 225 544) (-444 225 544) (-444 225 546)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 261.224] 0.574219"
 			"vaxis" "[0 0 -1 478.715] 0.0123341"
@@ -16188,7 +16340,7 @@ entity
 		side
 		{
 			"id" "2027"
-			"plane" "(-444 225 542.685) (-444 422 542.685) (-444 422 549)"
+			"plane" "(-444 225 544) (-444 422 544) (-444 422 546)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 -72.7715] 0.384766"
 			"vaxis" "[0 0 -1 478.715] 0.0123341"
@@ -17005,7 +17157,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-571 337 320.5"
+	"origin" "-573 337 320.5"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -17033,7 +17185,7 @@ entity
 		side
 		{
 			"id" "2091"
-			"plane" "(-566 398 277) (-566 276 277) (-566 276 364)"
+			"plane" "(-570 398 277) (-570 276 277) (-570 276 364)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 -134.295] 0.238281"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17044,7 +17196,7 @@ entity
 		side
 		{
 			"id" "2090"
-			"plane" "(-576 398 277) (-576 276 277) (-566 276 277)"
+			"plane" "(-576 398 277) (-576 276 277) (-570 276 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 134.295] 0.238281"
@@ -17055,7 +17207,7 @@ entity
 		side
 		{
 			"id" "2089"
-			"plane" "(-576 276 364) (-576 398 364) (-566 398 364)"
+			"plane" "(-576 276 364) (-576 398 364) (-570 398 364)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 134.295] 0.238281"
@@ -17066,7 +17218,7 @@ entity
 		side
 		{
 			"id" "2088"
-			"plane" "(-566 276 364) (-566 276 277) (-576 276 277)"
+			"plane" "(-570 276 364) (-570 276 277) (-576 276 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17077,7 +17229,7 @@ entity
 		side
 		{
 			"id" "2087"
-			"plane" "(-576 398 364) (-576 398 277) (-566 398 277)"
+			"plane" "(-576 398 364) (-576 398 277) (-570 398 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17115,7 +17267,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-571 214.5 320.5"
+	"origin" "-573 214.5 320.5"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -17143,7 +17295,7 @@ entity
 		side
 		{
 			"id" "2097"
-			"plane" "(-566 268 277) (-566 161 277) (-566 161 364)"
+			"plane" "(-570 268 277) (-570 161 277) (-570 161 364)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 -258.393] 0.208984"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17154,7 +17306,7 @@ entity
 		side
 		{
 			"id" "2096"
-			"plane" "(-576 268 277) (-576 161 277) (-566 161 277)"
+			"plane" "(-576 268 277) (-576 161 277) (-570 161 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 258.393] 0.208984"
@@ -17165,7 +17317,7 @@ entity
 		side
 		{
 			"id" "2095"
-			"plane" "(-576 161 364) (-576 268 364) (-566 268 364)"
+			"plane" "(-576 161 364) (-576 268 364) (-570 268 364)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 258.393] 0.208984"
@@ -17176,7 +17328,7 @@ entity
 		side
 		{
 			"id" "2094"
-			"plane" "(-576 268 364) (-576 268 277) (-566 268 277)"
+			"plane" "(-576 268 364) (-576 268 277) (-570 268 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17187,7 +17339,7 @@ entity
 		side
 		{
 			"id" "2093"
-			"plane" "(-566 161 364) (-566 161 277) (-576 161 277)"
+			"plane" "(-570 161 364) (-570 161 277) (-576 161 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17225,7 +17377,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-571 454 320.5"
+	"origin" "-573 454 320.5"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -17253,7 +17405,7 @@ entity
 		side
 		{
 			"id" "2103"
-			"plane" "(-566 502 277) (-566 406 277) (-566 406 364)"
+			"plane" "(-570 502 277) (-570 406 277) (-570 406 364)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 -117.333] 0.1875"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17264,7 +17416,7 @@ entity
 		side
 		{
 			"id" "2102"
-			"plane" "(-576 502 277) (-576 406 277) (-566 406 277)"
+			"plane" "(-576 502 277) (-576 406 277) (-570 406 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 117.333] 0.1875"
@@ -17275,7 +17427,7 @@ entity
 		side
 		{
 			"id" "2101"
-			"plane" "(-576 406 364) (-576 502 364) (-566 502 364)"
+			"plane" "(-576 406 364) (-576 502 364) (-570 502 364)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 117.333] 0.1875"
@@ -17286,7 +17438,7 @@ entity
 		side
 		{
 			"id" "2100"
-			"plane" "(-566 406 364) (-566 406 277) (-576 406 277)"
+			"plane" "(-570 406 364) (-570 406 277) (-576 406 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -17297,7 +17449,7 @@ entity
 		side
 		{
 			"id" "2099"
-			"plane" "(-576 502 364) (-576 502 277) (-566 502 277)"
+			"plane" "(-576 502 364) (-576 502 277) (-570 502 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 94.1609] 0.169922"
@@ -18505,8 +18657,9 @@ entity
 {
 	"id" "13959"
 	"classname" "info_node"
+	"angles" "0 0 0"
 	"nodeid" "59"
-	"origin" "-70.0732 318.168 76"
+	"origin" "-71 268 76"
 	editor
 	{
 		"color" "232 219 8"
@@ -21229,6 +21382,11 @@ entity
 	"squadname" "SWAT"
 	"targetname" "Roof_sold_1"
 	"waitingtorappel" "No"
+	connections
+	{
+		"OnDeath" "soldier_counter_sniper,Add,1,0,-1"
+		"OnDeath" "soldier_counter,Add,1,0,-1"
+	}
 	"origin" "433.945 390 676"
 	editor
 	{
@@ -21298,6 +21456,8 @@ entity
 	connections
 	{
 		"OnDeath" "balcony_relay,Enable,,0,-1"
+		"OnDeath" "soldier_counter,Add,1,0,-1"
+		"OnDeath" "soldier_counter_sniper,Add,1,0,-1"
 	}
 	"origin" "455.864 -963.951 821"
 	editor
@@ -21326,6 +21486,7 @@ entity
 	connections
 	{
 		"OnDeath" "soldier_counter,Add,1,0,-1"
+		"OnDeath" "soldier_counter_sniper,Add,1,0,-1"
 	}
 	"origin" "-804.27 468.7 63"
 	editor
@@ -21354,6 +21515,7 @@ entity
 	connections
 	{
 		"OnDeath" "soldier_counter,Add,1,0,-1"
+		"OnDeath" "soldier_counter_sniper,Add,1,0,-1"
 	}
 	"origin" "-838.507 418.023 63"
 	editor
@@ -21381,6 +21543,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
+		"OnDeath" "soldier_counter_sniper,Add,1,0,-1"
 		"OnDeath" "soldier_counter,Add,1,0,-1"
 	}
 	"origin" "-882.783 388.549 63"
@@ -21407,7 +21570,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-571 -244 409.5"
+	"origin" "-574.5 -244 409.5"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -21424,7 +21587,7 @@ entity
 		side
 		{
 			"id" "2188"
-			"plane" "(-576 151 542) (-566 151 542) (-566 -639 542)"
+			"plane" "(-576 -639 542) (-576 151 542) (-573 151 542)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 97.8633] 1.54297"
@@ -21435,7 +21598,7 @@ entity
 		side
 		{
 			"id" "2187"
-			"plane" "(-576 -639 277) (-566 -639 277) (-566 151 277)"
+			"plane" "(-576 151 277) (-576 -639 277) (-573 -639 277)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 97.8633] 1.54297"
@@ -21446,7 +21609,7 @@ entity
 		side
 		{
 			"id" "2186"
-			"plane" "(-576 151 542) (-576 -639 542) (-576 -639 277)"
+			"plane" "(-576 -639 277) (-576 151 277) (-576 151 542)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 414.137] 1.54297"
 			"vaxis" "[0 0 -1 23.1849] 0.517578"
@@ -21457,7 +21620,7 @@ entity
 		side
 		{
 			"id" "2185"
-			"plane" "(-566 151 277) (-566 -639 277) (-566 -639 542)"
+			"plane" "(-573 151 277) (-573 -639 277) (-573 -639 542)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 414.137] 1.54297"
 			"vaxis" "[0 0 -1 23.1849] 0.517578"
@@ -21468,7 +21631,7 @@ entity
 		side
 		{
 			"id" "2184"
-			"plane" "(-566 151 542) (-576 151 542) (-576 151 277)"
+			"plane" "(-576 151 277) (-573 151 277) (-573 151 542)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 23.1849] 0.517578"
@@ -21479,7 +21642,7 @@ entity
 		side
 		{
 			"id" "2183"
-			"plane" "(-566 -639 277) (-576 -639 277) (-576 -639 542)"
+			"plane" "(-573 -639 277) (-576 -639 277) (-576 -639 542)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 23.1849] 0.517578"
@@ -21737,7 +21900,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-571 -827 402"
+	"origin" "-574 -827 402"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -21765,7 +21928,7 @@ entity
 		side
 		{
 			"id" "2205"
-			"plane" "(-566 -707 356) (-566 -947 356) (-566 -947 448)"
+			"plane" "(-572 -707 356) (-572 -947 356) (-572 -947 448)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[0 1 0 484.267] 0.46875"
 			"vaxis" "[0 0 -1 445.217] 0.179688"
@@ -21776,7 +21939,7 @@ entity
 		side
 		{
 			"id" "2204"
-			"plane" "(-566 -947 448) (-566 -947 356) (-576 -947 356)"
+			"plane" "(-572 -947 448) (-572 -947 356) (-576 -947 356)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 445.217] 0.179688"
@@ -21787,7 +21950,7 @@ entity
 		side
 		{
 			"id" "2203"
-			"plane" "(-576 -947 448) (-576 -707 448) (-566 -707 448)"
+			"plane" "(-576 -947 448) (-576 -707 448) (-572 -707 448)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 -484.267] 0.46875"
@@ -21798,7 +21961,7 @@ entity
 		side
 		{
 			"id" "2202"
-			"plane" "(-576 -707 356) (-576 -947 356) (-566 -947 356)"
+			"plane" "(-576 -707 356) (-576 -947 356) (-572 -947 356)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 -1 0 -484.267] 0.46875"
@@ -21809,7 +21972,7 @@ entity
 		side
 		{
 			"id" "2201"
-			"plane" "(-576 -707 448) (-576 -707 356) (-566 -707 356)"
+			"plane" "(-576 -707 448) (-576 -707 356) (-572 -707 356)"
 			"material" "GLASS/COMBINEGLASS001A"
 			"uaxis" "[1 0 0 307.199] 0.0195313"
 			"vaxis" "[0 0 -1 445.217] 0.179688"
@@ -21847,6 +22010,11 @@ entity
 	"squadname" "SWAT"
 	"targetname" "Roof_sold_2"
 	"waitingtorappel" "No"
+	connections
+	{
+		"OnDeath" "soldier_counter,Add,1,0,-1"
+		"OnDeath" "soldier_counter_sniper,Add,1,0,-1"
+	}
 	"origin" "434.194 343 677"
 	editor
 	{
@@ -21871,6 +22039,11 @@ entity
 	"squadname" "SWAT"
 	"targetname" "Roof_sold_3"
 	"waitingtorappel" "No"
+	connections
+	{
+		"OnDeath" "soldier_counter_sniper,Add,1,0,-1"
+		"OnDeath" "soldier_counter,Add,1,0,-1"
+	}
 	"origin" "433.92 294 677"
 	editor
 	{
@@ -22589,6 +22762,7 @@ entity
 	"m_fMoveTo" "2"
 	"m_iszEntity" "balcony_soldier"
 	"m_iszEntry" "rappel_a_preIdle"
+	"m_iszIdle" "ACT_IDLE"
 	"m_iszPlay" "Rappel_d"
 	"spawnflags" "4164"
 	"targetname" "rappel_sequence"
@@ -24648,20 +24822,6 @@ entity
 }
 entity
 {
-	"id" "17107"
-	"classname" "info_node"
-	"nodeid" "280"
-	"origin" "542.308 159.805 78"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -13768]"
-	}
-}
-entity
-{
 	"id" "17109"
 	"classname" "info_node"
 	"nodeid" "281"
@@ -24672,20 +24832,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -13268]"
-	}
-}
-entity
-{
-	"id" "17111"
-	"classname" "info_node"
-	"nodeid" "282"
-	"origin" "538.175 -83.9886 78"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -12768]"
 	}
 }
 entity
@@ -24812,34 +24958,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -8268]"
-	}
-}
-entity
-{
-	"id" "17136"
-	"classname" "info_node"
-	"nodeid" "292"
-	"origin" "866.782 15.3211 78"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -7768]"
-	}
-}
-entity
-{
-	"id" "17138"
-	"classname" "info_node"
-	"nodeid" "293"
-	"origin" "873.095 124.627 78"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 -7268]"
 	}
 }
 entity
@@ -25780,6 +25898,7 @@ entity
 		"OnTrigger" "shotgun_sold_spawn,Enable,,60,1"
 		"OnTrigger" "ar2_sold_spawn,Enable,,60,1"
 		"OnTrigger" "sgm1_sold_spawn,Enable,,60,1"
+		"OnTrigger" "apc_spawn,ForceSpawn,,60,1"
 	}
 	"origin" "659.262 -594.734 370"
 	editor
@@ -26276,8 +26395,12 @@ entity
 	"physdamagescale" "1.0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
+	"RocketDelay" "1.5"
+	"RocketReloadTimeMult" "1.0"
+	"RocketSalvoSize" "5"
 	"spawnflags" "1313284"
 	"squadname" "swat"
+	"target" "chopper_track_4"
 	"targetname" "helicopter"
 	"origin" "274 -94.5997 872"
 	editor
@@ -26341,6 +26464,7 @@ entity
 	"classname" "npc_sniper"
 	"angles" "0 0 0"
 	"beambrightness" "220"
+	"IsShotVulnerable" "1"
 	"PaintInterval" "2.5"
 	"PaintIntervalVariance" "1.5"
 	"physdamagescale" "1.0"
@@ -26351,6 +26475,10 @@ entity
 	"spawnflags" "516"
 	"squadname" "swat"
 	"targetname" "sniper_1"
+	connections
+	{
+		"OnDeath" "soldier_counter_sniper,Enable,,0,-1"
+	}
 	"origin" "-1870 -292 701"
 	editor
 	{
@@ -26381,10 +26509,12 @@ entity
 	"id" "19204"
 	"classname" "math_counter"
 	"max" "20"
-	"targetname" "soldier_counter"
+	"targetname" "soldier_counter_sniper"
 	connections
 	{
-		"OnHitMax" "snper_1_template,ForceSpawn,,0,1"
+		"OnHitMax" "snper_1_template,ForceSpawn,,0,-1"
+		"OnHitMax" "soldier_counter,Disable,,0,-1"
+		"OnHitMax" "soldier_counter,SetValueNoFire,0,0,-1"
 	}
 	"origin" "-640 529.683 262.262"
 	editor
@@ -26491,7 +26621,7 @@ entity
 	"id" "20386"
 	"classname" "trigger_hurt"
 	"damage" "-1"
-	"damagecap" "-1"
+	"damagecap" "20"
 	"damagemodel" "0"
 	"damagetype" "0"
 	"nodmgforce" "1"
@@ -27921,6 +28051,505 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "21299"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "420"
+	"origin" "-50 529.555 292"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "21303"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "421"
+	"origin" "-9.00001 531.699 330.642"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2500]"
+	}
+}
+entity
+{
+	"id" "21305"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "422"
+	"origin" "26.5377 534.716 360.094"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "21307"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "423"
+	"origin" "88.0651 536.689 411.086"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "21309"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "424"
+	"origin" "143.478 538.488 457.01"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "21311"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "425"
+	"origin" "210.29 533.691 512.382"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4500]"
+	}
+}
+entity
+{
+	"id" "21313"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "426"
+	"origin" "267.746 532.344 560"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 5000]"
+	}
+}
+entity
+{
+	"id" "21315"
+	"classname" "info_node"
+	"nodeid" "427"
+	"origin" "336.137 527.583 550"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 5500]"
+	}
+}
+entity
+{
+	"id" "21317"
+	"classname" "info_node"
+	"nodeid" "428"
+	"origin" "315.867 470.576 550"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "21319"
+	"classname" "info_node"
+	"nodeid" "429"
+	"origin" "237.385 417.331 550"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6500]"
+	}
+}
+entity
+{
+	"id" "21362"
+	"classname" "item_suit"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-671 344 67.6238"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 7000]"
+	}
+}
+entity
+{
+	"id" "21366"
+	"classname" "weapon_357"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-666.94 326.04 65.4385"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 7500]"
+	}
+}
+entity
+{
+	"id" "21368"
+	"classname" "weapon_smg1"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-684.088 339.255 73.4192"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 8000]"
+	}
+}
+entity
+{
+	"id" "21370"
+	"classname" "weapon_shotgun"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-649.743 336.18 72.9646"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 8500]"
+	}
+}
+entity
+{
+	"id" "21384"
+	"classname" "npc_turret_floor"
+	"angles" "0 0 0"
+	"DelayOfForceTarget" "5.0"
+	"spawnflags" "544"
+	"TurnSpeed" "60.0"
+	"TurretMaxRange" "1500.0"
+	"origin" "547 280 78"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9500]"
+	}
+}
+entity
+{
+	"id" "21388"
+	"classname" "npc_turret_floor"
+	"angles" "0 0 0"
+	"DelayOfForceTarget" "5.0"
+	"spawnflags" "544"
+	"TurnSpeed" "60.0"
+	"TurretMaxRange" "1500.0"
+	"origin" "551 233 78"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 10000]"
+	}
+}
+entity
+{
+	"id" "21414"
+	"classname" "item_ammo_crate"
+	"AmmoMult" "1.0"
+	"AmmoType" "6"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"RemainingUses" "-1"
+	"spawnflags" "0"
+	"origin" "533 -984 335"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 10500]"
+	}
+}
+entity
+{
+	"id" "21432"
+	"classname" "item_ammo_crate"
+	"AmmoMult" "1.0"
+	"AmmoType" "4"
+	"angles" "0 91.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"RemainingUses" "-1"
+	"spawnflags" "0"
+	"origin" "577 -998 335"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 10500]"
+	}
+}
+entity
+{
+	"id" "21450"
+	"classname" "info_node_hint"
+	"angles" "0 0 0"
+	"hinttype" "100"
+	"IgnoreFacing" "2"
+	"MaximumState" "3"
+	"MinimumState" "1"
+	"nodeFOV" "180"
+	"nodeid" "430"
+	"spawnflags" "0"
+	"TargetNode" "-1"
+	"origin" "-77 315 75"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "21456"
+	"classname" "info_node_hint"
+	"angles" "0 0 0"
+	"hinttype" "100"
+	"IgnoreFacing" "2"
+	"MaximumState" "3"
+	"MinimumState" "1"
+	"nodeFOV" "180"
+	"nodeid" "431"
+	"spawnflags" "0"
+	"TargetNode" "-1"
+	"origin" "873.378 1.45261 77"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "21458"
+	"classname" "info_node_hint"
+	"angles" "0 0 0"
+	"hinttype" "100"
+	"IgnoreFacing" "2"
+	"MaximumState" "3"
+	"MinimumState" "1"
+	"nodeFOV" "180"
+	"nodeid" "432"
+	"spawnflags" "0"
+	"TargetNode" "-1"
+	"origin" "872.525 122.403 77"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "21460"
+	"classname" "info_node_hint"
+	"angles" "0 0 0"
+	"hinttype" "100"
+	"IgnoreFacing" "2"
+	"MaximumState" "3"
+	"MinimumState" "1"
+	"nodeFOV" "180"
+	"nodeid" "433"
+	"spawnflags" "0"
+	"TargetNode" "-1"
+	"origin" "540.912 153.16 77"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "21462"
+	"classname" "info_node_hint"
+	"angles" "0 0 0"
+	"hinttype" "100"
+	"IgnoreFacing" "2"
+	"MaximumState" "3"
+	"MinimumState" "1"
+	"nodeFOV" "180"
+	"nodeid" "434"
+	"spawnflags" "0"
+	"TargetNode" "-1"
+	"origin" "532 -71 77"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "21466"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"target" "apc_track_2"
+	"targetname" "apc_track_1"
+	"origin" "-1432 812 72"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11000]"
+	}
+}
+entity
+{
+	"id" "21478"
+	"classname" "path_track"
+	"angles" "0 0 0"
+	"orientationtype" "1"
+	"targetname" "apc_track_2"
+	connections
+	{
+		"OnPass" "apc1_driver,SetDriversMaxSpeed,0,0,-1"
+	}
+	"origin" "-1271 -276 72"
+	editor
+	{
+		"color" "255 192 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11000]"
+	}
+}
+entity
+{
+	"id" "21496"
+	"classname" "prop_vehicle_apc"
+	"actionScale" "1"
+	"angles" "0 183 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/combine_apc.mdl"
+	"origin" "-1441 961.01 75"
+	"skin" "0"
+	"solid" "6"
+	"targetname" "apc1"
+	"VehicleLocked" "1"
+	"vehiclescript" "scripts/vehicles/jeep_test.txt"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "21522"
+	"classname" "npc_apcdriver"
+	"angles" "0 0 0"
+	"drivermaxspeed" "1"
+	"physdamagescale" "1.0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"spawnflags" "65536"
+	"targetname" "apc1_driver"
+	"vehicle" "apc1"
+	"origin" "-1356.33 958.513 76.848"
+	editor
+	{
+		"color" "0 200 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12000]"
+	}
+}
+entity
+{
+	"id" "21535"
+	"classname" "point_template"
+	"spawnflags" "2"
+	"targetname" "apc_spawn"
+	"Template01" "apc1"
+	"Template02" "apc1_driver"
+	connections
+	{
+		"OnEntitySpawned" "apc1_driver,GotoPathCorner,apc_track_2,0,1"
+	}
+	"origin" "-1302.83 1028.05 72"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
 	}
 }
 cameras

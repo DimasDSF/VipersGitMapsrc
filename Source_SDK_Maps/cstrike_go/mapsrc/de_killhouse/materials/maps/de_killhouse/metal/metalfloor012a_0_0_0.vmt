@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALFLOOR012A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/de_killhouse/c0_0_0"
+	}
+}

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "9"
+	"mapversion" "13"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "9"
+	"mapversion" "13"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -880,6 +880,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"RemainingUses" "-1"
+	"spawnflags" "0"
 	"origin" "-154.073 182 47.2497"
 	editor
 	{
@@ -913,6 +914,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"RemainingUses" "0"
+	"spawnflags" "131072"
 	"origin" "-154.073 126 47.2497"
 	editor
 	{
@@ -946,6 +948,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"RemainingUses" "0"
+	"spawnflags" "131072"
 	"targetname" "crate"
 	"origin" "-153.975 70 47.2497"
 	editor
@@ -1083,24 +1086,6 @@ entity
 }
 entity
 {
-	"id" "210"
-	"classname" "item_ammo_crate"
-	"AmmoMult" "0.1"
-	"angles" "0 180 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"RemainingUses" "-1"
-	"origin" "-153.975 14 47.2497"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
 	"id" "212"
 	"classname" "point_message"
 	"message" "This one only gives x0.1 ammo"
@@ -1117,31 +1102,15 @@ entity
 }
 entity
 {
-	"id" "230"
+	"id" "210"
 	"classname" "item_ammo_crate"
-	"AmmoMult" "1"
-	"AmmoType" "5"
+	"AmmoMult" "0.1"
 	"angles" "0 180 0"
 	"fademindist" "-1"
 	"fadescale" "1"
 	"RemainingUses" "-1"
-	"origin" "-153.975 -42 47.2497"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "232"
-	"classname" "point_message"
-	"message" "This one only gives x0.1 ammo"
-	"radius" "256"
 	"spawnflags" "0"
-	"origin" "-145 -43.87 88"
+	"origin" "-153.975 14 47.2497"
 	editor
 	{
 		"color" "220 30 220"

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "8"
+	"mapversion" "12"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "8"
+	"mapversion" "12"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1083,14 +1083,12 @@ entity
 }
 entity
 {
-	"id" "210"
-	"classname" "item_ammo_crate"
-	"AmmoMult" "0.1"
-	"angles" "0 180 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"RemainingUses" "-1"
-	"origin" "-153.975 14 47.2497"
+	"id" "212"
+	"classname" "point_message"
+	"message" "This one only gives x0.1 ammo"
+	"radius" "256"
+	"spawnflags" "0"
+	"origin" "-145 12.13 88"
 	editor
 	{
 		"color" "220 30 220"
@@ -1101,12 +1099,14 @@ entity
 }
 entity
 {
-	"id" "212"
-	"classname" "point_message"
-	"message" "This one only gives x0.1 ammo"
-	"radius" "256"
-	"spawnflags" "0"
-	"origin" "-145 12.13 88"
+	"id" "210"
+	"classname" "item_ammo_crate"
+	"AmmoMult" "0.1"
+	"angles" "0 180 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"RemainingUses" "-1"
+	"origin" "-153.975 14 47.2497"
 	editor
 	{
 		"color" "220 30 220"

@@ -1,0 +1,1371 @@
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 61
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29640 Square Feet [4268299.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35153156, max 2959
+transfer lists: 268.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(140308, 109336, 61377)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29060, 20784, 10007)
+Build Patch/Sample Hash Table(s).....Done<0.0191 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                61/1024        21472/360448   ( 6.0%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       75794/393216   (19.3%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18875/65536      528500/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+57 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 63
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29638 Square Feet [4268000.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35190892, max 2960
+transfer lists: 268.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144172, 112465, 63309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29952, 21454, 10353)
+Build Patch/Sample Hash Table(s).....Done<0.0104 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                61/1024        21472/360448   ( 6.0%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       74418/393216   (18.9%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18877/65536      528556/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+55 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 64
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29638 Square Feet [4268000.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35190892, max 2960
+transfer lists: 268.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144172, 112465, 63309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29952, 21454, 10353)
+Build Patch/Sample Hash Table(s).....Done<0.0131 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                59/1024        20768/360448   ( 5.8%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       74426/393216   (18.9%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18877/65536      528556/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+1 minute, 3 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 66
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29638 Square Feet [4268000.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35190892, max 2960
+transfer lists: 268.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144172, 112465, 63309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29952, 21454, 10353)
+Build Patch/Sample Hash Table(s).....Done<0.0109 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                59/1024        20768/360448   ( 5.8%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       75402/393216   (19.2%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18877/65536      528556/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+58 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 67
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29638 Square Feet [4268000.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35190892, max 2960
+transfer lists: 268.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144172, 112465, 63309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29952, 21454, 10353)
+Build Patch/Sample Hash Table(s).....Done<0.0099 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                59/1024        20768/360448   ( 5.8%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       75602/393216   (19.2%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18877/65536      528556/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+56 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 68
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29638 Square Feet [4268000.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35190892, max 2960
+transfer lists: 268.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144172, 112465, 63309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29952, 21454, 10353)
+Build Patch/Sample Hash Table(s).....Done<0.0201 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                59/1024        20768/360448   ( 5.8%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       75798/393216   (19.3%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18877/65536      528556/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+55 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 70
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29638 Square Feet [4268000.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35190892, max 2960
+transfer lists: 268.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144172, 112465, 63309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29952, 21454, 10353)
+Build Patch/Sample Hash Table(s).....Done<0.0162 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                59/1024        20768/360448   ( 5.8%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       75798/393216   (19.3%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18877/65536      528556/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+1 minute, 1 second elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.vmf
+Map revision 71
+Material not found!: MITRICHONE/MP_KILLHOUSE/DE_CACHE_TELA_02
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (623847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 711 texinfos to 409
+Reduced 91 texdatas to 81 (3031 bytes to 2743)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.prt
+2533 portalclusters
+8873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54362 visible clusters (0.00%)
+Total clusters visible: 6025977
+Average clusters visible: 2378
+Building PAS...
+Average clusters audible: 2533
+visdatasize:1614244  compressed from 1621120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+10567 faces
+459206 square feet [66125672.00 square inches]
+30 Displacements
+29638 Square Feet [4268000.00 Square Inches]
+10567 patches before subdivision
+51693 patches after subdivision
+21 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35190892, max 2960
+transfer lists: 268.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144172, 112465, 63309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29952, 21454, 10353)
+Build Patch/Sample Hash Table(s).....Done<0.0111 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  49/1024         2352/49152    ( 4.8%) 
+brushes               1659/8192        19908/98304    (20.3%) 
+brushsides           15165/65536      121320/524288   (23.1%) 
+planes                7894/65536      157880/1310720  (12.0%) 
+vertexes             16520/65536      198240/786432   (25.2%) 
+nodes                 4932/65536      157824/2097152  ( 7.5%) 
+texinfos               409/12288       29448/884736   ( 3.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2430/0           48600/0        ( 0.0%) 
+disp_tris             3840/0            7680/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       74248/0           74248/0        ( 0.0%) 
+faces                10567/65536      591752/3670016  (16.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6136/65536      343616/3670016  ( 9.4%) 
+facebrushes            815/0            1630/0        ( 0.0%) 
+facebrushlists       10567/0           42268/0        ( 0.0%) 
+leaves                4982/65536      159424/2097152  ( 7.6%) 
+leaffaces            14192/65536       28384/131072   (21.7%) 
+leafbrushes           6737/65536       13474/131072   (10.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79896/512000     319584/2048000  (15.6%) 
+edges                45210/256000     180840/1024000  (17.7%) 
+LDR worldlights         21/8192         2100/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1163/32768       11630/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27348/65536       54696/131072   (41.7%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                59/1024        20768/360448   ( 5.8%) 
+LDR lightdata         [variable]     3322972/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1614244/16777216 ( 9.6%) 
+entdata               [variable]       75798/393216   (19.3%) 
+LDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+HDR ambient table     4982/65536       19928/262144   ( 7.6%) 
+LDR leaf ambient     18877/65536      528556/1835008  (28.8%) 
+HDR leaf ambient      4982/65536      139496/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11204    ( 0.0%) 
+pakfile               [variable]      455546/0        ( 0.0%) 
+physics               [variable]      623847/4194304  (14.9%) 
+physics terrain       [variable]        4434/1048576  ( 0.4%) 
+
+Level flags = 4
+
+Total triangle count: 34206
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\de_killhousevwinter.bsp
+59 seconds elapsed

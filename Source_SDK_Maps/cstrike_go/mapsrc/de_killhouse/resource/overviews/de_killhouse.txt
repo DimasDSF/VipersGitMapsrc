@@ -1,0 +1,7 @@
+"de_killhouse"
+{
+"material" "overviews/de_killhouse"
+"pos_x" "-2015"
+"pos_y" "2015"
+"scale" "5.25"
+}

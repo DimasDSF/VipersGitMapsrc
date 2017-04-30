@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "123"
+	"mapversion" "124"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "123"
+	"mapversion" "124"
 	"classname" "worldspawn"
 	"chaptertitle" "You find yourself on the floor without suit, blood is around you"
 	"detailmaterial" "detail/detailsprites"
@@ -54350,7 +54350,7 @@ entity
 	"id" "56069"
 	"classname" "npc_launcher"
 	"angles" "0 0 0"
-	"Damage" "300"
+	"Damage" "500"
 	"DamageRadius" "200"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -54358,7 +54358,7 @@ entity
 	"Gravity" "1.0"
 	"hintlimiting" "0"
 	"HomingDelay" "0.1"
-	"HomingDuration" "10"
+	"HomingDuration" "25"
 	"HomingRampDown" "1.5"
 	"HomingRampUp" "0.5"
 	"HomingSpeed" "250"
@@ -55806,8 +55806,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3204.16 3973.51 -2570.07]"
-		"look" "[3223.01 4218.5 -2450.23]"
+		"position" "[1026.15 3249.06 -2114.38]"
+		"look" "[753.537 3268.12 -2122.01]"
 	}
 }
 cordon
