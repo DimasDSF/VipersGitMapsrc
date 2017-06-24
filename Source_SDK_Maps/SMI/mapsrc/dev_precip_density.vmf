@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "3"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "3"
+	"mapversion" "9"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -165,7 +165,7 @@ world
 		{
 			"id" "49"
 			"plane" "(480 480 32) (480 -480 32) (-480 -480 32)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -231,7 +231,7 @@ world
 		{
 			"id" "56"
 			"plane" "(-480 512 256) (-480 512 32) (-480 -512 32)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -385,7 +385,7 @@ world
 		{
 			"id" "68"
 			"plane" "(480 -512 256) (480 -512 32) (480 512 32)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -539,7 +539,7 @@ world
 		{
 			"id" "80"
 			"plane" "(480 480 32) (-480 480 32) (-480 480 256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -693,7 +693,7 @@ world
 		{
 			"id" "92"
 			"plane" "(-480 -480 32) (480 -480 32) (480 -480 256)"
-			"material" "DEV/DEV_MEASUREGENERIC01"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -875,9 +875,10 @@ entity
 {
 	"id" "84"
 	"classname" "func_precipitation"
-	"density" "0.01"
+	"alpha" "25"
 	"preciptype" "0"
 	"rendercolor" "100 100 100"
+	"targetname" "rain2"
 	solid
 	{
 		"id" "80"
@@ -966,9 +967,10 @@ entity
 {
 	"id" "90"
 	"classname" "func_precipitation"
-	"density" "0.20"
+	"alpha" "255"
 	"preciptype" "0"
 	"rendercolor" "100 100 100"
+	"targetname" "rain1"
 	solid
 	{
 		"id" "78"

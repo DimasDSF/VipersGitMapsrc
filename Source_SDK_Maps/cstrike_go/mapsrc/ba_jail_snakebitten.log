@@ -1,0 +1,4020 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 20
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149040 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 892 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 21
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149040 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 892 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 22
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 23
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 26
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 27
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 27
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149587 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 28
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149586 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3689 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51716 visible clusters (0.00%)
+Total clusters visible: 730188
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 32
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149586 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 33
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149586 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 34
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149586 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 35
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149586 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 37
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (150370 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 39
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (150370 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 40
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (150370 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 41
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (150370 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 898 texinfos to 551
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1074 portalclusters
+3685 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 51715 visible clusters (0.00%)
+Total clusters visible: 730189
+Average clusters visible: 679
+Building PAS...
+Average clusters audible: 1030
+visdatasize:276442  compressed from 292128
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 43
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (151938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 567
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1087 portalclusters
+3744 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52151 visible clusters (0.00%)
+Total clusters visible: 751038
+Average clusters visible: 690
+Building PAS...
+Average clusters audible: 1044
+visdatasize:281716  compressed from 295664
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 44
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (151938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 567
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1087 portalclusters
+3744 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52151 visible clusters (0.00%)
+Total clusters visible: 751038
+Average clusters visible: 690
+Building PAS...
+Average clusters audible: 1044
+visdatasize:281716  compressed from 295664
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 46
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (151938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 567
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1087 portalclusters
+3744 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52151 visible clusters (0.00%)
+Total clusters visible: 751038
+Average clusters visible: 690
+Building PAS...
+Average clusters audible: 1044
+visdatasize:281716  compressed from 295664
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 47
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (152658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 567
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1088 portalclusters
+3745 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52760 visible clusters (0.00%)
+Total clusters visible: 752364
+Average clusters visible: 691
+Building PAS...
+Average clusters audible: 1045
+visdatasize:282124  compressed from 295936
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 48
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (152658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 567
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1088 portalclusters
+3745 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52760 visible clusters (0.00%)
+Total clusters visible: 752364
+Average clusters visible: 691
+Building PAS...
+Average clusters audible: 1045
+visdatasize:282124  compressed from 295936
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 50
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (152658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 567
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1088 portalclusters
+3745 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52760 visible clusters (0.00%)
+Total clusters visible: 752364
+Average clusters visible: 691
+Building PAS...
+Average clusters audible: 1045
+visdatasize:282124  compressed from 295936
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 50
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (152658 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 567
+Reduced 41 texdatas to 41 (1073 bytes to 1073)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1088 portalclusters
+3745 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52760 visible clusters (0.00%)
+Total clusters visible: 752364
+Average clusters visible: 691
+Building PAS...
+Average clusters audible: 1045
+visdatasize:282124  compressed from 295936
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 52
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157103 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 579
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1104 portalclusters
+3825 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 57562 visible clusters (0.00%)
+Total clusters visible: 754606
+Average clusters visible: 683
+Building PAS...
+Average clusters audible: 1060
+visdatasize:286734  compressed from 317952
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 53
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157103 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 579
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1104 portalclusters
+3825 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 57562 visible clusters (0.00%)
+Total clusters visible: 754606
+Average clusters visible: 683
+Building PAS...
+Average clusters audible: 1060
+visdatasize:286734  compressed from 317952
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 54
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157103 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 579
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1104 portalclusters
+3825 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 57562 visible clusters (0.00%)
+Total clusters visible: 754606
+Average clusters visible: 683
+Building PAS...
+Average clusters audible: 1060
+visdatasize:286734  compressed from 317952
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 55
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (157103 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 579
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1104 portalclusters
+3825 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 57562 visible clusters (0.00%)
+Total clusters visible: 754606
+Average clusters visible: 683
+Building PAS...
+Average clusters audible: 1060
+visdatasize:286734  compressed from 317952
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 56
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (162778 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 975 texinfos to 592
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1115 portalclusters
+3853 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 59119 visible clusters (0.00%)
+Total clusters visible: 769194
+Average clusters visible: 689
+Building PAS...
+Average clusters audible: 1070
+visdatasize:293751  compressed from 321120
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 57
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (162810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 975 texinfos to 592
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1116 portalclusters
+3859 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 59091 visible clusters (0.00%)
+Total clusters visible: 772455
+Average clusters visible: 692
+Building PAS...
+Average clusters audible: 1072
+visdatasize:293822  compressed from 321408
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 59
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (162810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 975 texinfos to 592
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1116 portalclusters
+3859 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 59091 visible clusters (0.00%)
+Total clusters visible: 772455
+Average clusters visible: 692
+Building PAS...
+Average clusters audible: 1072
+visdatasize:293822  compressed from 321408
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 60
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (162810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 975 texinfos to 592
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1116 portalclusters
+3859 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 59091 visible clusters (0.00%)
+Total clusters visible: 772455
+Average clusters visible: 692
+Building PAS...
+Average clusters audible: 1072
+visdatasize:293822  compressed from 321408
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 61
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (162810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 975 texinfos to 592
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1116 portalclusters
+3859 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 59091 visible clusters (0.00%)
+Total clusters visible: 772455
+Average clusters visible: 692
+Building PAS...
+Average clusters audible: 1072
+visdatasize:293822  compressed from 321408
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 61
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (162810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 975 texinfos to 592
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1116 portalclusters
+3859 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 59091 visible clusters (0.00%)
+Total clusters visible: 772455
+Average clusters visible: 692
+Building PAS...
+Average clusters audible: 1072
+visdatasize:293822  compressed from 321408
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 62
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (162810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 975 texinfos to 592
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1116 portalclusters
+3859 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 59091 visible clusters (0.00%)
+Total clusters visible: 772455
+Average clusters visible: 692
+Building PAS...
+Average clusters audible: 1072
+visdatasize:293822  compressed from 321408
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 64
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (164192 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 995 texinfos to 599
+Reduced 42 texdatas to 42 (1092 bytes to 1092)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1103 portalclusters
+3814 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54214 visible clusters (0.00%)
+Total clusters visible: 743719
+Average clusters visible: 674
+Building PAS...
+Average clusters audible: 1057
+visdatasize:286635  compressed from 317664
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 66
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (187919 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1075 texinfos to 641
+Reduced 48 texdatas to 46 (1275 bytes to 1171)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1057 portalclusters
+3592 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 60992 visible clusters (0.00%)
+Total clusters visible: 777493
+Average clusters visible: 735
+Building PAS...
+Average clusters audible: 1043
+visdatasize:271167  compressed from 287504
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 67
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (187919 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1077 texinfos to 641
+Reduced 48 texdatas to 46 (1275 bytes to 1171)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1057 portalclusters
+3592 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 60992 visible clusters (0.00%)
+Total clusters visible: 777493
+Average clusters visible: 735
+Building PAS...
+Average clusters audible: 1043
+visdatasize:271167  compressed from 287504
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 68
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (187919 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1077 texinfos to 641
+Reduced 48 texdatas to 46 (1275 bytes to 1171)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1057 portalclusters
+3592 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 60992 visible clusters (0.00%)
+Total clusters visible: 777493
+Average clusters visible: 735
+Building PAS...
+Average clusters audible: 1043
+visdatasize:271167  compressed from 287504
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 69
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (187919 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1077 texinfos to 641
+Reduced 48 texdatas to 46 (1275 bytes to 1171)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1057 portalclusters
+3592 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 60992 visible clusters (0.00%)
+Total clusters visible: 777493
+Average clusters visible: 735
+Building PAS...
+Average clusters audible: 1043
+visdatasize:271167  compressed from 287504
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 71
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (195228 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1098 texinfos to 645
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1068 portalclusters
+3620 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69318 visible clusters (0.00%)
+Total clusters visible: 816836
+Average clusters visible: 764
+Building PAS...
+Average clusters audible: 1061
+visdatasize:277506  compressed from 290496
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 72
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (195228 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1098 texinfos to 645
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1068 portalclusters
+3620 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69318 visible clusters (0.00%)
+Total clusters visible: 816836
+Average clusters visible: 764
+Building PAS...
+Average clusters audible: 1061
+visdatasize:277506  compressed from 290496
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 73
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (195228 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1098 texinfos to 645
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1068 portalclusters
+3620 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69318 visible clusters (0.00%)
+Total clusters visible: 816836
+Average clusters visible: 764
+Building PAS...
+Average clusters audible: 1061
+visdatasize:277506  compressed from 290496
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 74
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (195228 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1098 texinfos to 645
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1068 portalclusters
+3620 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69318 visible clusters (0.00%)
+Total clusters visible: 816836
+Average clusters visible: 764
+Building PAS...
+Average clusters audible: 1061
+visdatasize:277506  compressed from 290496
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 75
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (206030 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1147 texinfos to 682
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1105 portalclusters
+3750 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 71835 visible clusters (0.00%)
+Total clusters visible: 900234
+Average clusters visible: 814
+Building PAS...
+Average clusters audible: 1100
+visdatasize:298590  compressed from 318240
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 76
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (207078 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1147 texinfos to 682
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1105 portalclusters
+3700 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 71737 visible clusters (0.00%)
+Total clusters visible: 898856
+Average clusters visible: 813
+Building PAS...
+Average clusters audible: 1100
+visdatasize:298424  compressed from 318240
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 76
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (207078 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1147 texinfos to 682
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1105 portalclusters
+3700 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 71737 visible clusters (0.00%)
+Total clusters visible: 898856
+Average clusters visible: 813
+Building PAS...
+Average clusters audible: 1100
+visdatasize:298424  compressed from 318240
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 77
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (207766 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1147 texinfos to 682
+Reduced 47 texdatas to 45 (1249 bytes to 1145)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1108 portalclusters
+3743 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 72332 visible clusters (0.00%)
+Total clusters visible: 903212
+Average clusters visible: 815
+Building PAS...
+Average clusters audible: 1103
+visdatasize:299250  compressed from 319104
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 78
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (211823 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1178 texinfos to 696
+Reduced 48 texdatas to 46 (1267 bytes to 1163)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1108 portalclusters
+3743 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 72332 visible clusters (0.00%)
+Total clusters visible: 903212
+Average clusters visible: 815
+Building PAS...
+Average clusters audible: 1103
+visdatasize:299250  compressed from 319104
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 79
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (211630 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1175 texinfos to 696
+Reduced 48 texdatas to 46 (1267 bytes to 1163)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1108 portalclusters
+3743 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 72332 visible clusters (0.00%)
+Total clusters visible: 903212
+Average clusters visible: 815
+Building PAS...
+Average clusters audible: 1103
+visdatasize:299250  compressed from 319104
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 80
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (211630 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1175 texinfos to 696
+Reduced 48 texdatas to 46 (1267 bytes to 1163)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1108 portalclusters
+3743 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 72332 visible clusters (0.00%)
+Total clusters visible: 903212
+Average clusters visible: 815
+Building PAS...
+Average clusters audible: 1103
+visdatasize:299250  compressed from 319104
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 81
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (211630 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1175 texinfos to 696
+Reduced 48 texdatas to 46 (1267 bytes to 1163)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1108 portalclusters
+3743 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 72332 visible clusters (0.00%)
+Total clusters visible: 903212
+Average clusters visible: 815
+Building PAS...
+Average clusters audible: 1103
+visdatasize:299250  compressed from 319104
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 82
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (215656 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1192 texinfos to 707
+Reduced 48 texdatas to 46 (1261 bytes to 1163)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1122 portalclusters
+3786 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 75574 visible clusters (0.00%)
+Total clusters visible: 927858
+Average clusters visible: 826
+Building PAS...
+Average clusters audible: 1117
+visdatasize:307898  compressed from 323136
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 84
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (215656 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1194 texinfos to 709
+Reduced 48 texdatas to 46 (1261 bytes to 1163)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1122 portalclusters
+3786 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 75574 visible clusters (0.00%)
+Total clusters visible: 927858
+Average clusters visible: 826
+Building PAS...
+Average clusters audible: 1117
+visdatasize:307898  compressed from 323136
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 87
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 88
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 89
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 90
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 91
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 91
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 92
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 93
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (217976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1201 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 95
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (224550 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1263 texinfos to 718
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 96
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (224550 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1265 texinfos to 718
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 97
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (224553 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1265 texinfos to 718
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 98
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (223999 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1262 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 99
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (224000 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1263 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 101
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (225099 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1273 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 102
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (225099 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1274 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 104
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (225691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1274 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 105
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (225691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1274 texinfos to 715
+Reduced 48 texdatas to 47 (1230 bytes to 1183)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1136 portalclusters
+3836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 77311 visible clusters (0.00%)
+Total clusters visible: 950627
+Average clusters visible: 836
+Building PAS...
+Average clusters audible: 1131
+visdatasize:313275  compressed from 327168
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 107
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (227083 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1216 portalclusters
+4036 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90860 visible clusters (0.00%)
+Total clusters visible: 1090494
+Average clusters visible: 896
+Building PAS...
+Average clusters audible: 1211
+visdatasize:356758  compressed from 369664
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 108
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (227083 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1216 portalclusters
+4036 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90860 visible clusters (0.00%)
+Total clusters visible: 1090494
+Average clusters visible: 896
+Building PAS...
+Average clusters audible: 1211
+visdatasize:356758  compressed from 369664
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 109
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (227147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1236 portalclusters
+4112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93846 visible clusters (0.00%)
+Total clusters visible: 1129536
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 1231
+visdatasize:368422  compressed from 395520
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 110
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (227147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1236 portalclusters
+4112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93846 visible clusters (0.00%)
+Total clusters visible: 1129536
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 1231
+visdatasize:368422  compressed from 395520
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 111
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (227147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1236 portalclusters
+4112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93846 visible clusters (0.00%)
+Total clusters visible: 1129536
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 1231
+visdatasize:368422  compressed from 395520
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 112
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (227147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1236 portalclusters
+4112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93846 visible clusters (0.00%)
+Total clusters visible: 1129536
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 1231
+visdatasize:368422  compressed from 395520
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 113
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (227147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1236 portalclusters
+4112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93846 visible clusters (0.00%)
+Total clusters visible: 1129536
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 1231
+visdatasize:368422  compressed from 395520
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 114
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (227147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1277 texinfos to 718
+Reduced 49 texdatas to 48 (1251 bytes to 1204)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1236 portalclusters
+4112 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93846 visible clusters (0.00%)
+Total clusters visible: 1129536
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 1231
+visdatasize:368422  compressed from 395520
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 125
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258115 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1493 texinfos to 823
+Reduced 56 texdatas to 54 (1486 bytes to 1376)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1318 portalclusters
+4390 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 109971 visible clusters (0.00%)
+Total clusters visible: 1266987
+Average clusters visible: 961
+Building PAS...
+Average clusters audible: 1314
+visdatasize:417693  compressed from 442848
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 126
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258115 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1493 texinfos to 823
+Reduced 56 texdatas to 54 (1486 bytes to 1376)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1318 portalclusters
+4390 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 109958 visible clusters (0.00%)
+Total clusters visible: 1267076
+Average clusters visible: 961
+Building PAS...
+Average clusters audible: 1314
+visdatasize:417689  compressed from 442848
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 128
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258116 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1493 texinfos to 823
+Reduced 56 texdatas to 54 (1452 bytes to 1349)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1309 portalclusters
+4353 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105407 visible clusters (0.00%)
+Total clusters visible: 1256458
+Average clusters visible: 959
+Building PAS...
+Average clusters audible: 1305
+visdatasize:411818  compressed from 439824
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 129
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258116 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1493 texinfos to 823
+Reduced 56 texdatas to 54 (1453 bytes to 1352)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1309 portalclusters
+4353 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105407 visible clusters (0.00%)
+Total clusters visible: 1256458
+Average clusters visible: 959
+Building PAS...
+Average clusters audible: 1305
+visdatasize:411818  compressed from 439824
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 130
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258116 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1493 texinfos to 823
+Reduced 56 texdatas to 54 (1460 bytes to 1353)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1309 portalclusters
+4353 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105407 visible clusters (0.00%)
+Total clusters visible: 1256458
+Average clusters visible: 959
+Building PAS...
+Average clusters audible: 1305
+visdatasize:411818  compressed from 439824
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 131
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (258116 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1493 texinfos to 823
+Reduced 56 texdatas to 54 (1495 bytes to 1380)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1309 portalclusters
+4353 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105407 visible clusters (0.00%)
+Total clusters visible: 1256458
+Average clusters visible: 959
+Building PAS...
+Average clusters audible: 1305
+visdatasize:411818  compressed from 439824
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 132
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (340644 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2008 texinfos to 1277
+Reduced 57 texdatas to 55 (1533 bytes to 1418)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+1880 portalclusters
+6398 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 433563 visible clusters (0.00%)
+Total clusters visible: 2367815
+Average clusters visible: 1259
+Building PAS...
+Average clusters audible: 1872
+visdatasize:795496  compressed from 902400
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 133
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (2699.00 -514.00 -137.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (346788 bytes)
+Error! prop_static using model "models/props/cs_assault/moneypallet02.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_assault/moneypallet02.mdl"!
+Error! prop_static using model "models/props/cs_assault/money.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_assault/money.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2047 texinfos to 1316
+Reduced 64 texdatas to 62 (1706 bytes to 1591)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+LoadPortals: couldn't read c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.vmf
+Map revision 134
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (347764 bytes)
+Error! prop_static using model "models/props/cs_assault/moneypallet02.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_assault/moneypallet02.mdl"!
+Error! prop_static using model "models/props/cs_assault/money.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_assault/money.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2050 texinfos to 1317
+Reduced 65 texdatas to 63 (1728 bytes to 1613)
+Writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+reading c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.prt
+2027 portalclusters
+6770 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 494318 visible clusters (0.00%)
+Total clusters visible: 2793467
+Average clusters visible: 1378
+Building PAS...
+Average clusters audible: 2020
+visdatasize:929948  compressed from 1037824
+writing c:\users\viper\documents\github\vipersgitmapsrc\source_sdk_maps\cstrike_go\mapsrc\ba_jail_snakebitten.bsp
+1 second elapsed
